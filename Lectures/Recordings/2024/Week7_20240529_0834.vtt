@@ -1,0 +1,1513 @@
+WEBVTT
+
+1 "Mohd Fareq Abd Malek" (1040536064)
+00:01:41.400 --> 00:02:01.400
+Other. So shouldn't they.
+
+2 "Mohd Fareq Abd Malek" (1040536064)
+00:02:01.400 --> 00:02:05.670
+They use their charge and.
+
+3 "Mohd Fareq Abd Malek" (1040536064)
+00:02:05.670 --> 00:02:25.290
+253.
+
+4 "Mohd Fareq Abd Malek" (1040536064)
+00:02:25.290 --> 00:02:44.880
+Okay, this is at the, at the point, those, the the objective of this question is to find.
+
+5 "Mohd Fareq Abd Malek" (1040536064)
+00:02:44.880 --> 00:03:04.880
+Before it, before the switch moved to .2, just like few microseconds like we want to know before to .2, what is the voltage? No, yeah, it says. 21.5 point.
+
+6 "Mohd Fareq Abd Malek" (1040536064)
+00:03:04.880 --> 00:03:16.530
+So it says it's from here, it starts discharging. Discharging this after that, but before that we they want to know.
+
+7 "Mohd Fareq Abd Malek" (1040536064)
+00:03:16.530 --> 00:03:35.310
+Because it's not yet started discharging. Just before the point of discharging, we are still governed by the the charging question. When we are governed by the charging equation, we are not so much from the equation, but we want to know the 21.51 v.
+
+8 "Mohd Fareq Abd Malek" (1040536064)
+00:03:35.310 --> 00:03:51.120
+That's the starting point. So then in the part D, this 21.51 vote is the amplitude, then now it's discharging. And here why shouldn't they do the negative? Shouldn't it be negative?
+
+9 "Mohd Fareq Abd Malek" (1040536064)
+00:03:51.120 --> 00:04:11.120
+The overall not the overall because 40 it's.
+
+10 "Mohd Fareq Abd Malek" (1040536064)
+00:04:11.120 --> 00:04:28.199
+Okay, I will check back to this, I will get back to you on this. The only only issue is the negative, right? Yeah, but it's supposed to be negative, right? Yes yes. Okay.
+
+11 "Mohd Fareq Abd Malek" (1040536064)
+00:04:28.199 --> 00:04:44.069
+Okay morning, I hope everyone got good.
+
+12 "Mohd Fareq Abd Malek" (1040536064)
+00:04:44.069 --> 00:05:01.289
+And Relax and this and today we are going to cover lecture seven which is inductor, inductor. If last week we covered the passentor.
+
+13 "Mohd Fareq Abd Malek" (1040536064)
+00:05:01.289 --> 00:05:16.859
+Capacitor I gave the application of, your mobile phone battery, your laptop battery, if you are driving electric vehicle, you, the Tesla car, e.g., that is the pacitor.
+
+14 "Mohd Fareq Abd Malek" (1040536064)
+00:05:16.859 --> 00:05:33.239
+That is the capacitor is to store charges. Today we are going to learn about inductor. So inductor, the analogy today is wireless charging.
+
+15 "Mohd Fareq Abd Malek" (1040536064)
+00:05:33.239 --> 00:05:50.759
+So have you had any mobile phone that you can charge your mobile phone without wire? Which means you just put at the, at the docking station or some, some device, you just put your phone on top of that.
+
+16 "Mohd Fareq Abd Malek" (1040536064)
+00:05:50.759 --> 00:06:08.849
+And then your phone will be charging. Is it Samsung or samsung, right? Okay, so that is inductor because the inductor.
+
+17 "Mohd Fareq Abd Malek" (1040536064)
+00:06:08.849 --> 00:06:25.139
+This is the symbol for the inductor. So the inductor has a coil and when the current flows into this inductor, it will.
+
+18 "Mohd Fareq Abd Malek" (1040536064)
+00:06:25.139 --> 00:06:42.449
+Radiates or it will emit electronic it will emit magnetic charges and this magnetic charges activate their nearby material. So e.g..
+
+19 "Mohd Fareq Abd Malek" (1040536064)
+00:06:42.449 --> 00:06:59.249
+If you have some the maybe the the expensive one. So in here, there is a inductor which emits magnetic.
+
+20 "Mohd Fareq Abd Malek" (1040536064)
+00:06:59.249 --> 00:07:14.999
+Magnetic charges and when you put, when you want to charge your phone, you just put without any wire connected. So the magnetic charges transfer the electricity.
+
+21 "Mohd Fareq Abd Malek" (1040536064)
+00:07:14.999 --> 00:07:30.329
+Do the mobile phone and the mobile phone will be charged. So that is the use of the inductor. So previously capacitor, last week we we learned about the capacitor. It is.
+
+22 "Mohd Fareq Abd Malek" (1040536064)
+00:07:30.329 --> 00:07:48.449
+Regarding battery, mobile phone battery laptop laptop battery, and today we are going to learn about inductor. So it's all about inductors such as self inductors, induced voltage.
+
+23 "Mohd Fareq Abd Malek" (1040536064)
+00:07:48.449 --> 00:08:05.639
+Inductors in series and peril. So in in last week we have time constant RC, and I would like to revise with you for the quiz at 1030pM.
+
+24 "Mohd Fareq Abd Malek" (1040536064)
+00:08:05.639 --> 00:08:24.959
+You will be hopefully you you must remember time constant is RC. So if you have a circuit with register and capacitor, the time constant is RC. Similarly, if you have a circuit with a register.
+
+25 "Mohd Fareq Abd Malek" (1040536064)
+00:08:24.959 --> 00:08:44.959
+And inductor, the time constant is ROL, where L is the inductors, inductors value. C is capacitons and L is inductors, inductors.
+
+26 "Mohd Fareq Abd Malek" (1040536064)
+00:08:44.959 --> 00:08:56.639
+So last week we learned about capacity. So today we we are going to learn about the inductor.
+
+27 "Mohd Fareq Abd Malek" (1040536064)
+00:08:56.639 --> 00:09:12.569
+Okay, the inductor exhibits its true characteristics only when a change in voltage or current is made in the network. So an inductor, this is the symbol, and it is.
+
+28 "Mohd Fareq Abd Malek" (1040536064)
+00:09:12.569 --> 00:09:28.919
+Coil is like a coil, yeah, it's coil. So the characteristic of this inductor is that it doesn't want change. It doesn't like changes. So if the current, is, if the inductor is experiencing.
+
+29 "Mohd Fareq Abd Malek" (1040536064)
+00:09:28.919 --> 00:09:45.059
+A some current value such as I And suddenly the switch is close, the current goes to zero. This means the I viability, is changing.
+
+30 "Mohd Fareq Abd Malek" (1040536064)
+00:09:45.059 --> 00:10:05.059
+So, the inductor will resist, will oppose the change, but at the end, it will lose, it will lose, but at the beginning it will try to oppose any change in current or voltage, ok? So that is the characteristic of an inductor. Inductor doesn't like change, so it will oppose.
+
+31 "Mohd Fareq Abd Malek" (1040536064)
+00:10:05.059 --> 00:10:23.339
+It will fight the change and, but at the end it will lose the fight and then it will accept, it will accept the status at that, at that time, ok? I have given the example.
+
+32 "Mohd Fareq Abd Malek" (1040536064)
+00:10:23.339 --> 00:10:39.389
+The mobile phone, I mentioned Samsung or maybe Apple has it wireless charging, ok? Wireless charging, so you just put your phone and it will charge your phone wirelessly without any.
+
+33 "Mohd Fareq Abd Malek" (1040536064)
+00:10:39.389 --> 00:10:57.869
+Cable. So that is the inductor in the device emits a magnetic and that magnetic activate that magnetic is transferred the electricity to to your mobile phone and your mobile phone is charging. Okay.
+
+34 "Mohd Fareq Abd Malek" (1040536064)
+00:11:02.579 --> 00:11:18.929
+So when we talk about inductors, we also learned we we are going also talking about the magnetic field, ok? So if we have a permanent magnet with North and South pole, so the flux.
+
+35 "Mohd Fareq Abd Malek" (1040536064)
+00:11:18.929 --> 00:11:34.589
+Magnetic lines will originate from the north side to the south side, ok? If we have south and North north from north towards south, the arrow indicates the flocks.
+
+36 "Mohd Fareq Abd Malek" (1040536064)
+00:11:34.589 --> 00:11:53.009
+Is magnetic flux is traveling or it's originating from the north towards the south. Here it's north towards the south. So effect of metal on the magnetic field.
+
+37 "Mohd Fareq Abd Malek" (1040536064)
+00:11:53.009 --> 00:12:08.999
+So if we put a, a soft iron, it will go through the metal, the the flux will, will be aligned or will be focused.
+
+38 "Mohd Fareq Abd Malek" (1040536064)
+00:12:08.999 --> 00:12:26.459
+In the South iron from the north towards the south. So a magnetic field is present around everywhere that carries an electric current. So e.g., here we have a current.
+
+39 "Mohd Fareq Abd Malek" (1040536064)
+00:12:26.459 --> 00:12:46.459
+Current towards to the laptop, the current flows, so it's not the right hand rule, the current flows and the magnetic field is surrounding the current. So if we do not have a rubber insulator, because here is insulator. The function of a rubber is for protection and post.
+
+40 "Mohd Fareq Abd Malek" (1040536064)
+00:12:46.459 --> 00:13:06.299
+So cause the will be around if we don't have a rather insulator and this is another conductor, this means it will affect, this means it will affect the next, the next wire.
+
+41 "Mohd Fareq Abd Malek" (1040536064)
+00:13:06.299 --> 00:13:21.629
+So magnetic field, is present around everywhere that carries an electric current. It is given by the right hand rule, so the current and the magnetic field is surrounding.
+
+42 "Mohd Fareq Abd Malek" (1040536064)
+00:13:21.629 --> 00:13:36.809
+The, the current of the, of the disk finger. So as an example here, it's the conductor and the current if flows here.
+
+43 "Mohd Fareq Abd Malek" (1040536064)
+00:13:36.809 --> 00:13:52.919
+The magnetic field will be surrounding the conductor. Similarly, if the current flows in this circular shape, the conductor is made in this manner, so the magnetic field will be surrounding.
+
+44 "Mohd Fareq Abd Malek" (1040536064)
+00:13:52.919 --> 00:14:09.389
+The conductor, the magnetic flux lines around a current conductor. So this is the symbol, the symbol, and this is the physical, physical.
+
+45 "Mohd Fareq Abd Malek" (1040536064)
+00:14:09.389 --> 00:14:25.949
+The Image of induct the coil or the inductor. So we have, the current flowing in the coil. So in every, in every instance there will be magnetic field surrounding.
+
+46 "Mohd Fareq Abd Malek" (1040536064)
+00:14:25.949 --> 00:14:42.749
+The conductor, ok? And here we have a magnetic magnetic north and south magnetic device, and if we put.
+
+47 "Mohd Fareq Abd Malek" (1040536064)
+00:14:42.749 --> 00:14:57.749
+A coil around it, you can also, you can, this is called, you can exhibit electro magnetic properties. And it follows the right hand rule.
+
+48 "Mohd Fareq Abd Malek" (1040536064)
+00:14:57.749 --> 00:15:14.189
+Determining the direction of blocks for an electro magnet. So the current, here, the current, the current is here and then.
+
+49 "Mohd Fareq Abd Malek" (1040536064)
+00:15:14.189 --> 00:15:34.189
+The flux was the current like this surrounding the solder flux or the, is in this direction so flux, webbers and.
+
+50 "Mohd Fareq Abd Malek" (1040536064)
+00:15:34.189 --> 00:15:53.759
+So we can have a relationship that the magnetic flux, the unit of magnetic flux is webbers and it is based on the, the surname of Edward Webber.
+
+51 "Mohd Fareq Abd Malek" (1040536064)
+00:15:53.759 --> 00:16:11.159
+And the magnetic flux is given by the letter five. The number of flux lines per unit area is called the flux density. So if we have just lines.
+
+52 "Mohd Fareq Abd Malek" (1040536064)
+00:16:11.159 --> 00:16:27.959
+This is flux. This is flux, and it is webber. The unit is webber. But if we want to measure a flux in a certain area, in a certain region, in a certain value volume.
+
+53 "Mohd Fareq Abd Malek" (1040536064)
+00:16:27.959 --> 00:16:45.509
+So you are, you have a flux per unit area of flux per unit volume. In this case, in this example, these dotted arrows, each indi each individual of them is a flux flux line.
+
+54 "Mohd Fareq Abd Malek" (1040536064)
+00:16:45.509 --> 00:17:01.589
+So each individual is a flux line, but if you want to measure how many flux in this area, so you have logically its flux over area.
+
+55 "Mohd Fareq Abd Malek" (1040536064)
+00:17:01.589 --> 00:17:19.559
+Flux over that area. So this is called, flux density. We, we denote it with letter B So Fi is flux oh five the greek alphabet five is flux.
+
+56 "Mohd Fareq Abd Malek" (1040536064)
+00:17:19.559 --> 00:17:36.059
+If we have a flux per unit area, this we we deduce it as flux density. B is a flux density.
+
+57 "Mohd Fareq Abd Malek" (1040536064)
+00:17:36.059 --> 00:17:52.529
+So that is the difference and if we are just looking at the individual flags or individual arrows, so it is just fine. But if you want to measure how many fluxes in a certain area, so flags over area.
+
+58 "Mohd Fareq Abd Malek" (1040536064)
+00:17:52.529 --> 00:18:09.509
+And this as a overall is flux density. And it is denoted by B So since the flux is the unit is weabber.
+
+59 "Mohd Fareq Abd Malek" (1040536064)
+00:18:09.509 --> 00:18:24.599
+And the area the unit is with the square. So the flux density sometimes is called WB only WB. So the flux density is WB oh.
+
+60 "Mohd Fareq Abd Malek" (1040536064)
+00:18:24.599 --> 00:18:43.049
+Over meter square. So the unit for flux density logically is, webber per meter square. But it also, it is also another scientist, so webber perimeter square is also.
+
+61 "Mohd Fareq Abd Malek" (1040536064)
+00:18:43.049 --> 00:18:59.159
+Can be mentioned as Teslam, one Tesla. So whatever's, whoever's permitter square can be is also equivalent to Tesla or T.
+
+62 "Mohd Fareq Abd Malek" (1040536064)
+00:18:59.159 --> 00:19:14.729
+From the scientist Tesla. It's not from the carmaker, it's the different one. The carmaker is the brand is Tesla. It's not related to this Tesla, ok? It's different from Siemens.
+
+63 "Mohd Fareq Abd Malek" (1040536064)
+00:19:14.729 --> 00:19:33.119
+Ziemens, the company, also the conductors. The conductors is the unit of conductors is Ziemens, so actually the scientists Ziemens discovered the conductors, but also he.
+
+64 "Mohd Fareq Abd Malek" (1040536064)
+00:19:33.119 --> 00:19:51.929
+He created a company Ziemens until now, ok? That is different. But Tesla is, another Nicola Tesla, ok? The scientist is Nicola Tesla and it's not related to the Tesla Elon Mask. It's not just the name.
+
+65 "Mohd Fareq Abd Malek" (1040536064)
+00:19:51.929 --> 00:20:09.539
+And some application of magnetic circuits, so transformers, loudspeakers, so these are the coils coils, so using application of magnetic fields.
+
+66 "Mohd Fareq Abd Malek" (1040536064)
+00:20:09.539 --> 00:20:25.439
+Medical magic magnetic residence imaging, so these are and I mentioned just now the wireless charging for the mobile phone, wireless charging for the mobile phone. So.
+
+67 "Mohd Fareq Abd Malek" (1040536064)
+00:20:25.439 --> 00:20:44.399
+So if the capacitance previously in last week, the unit the letter is C and.
+
+68 "Mohd Fareq Abd Malek" (1040536064)
+00:20:44.399 --> 00:21:02.549
+And the unit is products, the inductants, the inductance, the the unit is L and the I mean the the alphabet is L and.
+
+69 "Mohd Fareq Abd Malek" (1040536064)
+00:21:02.549 --> 00:21:20.639
+The unit is Henry's. So far out or just F, Henry or just H, Henry's, ok? So the inductors level determines the strength of the benefit field around the coil.
+
+70 "Mohd Fareq Abd Malek" (1040536064)
+00:21:20.639 --> 00:21:36.869
+View to an applied current. The higher the value of the inductance, the greater the strength of the magnetic field. So, here we have the, the number of turns is like the coil.
+
+71 "Mohd Fareq Abd Malek" (1040536064)
+00:21:36.869 --> 00:21:56.759
+So that's why the symbol is coins this symbol. So we put the coin, so the number of tons here is 1234 four, so many number of tons. If it's less so the less number of tons. And this is the area.
+
+72 "Mohd Fareq Abd Malek" (1040536064)
+00:21:56.759 --> 00:22:13.679
+The cross sectional area, and this is the length. This is the length, and of course we have a relationship, we have a relationship in order to determine this, the value of the inductors.
+
+73 "Mohd Fareq Abd Malek" (1040536064)
+00:22:13.679 --> 00:22:29.969
+Whether large or small. If the number of turns is larger because the number of turns is square. So if you have ten number of turns, it becomes 100. If you have.
+
+74 "Mohd Fareq Abd Malek" (1040536064)
+00:22:29.969 --> 00:22:48.269
+Five number of tons, five square is 25. And the area, as I mentioned, the area here, this is the area. The area, if it is larger, the larger the area, the, the larger the number the inductors value.
+
+75 "Mohd Fareq Abd Malek" (1040536064)
+00:22:48.269 --> 00:23:04.919
+And at the denominator is the length. If the length is shorter, if the length is shorter, the inductor's value is larger. So if you have, you put the length is shorter.
+
+76 "Mohd Fareq Abd Malek" (1040536064)
+00:23:04.919 --> 00:23:20.759
+Shorter length, you can have a larger inductance. As an example here, so we we have the value of the inductance L is 20 micro henry's.
+
+77 "Mohd Fareq Abd Malek" (1040536064)
+00:23:20.759 --> 00:23:40.529
+And the area is a one and the number of turns is N one. Let's say we if we increase the number of turns to double, the areas remain the same. What would be the new value of the L?
+
+78 "Mohd Fareq Abd Malek" (1040536064)
+00:23:40.529 --> 00:23:56.789
+So we what's the week? We will look at here, L is n square A and here we can see A N is double. So if N is double.
+
+79 "Mohd Fareq Abd Malek" (1040536064)
+00:23:56.789 --> 00:24:12.149
+So it becomes two n, and square eight. So you will have four and square. So this means overall the inductance will be.
+
+80 "Mohd Fareq Abd Malek" (1040536064)
+00:24:12.149 --> 00:24:28.529
+Four times. The value of L will be, four times the previous 01:20, which is 80 microhendries. So you you just.
+
+81 "Mohd Fareq Abd Malek" (1040536064)
+00:24:28.529 --> 00:24:45.209
+Use this relationship or the equation to find the new value of the inductance Hello?
+
+82 "Mohd Fareq Abd Malek" (1040536064)
+00:24:45.209 --> 00:25:01.169
+Hello? Okay and if we, if we have the number of tons is half and the number of, the area is three times, so we can.
+
+83 "Mohd Fareq Abd Malek" (1040536064)
+00:25:01.169 --> 00:25:20.189
+Use the formulator Hello.
+
+84 "Mohd Fareq Abd Malek" (1040536064)
+00:25:20.189 --> 00:25:35.609
+Hello, so if we have.
+
+85 "Mohd Fareq Abd Malek" (1040536064)
+00:25:35.609 --> 00:25:53.249
+The 2nd example here, we have N one number of turns and the area is a one and the value of the L is 16 microhendry. What will happen when the number of turns is half and the number of area is.
+
+86 "Mohd Fareq Abd Malek" (1040536064)
+00:25:53.249 --> 00:26:08.609
+Three times. So we can look at the, this one, the number of turn is half. This means then over to half of them don't get the square.
+
+87 "Mohd Fareq Abd Malek" (1040536064)
+00:26:08.609 --> 00:26:26.069
+So this will result in, and N square over four, but the number, the area is multiplied by three times. So, so the in this case is one over four.
+
+88 "Mohd Fareq Abd Malek" (1040536064)
+00:26:26.069 --> 00:26:41.789
+And the area is three times bigger, so multiplied by three. So overall, you will get the the new value of inductors is three over four from the original.
+
+89 "Mohd Fareq Abd Malek" (1040536064)
+00:26:41.789 --> 00:27:01.199
+So we can say that the new value of the inductance is three over four of the original and the original is 1616, and the the new value is.
+
+90 "Mohd Fareq Abd Malek" (1040536064)
+00:27:01.199 --> 00:27:18.839
+Twelve micro hembits. The new value is twelve microembits. And do not forget that new is the material. New is the material. So if we have.
+
+91 "Mohd Fareq Abd Malek" (1040536064)
+00:27:18.839 --> 00:27:37.829
+So when you see mule, it means mule not new relative. So different material will have a different view R value. So, maybe.
+
+92 "Mohd Fareq Abd Malek" (1040536064)
+00:27:37.829 --> 00:27:55.229
+Iron or something else. So, if we view R shows the magnetism. So if you have a view R of one, it means the material is not magnetic.
+
+93 "Mohd Fareq Abd Malek" (1040536064)
+00:27:55.229 --> 00:28:15.229
+But I think at your home you have a fridge and you have a sovenia right fridge magnet. That means you buy the fridge magnet attached to the fridge. So it's very magnetic. So that means this you are for that material, maybe it is a iron or that is.
+
+94 "Mohd Fareq Abd Malek" (1040536064)
+00:28:15.229 --> 00:28:31.799
+Is quite large because it's, if a material is higher degree of magnetism, the MU value is larger. But if it is it's not magnetic you you cannot put on your fridge, that means.
+
+95 "Mohd Fareq Abd Malek" (1040536064)
+00:28:31.799 --> 00:28:47.069
+You are is just one. So in this 3rd example, everything, the length is, increased by 2.5.
+
+96 "Mohd Fareq Abd Malek" (1040536064)
+00:28:47.069 --> 00:29:02.879
+The number of terms is increased by three times, but another thing is, the MUR is also increased by, by, 1200 times. So perhaps.
+
+97 "Mohd Fareq Abd Malek" (1040536064)
+00:29:02.879 --> 00:29:22.289
+This new material is, more magnetic more shows the more magnetism characteristics, so you can check here that the mule is 1200 more, so put the 1200 here.
+
+98 "Mohd Fareq Abd Malek" (1040536064)
+00:29:22.289 --> 00:29:38.489
+The number of turns, the number of turns is three times more than previously, so three times, three times more, but don't forget the square.
+
+99 "Mohd Fareq Abd Malek" (1040536064)
+00:29:38.489 --> 00:29:55.139
+And the num the length, the the new length is 2.54 the new length is 2.5 larger.
+
+100 "Mohd Fareq Abd Malek" (1040536064)
+00:29:55.139 --> 00:30:15.139
+So the new length is at the denominator, so 2.52 .5 larger than the previous length. So overall, this will create So if we calculate using calculator 1200 multiply by now.
+
+101 "Mohd Fareq Abd Malek" (1040536064)
+00:30:15.139 --> 00:30:31.979
+Time Divided by 2.5, so you will get a new value. This will indicate how much larger this value compared to the original value of L So this is the, the formula.
+
+102 "Mohd Fareq Abd Malek" (1040536064)
+00:30:31.979 --> 00:30:48.029
+The formula to get the inductance, how, how big or how small is the inductance? In terms of physical types of inductor, this is the airport.
+
+103 "Mohd Fareq Abd Malek" (1040536064)
+00:30:48.029 --> 00:31:05.789
+The symbol for the airport inductor, and this is also the symbol for inductor but the only thing is the difference is the federal magnetic call and this is a. So you can put.
+
+104 "Mohd Fareq Abd Malek" (1040536064)
+00:31:05.789 --> 00:31:23.459
+You can adjust here. This means if you put it here, the, the, the number of turns is reduced, right? Compared if you put the tab here and here, the number of turns is large.
+
+105 "Mohd Fareq Abd Malek" (1040536064)
+00:31:23.459 --> 00:31:40.799
+And here you can, you can adjust the new new permeability to some, some inductors allow you to adjust the new or adjust the material permeability.
+
+106 "Mohd Fareq Abd Malek" (1040536064)
+00:31:40.799 --> 00:31:58.709
+So that is the symbol for that. In the laboratories, in the laboratories, this is, the, you can see the following types of inductor and the higher the inductor, the larger.
+
+107 "Mohd Fareq Abd Malek" (1040536064)
+00:31:58.709 --> 00:32:14.669
+The ticker, the wire, and the larger the size generally. And the 1st, the 1st one, the part A is the right type material. The part B is a finalic.
+
+108 "Mohd Fareq Abd Malek" (1040536064)
+00:32:14.669 --> 00:32:30.959
+This is also inductor and the 3rd part is dr.. So we can also have variable inductors. So here we can use.
+
+109 "Mohd Fareq Abd Malek" (1040536064)
+00:32:30.959 --> 00:32:50.959
+You can see these are the variable inductors. Okay so let us continue with this law of electronic induction is one of the most important in this field because it enables us to.
+
+110 "Mohd Fareq Abd Malek" (1040536064)
+00:32:50.959 --> 00:33:08.489
+Publish the alternative AC and DC voltages with a generator. So if we have a permanent, if a magnet loss and south, this will create naturally will create plugs, right? Plugs.
+
+111 "Mohd Fareq Abd Malek" (1040536064)
+00:33:08.489 --> 00:33:26.489
+This will create lots and this is a conductor and it will induce automatically according to it will induce a voltage and this voltage will.
+
+112 "Mohd Fareq Abd Malek" (1040536064)
+00:33:26.489 --> 00:33:44.429
+Cause then the motion will happen due to the right hand rule with this one, ok, this one. So I will not go into detail on that on about the rule. And so if we put the number of turns, the larger the number of turns.
+
+113 "Mohd Fareq Abd Malek" (1040536064)
+00:33:44.429 --> 00:34:04.379
+So the, the larger, the induced voltage across the inductor, the induced voltage E will be created across the inductor and this will create the motion. So that is law.
+
+114 "Mohd Fareq Abd Malek" (1040536064)
+00:34:04.379 --> 00:34:19.589
+So, so if we have, this is this inductor and we have the current and we, for this law states when the magnetic flux buy.
+
+115 "Mohd Fareq Abd Malek" (1040536064)
+00:34:19.589 --> 00:34:36.419
+Cutting the coil or wire changes with time, the voltage is induced in each. So, this is the main idea. The flux must change over time.
+
+116 "Mohd Fareq Abd Malek" (1040536064)
+00:34:36.419 --> 00:34:53.009
+If the flux is constant, it's not changing over time, so this will become zero. So not, not so much interesting phenomena can be observed. But if the flux is changing over time.
+
+117 "Mohd Fareq Abd Malek" (1040536064)
+00:34:53.009 --> 00:35:09.419
+So e.g., this is the flats, and the one another 2nd later, two, two flats. This is the area of measurement. Another 2nd later becomes one flux only.
+
+118 "Mohd Fareq Abd Malek" (1040536064)
+00:35:09.419 --> 00:35:25.169
+Then another 2nd letter becomes three flats. So this ex is exhibiting a change of flats over time. When we have a change of flux overtime and we multiply the number of turns.
+
+119 "Mohd Fareq Abd Malek" (1040536064)
+00:35:25.169 --> 00:35:42.689
+We can induce the voltage across the inductor. And the important, the next important law is the lens law. This in this voltage is proposing.
+
+120 "Mohd Fareq Abd Malek" (1040536064)
+00:35:42.689 --> 00:35:58.679
+This lens law stated that the induced voltage in the corn opposes the voltage sauce that led to the establishment of the flocks. So this is called.
+
+121 "Mohd Fareq Abd Malek" (1040536064)
+00:35:58.679 --> 00:36:17.729
+Lands law. So partices and lands law are interrelated they are support, they are complementing each other. So this means the important thing is the flux must be changing over time, multiply by the number of turns and will create.
+
+122 "Mohd Fareq Abd Malek" (1040536064)
+00:36:17.729 --> 00:36:35.909
+The induced voltage and this induced voltage is opposite, is opposed the voltage source that led to the establishment of the plots. So we have.
+
+123 "Mohd Fareq Abd Malek" (1040536064)
+00:36:35.909 --> 00:36:52.079
+I would adjust. So this is the symbol for an inductor, this one is a symbol for the inductor.
+
+124 "Mohd Fareq Abd Malek" (1040536064)
+00:36:52.079 --> 00:37:10.289
+We this is L, this is usually, this is called in the circuit we have the voltage source, the resistor and the inductor L And this E is remember, if we have a change.
+
+125 "Mohd Fareq Abd Malek" (1040536064)
+00:37:10.289 --> 00:37:30.119
+A change of current DI by DT, we will create the induced voltage E And this induced voltage across the inductor is equals to L DI by DT, ok? Okay, and this induced voltage is opposing.
+
+126 "Mohd Fareq Abd Malek" (1040536064)
+00:37:30.119 --> 00:37:46.679
+Is opposing the voltage source. So, so 1st it, what is the best time to see the? When we close, when we close the.
+
+127 "Mohd Fareq Abd Malek" (1040536064)
+00:37:46.679 --> 00:38:06.679
+The circuit, right? When we throw the switch because here a zero current, right? A zero current. Before this, when the switch is open, a zero current. So, inductor doesn't like to change. So they want to maintain zero, the same.
+
+128 "Mohd Fareq Abd Malek" (1040536064)
+00:38:06.679 --> 00:38:09.179
+That level of current at that moment.
+
+129 "Mohd Fareq Abd Malek" (1040536064)
+00:38:09.179 --> 00:38:27.360
+But suddenly the switch is closed. So this means we have DI validity, very large because suddenly a search of current flows and when this DI validity occurs.
+
+130 "Mohd Fareq Abd Malek" (1040536064)
+00:38:27.360 --> 00:38:45.600
+The electric the induced voltage E will occur based on. And this induced voltage E is opposite, polarity to the voltage source polarity. So this is the physical characteristic.
+
+131 "Mohd Fareq Abd Malek" (1040536064)
+00:38:45.600 --> 00:39:00.960
+Of the inductor in the inductor doesn't like changes. Inductor doesn't like changes. Another, another time that change can occur is that let's say, this is already.
+
+132 "Mohd Fareq Abd Malek" (1040536064)
+00:39:00.960 --> 00:39:17.790
+The switch is already closed, so, for a long time, then the current is already stabilized, it's already stabilized, and suddenly you, you open the switch, then there is also.
+
+133 "Mohd Fareq Abd Malek" (1040536064)
+00:39:17.790 --> 00:39:35.880
+That means current was flowing and suddenly the current becomes zero, right? Current was flowing and then you open the switch, that is also indicating the I IDT is happening. DI IDT is happening. The change a sudden change of current.
+
+134 "Mohd Fareq Abd Malek" (1040536064)
+00:39:35.880 --> 00:39:51.240
+Over time. So if we, if we recap last week we see for the capacitor.
+
+135 "Mohd Fareq Abd Malek" (1040536064)
+00:39:51.240 --> 00:40:07.140
+This one, it is T, right? So I want to revise with you for the quiz, what is the tao? How many towel is.
+
+136 "Mohd Fareq Abd Malek" (1040536064)
+00:40:07.140 --> 00:40:23.100
+How many time constant town that is considered a steady state? Partners, that's good. So, because it's just a quiz, so that's quite quite easy for you, don't.
+
+137 "Mohd Fareq Abd Malek" (1040536064)
+00:40:23.100 --> 00:40:41.430
+You have studied a lot. I see that's very good, but the question is reflecting not so difficult as the midterm or final exam. So 5000, ok? And this is because, so at P zero, the capacitor.
+
+138 "Mohd Fareq Abd Malek" (1040536064)
+00:40:41.430 --> 00:40:57.510
+Is zero holds, the capacitor x light up, do you remember? At the beginning, yeah? Sounds good. And when it's 5000.
+
+139 "Mohd Fareq Abd Malek" (1040536064)
+00:40:57.510 --> 00:41:13.560
+The X like an open circuit, ok? So, for the inductor, for the inductor, so it's the other way around.
+
+140 "Mohd Fareq Abd Malek" (1040536064)
+00:41:13.560 --> 00:41:29.550
+The inductor in the beginning, it will act as an open circuit. And at the end, the inductor will acts.
+
+141 "Mohd Fareq Abd Malek" (1040536064)
+00:41:29.550 --> 00:41:46.920
+Like a short circuit. This is because, as I mentioned, the inductor, there doesn't like change. It doesn't like change. So in the beginning, when there is nothing here, it's not connected, it's zero, right?
+
+142 "Mohd Fareq Abd Malek" (1040536064)
+00:41:46.920 --> 00:42:02.700
+Zero MPS. So when it is zero MPS, so, it is acting like an open circuit. It is acting like an.
+
+143 "Mohd Fareq Abd Malek" (1040536064)
+00:42:02.700 --> 00:42:19.500
+Open circuit. So just before anything is the switch is switched is closed. So after that it's closed, so it will oppose, it will try to oppose.
+
+144 "Mohd Fareq Abd Malek" (1040536064)
+00:42:19.500 --> 00:42:35.070
+It will try because the characteristic of inductor it doesn't like change. I want to maintain zero mps. So it will oppose it try try and then it loses the battle. So at the end, it become.
+
+145 "Mohd Fareq Abd Malek" (1040536064)
+00:42:35.070 --> 00:42:51.360
+I mean after a long time, it becomes a short circuit. So now the short circuit is a new, new state. I mean the inductor doesn't now likes to be in the the state of.
+
+146 "Mohd Fareq Abd Malek" (1040536064)
+00:42:51.360 --> 00:43:08.040
+Acting like a short circuit, so it doesn't want to change, ok? It doesn't want to change and suddenly, let's say you open back, so it will fight the change, it will fight the change, every time a new state.
+
+147 "Mohd Fareq Abd Malek" (1040536064)
+00:43:08.040 --> 00:43:25.950
+A new, a new current state is happening. So, it's the opposite to the capacitor, so in the inductor, it's acts an open circuit in the beginning and it acts as a short circuit at the end.
+
+148 "Mohd Fareq Abd Malek" (1040536064)
+00:43:25.950 --> 00:43:42.570
+So as short circuit and open 2nd. So therefore, it's also the opposite in terms of the, in terms of the.
+
+149 "Mohd Fareq Abd Malek" (1040536064)
+00:43:42.570 --> 00:43:58.290
+Current curve and, and the voltage curve. So if you remember in the So this call RL because this circuit is RML. If you still remember the RC and also.
+
+150 "Mohd Fareq Abd Malek" (1040536064)
+00:43:58.290 --> 00:44:14.700
+For the revision for the quiz. So, for the RC, the V, the VC is here. Okay and.
+
+151 "Mohd Fareq Abd Malek" (1040536064)
+00:44:14.700 --> 00:44:30.570
+The I, the for the RC circuit, the I, I C is the opposite. So in this case, for the inductor.
+
+152 "Mohd Fareq Abd Malek" (1040536064)
+00:44:30.570 --> 00:44:48.450
+The, now the the current is increasing because you know when the switch is closed, at 1st the current is zero and this is a open circuit, it tries to oppose, but.
+
+153 "Mohd Fareq Abd Malek" (1040536064)
+00:44:48.450 --> 00:45:04.650
+It tries, it tries, it tries but then it loses the battle, so at a long time or at 5 h the same time constant like before, it will become, it will accept it and it will become.
+
+154 "Mohd Fareq Abd Malek" (1040536064)
+00:45:04.650 --> 00:45:20.190
+A short circuit, a short circuit. And the voltage across the inductor is the opposite to that, which means because it's a open circuit in the beginning.
+
+155 "Mohd Fareq Abd Malek" (1040536064)
+00:45:20.190 --> 00:45:36.180
+So the voltage is, very large is E I mean it's looking from here. It's an open circuit, so if I redraw it like this and the circuit is.
+
+156 "Mohd Fareq Abd Malek" (1040536064)
+00:45:36.180 --> 00:45:52.140
+It's closed, and here is a open circuit. Now I'm looking VC VL sorry VL, and I'm looking here it's.
+
+157 "Mohd Fareq Abd Malek" (1040536064)
+00:45:52.140 --> 00:46:07.770
+I'm looking at E in the beginning, but as I become the the inductor becomes most towards the end, so this VM towards the, the end it become a short circuit.
+
+158 "Mohd Fareq Abd Malek" (1040536064)
+00:46:07.770 --> 00:46:24.270
+So when it's short circut, that means it's like us just a normal wire, the, the voltage across the inductor is like zero approaching zero. So it's the opposite to the.
+
+159 "Mohd Fareq Abd Malek" (1040536064)
+00:46:24.270 --> 00:46:41.250
+It is the opposite to the volt capacitor. It we are also interested to to look at voltage across the resistor arm. So it is.
+
+160 "Mohd Fareq Abd Malek" (1040536064)
+00:46:41.250 --> 00:46:59.250
+Because once, because it's a potential divider if this is E, so I will draw it and this VR must be plus VL, right? Must be plus VL to become the E So if one of them is maximum.
+
+161 "Mohd Fareq Abd Malek" (1040536064)
+00:46:59.250 --> 00:47:14.550
+The VL is here and this VR must be zero. But as the VL approach zero, the V of the resistor is maximum because at the end.
+
+162 "Mohd Fareq Abd Malek" (1040536064)
+00:47:14.550 --> 00:47:30.090
+That is a potential divider if we redraw it, it's sorry for the L, this is R So if one of them.
+
+163 "Mohd Fareq Abd Malek" (1040536064)
+00:47:30.090 --> 00:47:50.090
+If the total is E, if one of them is large, this is zero, if the other one is large, this is zero. So it's logical, these three graphs or curves shows the logical explanation that we have gone through.
+
+164 "Mohd Fareq Abd Malek" (1040536064)
+00:47:50.090 --> 00:47:57.480
+Better, ok.
+
+165 "Mohd Fareq Abd Malek" (1040536064)
+00:47:57.480 --> 00:48:14.970
+So let's analyze the initial conditions. Initial condition is before the the switch, the switch is this and the switch will now be closed, so we call it T equals the time equals to zero.
+
+166 "Mohd Fareq Abd Malek" (1040536064)
+00:48:14.970 --> 00:48:32.580
+And I've just mentioned before, just at the point, because there is NO current, switch is open, so IL is zero. So this is initial condition. So IL is zero.
+
+167 "Mohd Fareq Abd Malek" (1040536064)
+00:48:32.580 --> 00:48:48.390
+And of course, this will, the inductor is an open circuit, acts like an open circuit. So since just before the switch is closed at time equals zero, I is zero, so when I is zero.
+
+168 "Mohd Fareq Abd Malek" (1040536064)
+00:48:48.390 --> 00:49:08.390
+This must, the voltage across the resistor must also be zero because I R and I equals zero, ok? So this is the initial condition and the inductor will look like an open circuit. When we look at open circuit, if we.
+
+169 "Mohd Fareq Abd Malek" (1040536064)
+00:49:08.390 --> 00:49:09.600
+You it.
+
+170 "Mohd Fareq Abd Malek" (1040536064)
+00:49:09.600 --> 00:49:29.600
+And this is zero, so all the voltage will, will be here, right? Because it's zero, this must be E because the potential divider carrying. So after a very long time.
+
+171 "Mohd Fareq Abd Malek" (1040536064)
+00:49:29.600 --> 00:49:36.930
+So you know already the 5000 to infinity, we call it.
+
+172 "Mohd Fareq Abd Malek" (1040536064)
+00:49:36.930 --> 00:49:56.930
+The inductors, becomes a short circuit. Short circuit means just a straight line wire and when we measure the voltage across the inductor because it's just a short circuit is 0 v.
+
+173 "Mohd Fareq Abd Malek" (1040536064)
+00:49:56.930 --> 00:50:16.770
+So all the voltage in the circuit will be taken by the resistor. When this is zero, this is the maximum and and so E, the voltage across R at that moment is.
+
+174 "Mohd Fareq Abd Malek" (1040536064)
+00:50:16.770 --> 00:50:33.780
+E And the I going to the inductor IL is Oslo, E over R So that's why we have the three curves. So the current is here, the IL curve.
+
+175 "Mohd Fareq Abd Malek" (1040536064)
+00:50:33.780 --> 00:50:53.780
+The VL curve and the VR curve. So this is called steady states where after a long time. So if we have, I hope you, the appendix or the former sheet will be given attempted.
+
+176 "Mohd Fareq Abd Malek" (1040536064)
+00:50:53.780 --> 00:51:12.030
+E AM today, the same formula sheet that you get from the midterm, which will be the same for the final exam as well and if you remember for the capacitor, the capacitor is.
+
+177 "Mohd Fareq Abd Malek" (1040536064)
+00:51:12.030 --> 00:51:29.190
+One minus E, one minus E to the minus T over rc. So very good is for your revision for the quiz.
+
+178 "Mohd Fareq Abd Malek" (1040536064)
+00:51:29.190 --> 00:51:44.280
+But that is a C So a TAO or time constant for RC is RC, but here we don't have any capacitor, we have inductor, so the Tao.
+
+179 "Mohd Fareq Abd Malek" (1040536064)
+00:51:44.280 --> 00:52:01.140
+Is L over RL over R So the TAO for RL circuit is L over R So that is the.
+
+180 "Mohd Fareq Abd Malek" (1040536064)
+00:52:01.140 --> 00:52:19.560
+The the difference, but in terms of the equation, it will be provided in the formula sheet but you can see because the current is charging or energizing, so the same type of equation E over R, one minus E to the minus T over power.
+
+181 "Mohd Fareq Abd Malek" (1040536064)
+00:52:19.560 --> 00:52:35.160
+The, the voltage at this moment is like this, it's the complementary. So when it's complementary is E to the power minus T over towel and.
+
+182 "Mohd Fareq Abd Malek" (1040536064)
+00:52:35.160 --> 00:52:53.280
+And Amplitude is E, ok? Amplitude is E So that is the, but of course inductor will not be in the quiz. Inductors will not be in the quiz, at 1030.
+
+183 "Mohd Fareq Abd Malek" (1040536064)
+00:52:58.050 --> 00:53:17.040
+So, L over R because L is four hundreds and R is two kilowaters. So four henry's divided by two kiloms is equals to two milliseconds. So the Tao T over Tao Tao is two milliseconds, ok?
+
+184 "Mohd Fareq Abd Malek" (1040536064)
+00:53:17.040 --> 00:53:35.640
+So this is the, the two curves, the IL, the I is charging or energizing, and the VL starts from 50 v because the E is 50 votes and then it reduces.
+
+185 "Mohd Fareq Abd Malek" (1040536064)
+00:53:35.640 --> 00:53:52.440
+To towards zero after infinity or you know that 5000 is accepted for the time constant. So at this equals to zero, the inductor.
+
+186 "Mohd Fareq Abd Malek" (1040536064)
+00:53:52.440 --> 00:54:09.480
+It's like an open circuit and at the long time, the inductor is a short circuit. So inductor here is an open circuit, and at the long time, the inductor is a short circuit.
+
+187 "Mohd Fareq Abd Malek" (1040536064)
+00:54:09.480 --> 00:54:25.500
+So, who drive a car here? Everyone has a driving license? So how much volts is the battery of your car? Do you know? Twelve bolts, yeah? So.
+
+188 "Mohd Fareq Abd Malek" (1040536064)
+00:54:25.500 --> 00:54:44.790
+Your car has ignition and coin, right? Is to start the car. So the coin is inducted. The call is in the car is inducted and the call is the ignition and the spark lock to start the car.
+
+189 "Mohd Fareq Abd Malek" (1040536064)
+00:54:44.790 --> 00:55:00.030
+But is it 12 v? Is four vote is not enough to start start a car battery, ok? It needs 25, very high, 25 mv, just to start up.
+
+190 "Mohd Fareq Abd Malek" (1040536064)
+00:55:00.030 --> 00:55:15.210
+But after that 12 v is enough, but just during the startup, it's a 12 v is not enough. So, a car manufacturer cannot, cannot just provide 25, because 25 megavotes.
+
+191 "Mohd Fareq Abd Malek" (1040536064)
+00:55:15.210 --> 00:55:34.800
+It's very, very huge battery. It's not economical, the huge battery is very heavy for the car, but how can, how can the coil and the spark plot be able to give you the 25 mW?
+
+192 "Mohd Fareq Abd Malek" (1040536064)
+00:55:34.800 --> 00:55:54.800
+For your starting, starting of the car, ok? So I will explain, we will explain it here, ok?
+
+193 "Mohd Fareq Abd Malek" (1040536064)
+00:55:54.800 --> 00:56:06.450
+Okay, I I already explained this. I put it in the.
+
+194 "Mohd Fareq Abd Malek" (1040536064)
+00:56:06.450 --> 00:56:23.220
+In the I put it in in a model this is your car to car ignition, ok?
+
+195 "Mohd Fareq Abd Malek" (1040536064)
+00:56:23.220 --> 00:56:38.430
+So this twelve votes, as you mentioned just now, your car battery is twelve votes, so this is twelve votes, ok? This is VR, and this is the ignition coil.
+
+196 "Mohd Fareq Abd Malek" (1040536064)
+00:56:38.430 --> 00:56:57.540
+In the car, so BL, ok. So when you start up your car, it will create a spark because it's like, and when this, before anything.
+
+197 "Mohd Fareq Abd Malek" (1040536064)
+00:56:57.540 --> 00:57:14.820
+This is open, right? This switch is open, so VR is IR and there's NO current so zero NPS multiply by R So zero. This means zero votes for the V across the resistance.
+
+198 "Mohd Fareq Abd Malek" (1040536064)
+00:57:14.820 --> 00:57:31.050
+The way across the coin or the inductor is negative because according to lands law, the induced voltage across the inductor is opposite opposing the source.
+
+199 "Mohd Fareq Abd Malek" (1040536064)
+00:57:31.050 --> 00:57:48.300
+So if it is, the source is here, so we will get a negative value. And if we use KVL, when the switch is closed, we can use KVL or.
+
+200 "Mohd Fareq Abd Malek" (1040536064)
+00:57:48.300 --> 00:58:04.890
+Voltage law, and we can start you we use clockwise, so here we encounter negative 1st in the entry so minus twelve. Here we encounter plus, so we call it the V.
+
+201 "Mohd Fareq Abd Malek" (1040536064)
+00:58:04.890 --> 00:58:20.670
+The voltage for the contacts and here we encounter zero, so we don't need to write it because plus 0 v and then here we encounter plus BL, but.
+
+202 "Mohd Fareq Abd Malek" (1040536064)
+00:58:20.670 --> 00:58:35.850
+We don't, we write plus, but we put the negative because according to Foreigdesce and lands law, it is the opposing the polarity of the is opposite to the plarity of the source.
+
+203 "Mohd Fareq Abd Malek" (1040536064)
+00:58:35.850 --> 00:58:53.010
+So, so we we arrange rearrange to have V contact is equals to VL plus twelve, ok? So VL is the ignition part and this V contact is the spark clock.
+
+204 "Mohd Fareq Abd Malek" (1040536064)
+00:58:53.010 --> 00:59:08.040
+So just imagine when the switch is closed, ok? So the DI by DT is increasing too much, it's increasing too much before that.
+
+205 "Mohd Fareq Abd Malek" (1040536064)
+00:59:08.040 --> 00:59:28.040
+It's zero, and suddenly a search of current and this switch happens very fast, this spot block, so DI by DT, this means, e.g., if one MPS change from zero MPS so one MPS and this changed the DT.
+
+206 "Mohd Fareq Abd Malek" (1040536064)
+00:59:28.040 --> 00:59:44.670
+Is happening at maybe 10 μs, so we can have a DI by DT, which is very large. Yes, very large, which means the VL it's very large. So the V contact.
+
+207 "Mohd Fareq Abd Malek" (1040536064)
+00:59:44.670 --> 01:00:01.110
+And Due to this contacts spark plots can happen and you, your car can have ten megavotes during the technician or the starting point. So your car.
+
+208 "Mohd Fareq Abd Malek" (1040536064)
+01:00:01.110 --> 01:00:16.740
+Although it's 12 v due to the V contacts which is 10 mv, so you can start your car, ok? You can start your car, ok? But in other application.
+
+209 "Mohd Fareq Abd Malek" (1040536064)
+01:00:16.740 --> 01:00:36.740
+And the spots is not wanted, it's not good to have a big spots, but in the car, in the starting the car, this spark spark pluck is useful to start the car, but perhaps in other applications like electricity generation, we do not want.
+
+210 "Mohd Fareq Abd Malek" (1040536064)
+01:00:36.740 --> 01:00:54.540
+A high current, a high voltage context because it costs sparks, so it's not, good. So then we put, we can put one more register so that during this closing of the switch.
+
+211 "Mohd Fareq Abd Malek" (1040536064)
+01:00:54.540 --> 01:01:13.680
+There is NO sparks, so the current will flow to this is like this NO sparks is created so the current will also flow to here to, to alleviate the sparks, ok, when closing the switch.
+
+212 "Mohd Fareq Abd Malek" (1040536064)
+01:01:13.680 --> 01:01:30.300
+So I hope you revised everyone because in which at 1030, there will be one question about and here.
+
+213 "Mohd Fareq Abd Malek" (1040536064)
+01:01:30.300 --> 01:01:49.350
+We know, we know, this is shows the use of the benefit of because, we, we know previously that.
+
+214 "Mohd Fareq Abd Malek" (1040536064)
+01:01:49.350 --> 01:02:04.350
+We know previously that the towel, the towel for capacitor is RC for your revision, for your today's quiz, and the towel for the inductor circuit.
+
+215 "Mohd Fareq Abd Malek" (1040536064)
+01:02:04.350 --> 01:02:22.140
+It's L over R So we put the value of L, we put the value of R, we get the top. But as you can observe here, how can we know L of course I know is format for four hundreds.
+
+216 "Mohd Fareq Abd Malek" (1040536064)
+01:02:22.140 --> 01:02:37.770
+So L over R but what is the value of R? Is it two plus three kilomes or just two kilomes or just three kilomes? So that is where we use our tavernonin theorm Plus tabannins.
+
+217 "Mohd Fareq Abd Malek" (1040536064)
+01:02:37.770 --> 01:02:57.770
+Will summarize everything all with these inductors resistors to only one resistor and one voltage. So then from here we will be we will say that we will see what is the R that can be used after doing the.
+
+218 "Mohd Fareq Abd Malek" (1040536064)
+01:02:57.770 --> 01:03:03.210
+So I hope.
+
+219 "Mohd Fareq Abd Malek" (1040536064)
+01:03:03.210 --> 01:03:19.890
+Can you remember, can you good with me how to find the terminal theorm for this case? What's the step to find the terminal theorm? 1st step, thought circuits.
+
+220 "Mohd Fareq Abd Malek" (1040536064)
+01:03:19.890 --> 01:03:37.470
+So the voltage source is short circuit and when this happened, we will, of course, the, the load is taken out, right? The load is taken out. So when this happens, when we look, at the.
+
+221 "Mohd Fareq Abd Malek" (1040536064)
+01:03:37.470 --> 01:03:56.610
+At the point of view from the Lord, you will, you will get the resistance, the terminent resistance. How to get the terminent voltage? What's the next step? Voltage short circuit.
+
+222 "Mohd Fareq Abd Malek" (1040536064)
+01:04:01.620 --> 01:04:17.100
+The current circuit, ok? So, that that's right, that's right. So I will leave it to you to to reduce this circuit.
+
+223 "Mohd Fareq Abd Malek" (1040536064)
+01:04:17.100 --> 01:04:34.740
+The Tavanin is 50 v and the tavanin voltage, the tavanin voltage is 50 v and the tavernonin resistant is two kilowamts. So the three kilowamts is not is not.
+
+224 "Mohd Fareq Abd Malek" (1040536064)
+01:04:34.740 --> 01:04:49.860
+It's not needed, but the steps I will ask you to cause this is like a revision on how to how to get the termining equivalent circuits. So after you have got this, now you can see all.
+
+225 "Mohd Fareq Abd Malek" (1040536064)
+01:04:49.860 --> 01:05:05.070
+L over R actually the R is simply R one. That's R two is not counted, ok? R two is not counted. So four hundreds divided by two kilobs, you get the.
+
+226 "Mohd Fareq Abd Malek" (1040536064)
+01:05:05.070 --> 01:05:20.250
+Two milliseconds as the TAO and I write here tao one because this is position one when the switch is closed. Switch is closed but after a long time, ok?
+
+227 "Mohd Fareq Abd Malek" (1040536064)
+01:05:20.250 --> 01:05:36.930
+This is this equation after the switch is closed and went for a long time and we have learned that the equation for the IL, IL is energizing, so E over, and we choose R one.
+
+228 "Mohd Fareq Abd Malek" (1040536064)
+01:05:36.930 --> 01:05:52.710
+Don't choose any of the R two because we have done the traveling and only R one is involved. One minus E to the minus T over two milliseconds. So we have 25 million MPS.
+
+229 "Mohd Fareq Abd Malek" (1040536064)
+01:05:52.710 --> 01:06:08.490
+One minus E through minus T over two milliseconds. And we also look at the voltage across inductor and it is de energizing. So, the, the equation we have shown previously.
+
+230 "Mohd Fareq Abd Malek" (1040536064)
+01:06:08.490 --> 01:06:26.370
+So E, E volts multiply by E through a minus T over two milliseconds. So we have 50 v, E through minus T over two milliseconds. So if we want to find VR one when it is a long time.
+
+231 "Mohd Fareq Abd Malek" (1040536064)
+01:06:26.370 --> 01:06:45.570
+VR1 after a long time is the IL multiply by R one. So IL is what we have obtained here, this is what we have obtained. 25 milli MPS multiply by one minus T to the minus T over two milliseconds.
+
+232 "Mohd Fareq Abd Malek" (1040536064)
+01:06:45.570 --> 01:07:03.810
+And R one is 2 kg after the equivalent circuits. So this is the three equations, the IL, the VL and the VR one.
+
+233 "Mohd Fareq Abd Malek" (1040536064)
+01:07:03.810 --> 01:07:23.810
+So when the switch is open, when the switch is now open, you can see that, the current is moving the, in the rate in here. Yes, NO more use, ok? So you can observe that the towel at this.
+
+234 "Mohd Fareq Abd Malek" (1040536064)
+01:07:23.810 --> 01:07:42.240
+And these two two means at this when the switch is open, it's NO more L over a one because when it's open, here we have to include, two kilom plus three kilowamts.
+
+235 "Mohd Fareq Abd Malek" (1040536064)
+01:07:42.240 --> 01:07:58.440
+So now the towel is different. The tower one, when the situation at one is two milliseconds, the towel at this scenario two when the switch is open is 0.8 milliseconds, ok?
+
+236 "Mohd Fareq Abd Malek" (1040536064)
+01:07:58.440 --> 01:08:14.130
+So if we put the KVL, a KVL in here, ok KVL in here and remember, this is the current will flow in this loop because this is already open.
+
+237 "Mohd Fareq Abd Malek" (1040536064)
+01:08:14.130 --> 01:08:30.360
+So when the current flow this is plus minus and here is you have to write here plus minus. Observe from the previous one, the R two plus is at the top and minus is at the bottom because.
+
+238 "Mohd Fareq Abd Malek" (1040536064)
+01:08:30.360 --> 01:08:48.540
+During this time, the current is flowing downwards. But during this time, when the switch is open, the current, the red arrows is flowing upwards so I've written plus at the bottom and minus at the top. So in this loop, I can.
+
+239 "Mohd Fareq Abd Malek" (1040536064)
+01:08:48.540 --> 01:09:04.890
+I can perform controls voltage law. So let's start from is a clockwise, we start from the entry of VR two, so plus VR two plus VR one, plus VL.
+
+240 "Mohd Fareq Abd Malek" (1040536064)
+01:09:04.890 --> 01:09:20.940
+Equals to zero. So VL is V across the inductor is minus VR one plus VR two and because all slow is V equals to IR, so VL.
+
+241 "Mohd Fareq Abd Malek" (1040536064)
+01:09:20.940 --> 01:09:39.390
+Equals to minus IL R one plus R two. And this is logical what we learned from and learnt learns long because a change in current cause now a sudden change in current cause the.
+
+242 "Mohd Fareq Abd Malek" (1040536064)
+01:09:39.390 --> 01:09:55.020
+The switch is, open, this means it will occur a sudden change in current will induce the voltage across the inductor and this voltage is negative. So this equation.
+
+243 "Mohd Fareq Abd Malek" (1040536064)
+01:09:55.020 --> 01:10:10.770
+The support or validate the lens law theory lens law and quality law theory. So when the, just before this switch is open, we want the value of.
+
+244 "Mohd Fareq Abd Malek" (1040536064)
+01:10:10.770 --> 01:10:27.090
+IL. So just before the switch is open, when it's still closed, the IL is, so observed that it is it is still two milliseconds. So we are just before it was open.
+
+245 "Mohd Fareq Abd Malek" (1040536064)
+01:10:27.090 --> 01:10:45.090
+When it's still closed IL is we take from here. 25 million MPS multiply by one minus E to the minus T over two milliseconds, ok? And, but after a long time.
+
+246 "Mohd Fareq Abd Malek" (1040536064)
+01:10:45.090 --> 01:11:02.460
+5000 6000 before the switch is open. So this is negative infinity, right? T overtile but T is infinity when E to the minus infinity becomes zero. So after a long time or infinity.
+
+247 "Mohd Fareq Abd Malek" (1040536064)
+01:11:02.460 --> 01:11:19.050
+It is 25 milli ampus. So just before the switch is open, IL is 25 milli ampus. Okay? Yes.
+
+248 "Mohd Fareq Abd Malek" (1040536064)
+01:11:27.420 --> 01:11:43.920
+Why the switch is closed yes, that we don't use it. It's a very good question. That's why I mentioned Tao is L over R, right? But it's a bit confusing.
+
+249 "Mohd Fareq Abd Malek" (1040536064)
+01:11:43.920 --> 01:11:59.160
+Whether we want to use R one and R two because it's like this. So that's why we, use the equivalent theorm to know which is the right R to use. Maybe it's.
+
+250 "Mohd Fareq Abd Malek" (1040536064)
+01:11:59.160 --> 01:12:18.960
+R one plus R two, maybe we thought it. But after we use, after we perform the tabanin equivalent, we find that the tabanin is 50 v for the voltage and the tabanin resistance is two kilomets. So we only use the two kilomes.
+
+251 "Mohd Fareq Abd Malek" (1040536064)
+01:12:18.960 --> 01:12:38.040
+So, it's This I will give.
+
+252 "Mohd Fareq Abd Malek" (1040536064)
+01:12:38.040 --> 01:12:56.580
+But the step is not shown for the terminal, I will give one more up like right up later and I put it in model. But here we can see let me draw a little bit draw.
+
+253 "Mohd Fareq Abd Malek" (1040536064)
+01:12:56.580 --> 01:13:14.400
+This, this is this, we want to make this to become davening and.
+
+254 "Mohd Fareq Abd Malek" (1040536064)
+01:13:14.400 --> 01:13:33.690
+In into one E only E, and and into one resistorin resistor. So when we, when we summarize all in this into one.
+
+255 "Mohd Fareq Abd Malek" (1040536064)
+01:13:33.690 --> 01:13:49.770
+And of course this is the, this is the load, this is the the load L, load L load. So now we are confident that after.
+
+256 "Mohd Fareq Abd Malek" (1040536064)
+01:13:49.770 --> 01:14:06.870
+Summarizing, this, this, the whole thing of this included, so that's why after summarization we see that only one is informed.
+
+257 "Mohd Fareq Abd Malek" (1040536064)
+01:14:06.870 --> 01:14:24.930
+Okay, and.
+
+258 "Mohd Fareq Abd Malek" (1040536064)
+01:14:24.930 --> 01:14:41.580
+During this moment, during this moment, the switch is now open or de energized or discharging the V of L is minus E over R one, because it's a series.
+
+259 "Mohd Fareq Abd Malek" (1040536064)
+01:14:41.580 --> 01:14:58.500
+Circuit loops, V of L is minus E of R one cost IL, because V of L islaw, IR one plus IR two.
+
+260 "Mohd Fareq Abd Malek" (1040536064)
+01:14:58.500 --> 01:15:15.870
+And it's minus R1R1 plus R two, so we can summarize is some cancellation and E is 50 votes. R two is three kilowamts and R one is 2 kg. So this means one.
+
+261 "Mohd Fareq Abd Malek" (1040536064)
+01:15:15.870 --> 01:15:30.960
+-125 v, not 50 v -125 v. And another interesting thing is it is negative. And why is it negative?
+
+262 "Mohd Fareq Abd Malek" (1040536064)
+01:15:30.960 --> 01:15:48.720
+It validates the foreign and lands law theorm because the induced voltage across the inductor is opposite to the the to the electric to the to the voltage source and it is validated.
+
+263 "Mohd Fareq Abd Malek" (1040536064)
+01:15:52.110 --> 01:16:09.330
+And we can, we know that if L is 25 million ps, and the KVL, KBL again for this loop is, is as follows. So VR one, if you want to find VR one.
+
+264 "Mohd Fareq Abd Malek" (1040536064)
+01:16:09.330 --> 01:16:27.390
+It's IL multiply by R one, so VL VR one is 50 v. VL one is minus one to five. So we can also find VR two from the KBL.
+
+265 "Mohd Fareq Abd Malek" (1040536064)
+01:16:27.390 --> 01:16:47.070
+Okay, so VR two is 75 votes. So observe that this is the switch is closed and this is when the switch is open. When the switch is closed.
+
+266 "Mohd Fareq Abd Malek" (1040536064)
+01:16:47.070 --> 01:17:02.820
+Some of them we split some goals here and some roads here. So when the problem is moving, so you write the priorities of the output.
+
+267 "Mohd Fareq Abd Malek" (1040536064)
+01:17:02.820 --> 01:17:19.890
+Okay. And when the switch is open, there's NO more current flowing from the for the current.
+
+268 "Mohd Fareq Abd Malek" (1040536064)
+01:17:19.890 --> 01:17:35.340
+And here is plus and for R two when the.
+
+269 "Mohd Fareq Abd Malek" (1040536064)
+01:17:35.340 --> 01:17:50.700
+Switch is closed. So, therefore, the VR two results, we must rewrite it as -75 because the current, when the switch is open is opposite.
+
+270 "Mohd Fareq Abd Malek" (1040536064)
+01:17:50.700 --> 01:18:07.350
+Through the previous current when the switch is closed, and what when the when the switch is closed. So when the switch is open.
+
+271 "Mohd Fareq Abd Malek" (1040536064)
+01:18:07.350 --> 01:18:25.680
+It's obvious that it's R one plus R two for the resistors and we can summarize the equations, the VL when the switch is open, the magnitude for VL is minus 01:20 5 v, the starting magnitude.
+
+272 "Mohd Fareq Abd Malek" (1040536064)
+01:18:25.680 --> 01:18:41.730
+And the magnitude for the current is 25 million ps, and observe that the towel is 0.8. So as a comparison, yeah, we have.
+
+273 "Mohd Fareq Abd Malek" (1040536064)
+01:18:41.730 --> 01:19:01.020
+The comparison when the switch is closed, which is closed. When the switch is closed, this is what we have.
+
+274 "Mohd Fareq Abd Malek" (1040536064)
+01:19:01.020 --> 01:19:16.050
+The voltage is decreasing. My next week is open is decreasing is.
+
+275 "Mohd Fareq Abd Malek" (1040536064)
+01:19:16.050 --> 01:19:31.080
+The four there is a negative negative and also the towel that we can.
+
+276 "Mohd Fareq Abd Malek" (1040536064)
+01:19:31.080 --> 01:19:50.190
+The circuit is different for Taiwan and two so we have the.
+
+277 "Mohd Fareq Abd Malek" (1040536064)
+01:19:50.190 --> 01:20:08.700
+We have done that, so I will, oh yes, to answer your question also, this is the one. So when we want to find.
+
+278 "Mohd Fareq Abd Malek" (1040536064)
+01:20:08.700 --> 01:20:25.320
+Like a practice for your quiz as well, but your quiz is not so to find the 1st step to find the link be with me?
+
+279 "Mohd Fareq Abd Malek" (1040536064)
+01:20:25.320 --> 01:20:40.440
+This is the enough is the load so we we don't have the load. We we take up the load.
+
+280 "Mohd Fareq Abd Malek" (1040536064)
+01:20:40.440 --> 01:20:56.640
+So now we point of view from day to B is this is zero zero also in parallel without to the total.
+
+281 "Mohd Fareq Abd Malek" (1040536064)
+01:20:56.640 --> 01:21:13.950
+Zero, that's why. So zero by the end, is simply, ok? And to find the next step is to find V 7th.
+
+282 "Mohd Fareq Abd Malek" (1040536064)
+01:21:13.950 --> 01:21:29.040
+It's useful for your revision for which is so now put back the voltage source, put back the voltage source, look from the.
+
+283 "Mohd Fareq Abd Malek" (1040536064)
+01:21:29.040 --> 01:21:45.660
+So then I ask you, what is, what is the value of I know.
+
+284 "Mohd Fareq Abd Malek" (1040536064)
+01:21:45.660 --> 01:22:01.920
+This, because here, so here.
+
+285 "Mohd Fareq Abd Malek" (1040536064)
+01:22:01.920 --> 01:22:18.030
+The current flow, right? The Current split but here there's nothing. So there's NO current and NO NO voltage isn't not valuable. So when we look.
+
+286 "Mohd Fareq Abd Malek" (1040536064)
+01:22:18.030 --> 01:22:38.030
+Between and B, all this here is E, so that's you have to be slightly careful there and so I will undo it, so.
+
+287 "Mohd Fareq Abd Malek" (1040536064)
+01:22:38.030 --> 01:22:56.850
+Can I ask you, I already mentioned to you just now that our cabinet is some value, so you can just now click it to, to put that value inside the quiz.
+
+288 "Mohd Fareq Abd Malek" (1040536064)
+01:22:56.850 --> 01:23:15.300
+And it's probably a small quiz and this one, let's see.
+
+289 "Mohd Fareq Abd Malek" (1040536064)
+01:23:24.840 --> 01:23:41.760
+Yeah, and then I will, I will go to the lectures, I will go to the lectures, yeah.
+
+290 "Mohd Fareq Abd Malek" (1040536064)
+01:23:41.760 --> 01:23:57.030
+Today's lecture is 7th, the 7th, just seven and today's, today is Wednesday, so I will click here.
+
+291 "Mohd Fareq Abd Malek" (1040536064)
+01:23:57.030 --> 01:24:15.540
+Webinars Day on the 29th 29th of May 2024. So, so I would just want just let's see the question.
+
+292 "Mohd Fareq Abd Malek" (1040536064)
+01:24:18.540 --> 01:24:38.540
+Find the art terminate, find the art terminal in this in this situation so find out.
+
+293 "Mohd Fareq Abd Malek" (1040536064)
+01:24:38.540 --> 01:24:39.810
+After in.
+
+294 "Mohd Fareq Abd Malek" (1040536064)
+01:24:39.810 --> 01:24:59.810
+I think you you have chosen the right one or almost all of you or lecture folders, lecture folders, yeah.
+
+295 "Mohd Fareq Abd Malek" (1040536064)
+01:24:59.810 --> 01:25:17.160
+Chris let's just have a, a quiz, I think most of you got it. So find the.
+
+296 "Mohd Fareq Abd Malek" (1040536064)
+01:25:17.160 --> 01:25:32.220
+Cause I already mentioned, now if we look from the point of view A and B, you can see that these two are in parallel, but one of them is zero homes. So at the end, the resultant here is zero homes.
+
+297 "Mohd Fareq Abd Malek" (1040536064)
+01:25:32.220 --> 01:25:50.640
+So R terminine is just equal to R one, is equal to R one is equals to R one and V tabinin E terminine is just equal to E.
+
+298 "Mohd Fareq Abd Malek" (1040536064)
+01:25:50.640 --> 01:26:05.940
+So, that answers our question why we take R one and in our, ok? So this one I already explained in the in the.
+
+299 "Mohd Fareq Abd Malek" (1040536064)
+01:26:05.940 --> 01:26:24.540
+Yeah, previously. Let's do one, one more example. Just keep in mind, inductor, in the beginning it's an open circuit at the equals to zero after a long time.
+
+300 "Mohd Fareq Abd Malek" (1040536064)
+01:26:24.540 --> 01:26:42.270
+The inductor acts like an open 2nd, so the same when the switch is closed, actually it's the same we have done it.
+
+301 "Mohd Fareq Abd Malek" (1040536064)
+01:26:42.270 --> 01:26:58.350
+We we have done this this one just now I think it's just to check itself so there's NO numbers here. It's just L this one is there any number?
+
+302 "Mohd Fareq Abd Malek" (1040536064)
+01:26:58.350 --> 01:27:14.610
+Oh, should we continue to do it again? I think it's the same and and that's why to answer your friends question, when we switch is very confusing, so that's why we do, the equivalent circuit.
+
+303 "Mohd Fareq Abd Malek" (1040536064)
+01:27:14.610 --> 01:27:30.510
+And when we do the terminal equivalent circuits, the R terminal is only two kilowaters, ok? Not three or not two plus three. It's two kilowaters. So this all we have done, we have gone through.
+
+304 "Mohd Fareq Abd Malek" (1040536064)
+01:27:30.510 --> 01:27:49.830
+The steps, so I will I will I will skip it. This is what we have done through and also this is the all the different, the energizing and de energizing curves, ok? The energizing and de energizing curves.
+
+305 "Mohd Fareq Abd Malek" (1040536064)
+01:27:49.830 --> 01:28:05.880
+Which we have done here, we have done here, this is energizing and this is de energizing, de energizing. Almost there.
+
+306 "Mohd Fareq Abd Malek" (1040536064)
+01:28:05.880 --> 01:28:24.840
+And challenge problem, I will, I will not I will I will ask you to do but because it will be a good practice for the quiz.
+
+307 "Mohd Fareq Abd Malek" (1040536064)
+01:28:24.840 --> 01:28:42.720
+So I would like you to, so when we want to find out, we put the, we put the, the voltage source as a short circuit, right?
+
+308 "Mohd Fareq Abd Malek" (1040536064)
+01:28:42.720 --> 01:28:58.110
+We put the voltage replace the voltage source as a short circuit. So this is what happened and we want to look at this point of view from between A and B What do you think?
+
+309 "Mohd Fareq Abd Malek" (1040536064)
+01:28:58.110 --> 01:29:15.030
+Will be then if we look from this point of view. Do you think, in parallel? Both is both. So it's a good practice.
+
+310 "Mohd Fareq Abd Malek" (1040536064)
+01:29:15.030 --> 01:29:33.540
+So I, I will show you the hint. So here you I will draw it here. This, I will draw it here, this is what we are looking at between A and B We can look left or right.
+
+311 "Mohd Fareq Abd Malek" (1040536064)
+01:29:33.540 --> 01:29:48.960
+And here, we can redraw it like this. So these two are in parallel, this branch and this branch are in parallel, but here of course.
+
+312 "Mohd Fareq Abd Malek" (1040536064)
+01:29:48.960 --> 01:30:08.960
+These two are in series, but at the end, this branch is in parallel to this one. When we look to the left or to the right between A and B Of course in the quiz at 1130 or 1030, you will not get this difficult, you will.
+
+313 "Mohd Fareq Abd Malek" (1040536064)
+01:30:08.960 --> 01:30:28.320
+That's just a simple one, but it's a good practice to do this, to know a practice for terminent equivalent theory. So the next one, please find the R terminent, The.
+
+314 "Mohd Fareq Abd Malek" (1040536064)
+01:30:28.320 --> 01:30:45.420
+For this situation, for this situation, so I already redraw it redraw it in this manner, ok?
+
+315 "Mohd Fareq Abd Malek" (1040536064)
+01:30:45.420 --> 01:31:02.550
+1st, yeah, in this, so let me see again.
+
+316 "Mohd Fareq Abd Malek" (1040536064)
+01:31:02.550 --> 01:31:20.850
+I think we got it, I just put the answer there. So, because these two are in parallel, so this one is 20, this one is 20 as well because 16 plus four. So 20 multiply by 20.
+
+317 "Mohd Fareq Abd Malek" (1040536064)
+01:31:20.850 --> 01:31:38.340
+Divided by 20 plus 20. So the answer for our terminine is ten kilohams. The next step is to find the V terminum. To find the V terminine, we put back the workday source.
+
+318 "Mohd Fareq Abd Malek" (1040536064)
+01:31:38.340 --> 01:31:54.210
+Okay, we put back the voltage sauce. Now we look from between A and B, what do we see? What do you think will be the.
+
+319 "Mohd Fareq Abd Malek" (1040536064)
+01:31:54.210 --> 01:32:11.339
+The voltage B terminant when we, when we, look between A and B What's your opinion?
+
+320 "Mohd Fareq Abd Malek" (1040536064)
+01:32:11.339 --> 01:32:29.939
+Okay, yes, ok. So.
+
+321 "Mohd Fareq Abd Malek" (1040536064)
+01:32:29.939 --> 01:32:45.329
+So, so if we redraw that, we we withdraw this to this one, so twelve votes, 20, and we redraw four and 16 here.
+
+322 "Mohd Fareq Abd Malek" (1040536064)
+01:32:45.329 --> 01:33:03.149
+Four and 16, but actually four and 16, we want to, our point of view is between, here, 1st A is here and B is here. So we are looking.
+
+323 "Mohd Fareq Abd Malek" (1040536064)
+01:33:03.149 --> 01:33:21.839
+Between, here, right? This is what is our looking between A and B, and I hope you see that this is a volt voltage divider theory to find this voltage.
+
+324 "Mohd Fareq Abd Malek" (1040536064)
+01:33:21.839 --> 01:33:37.199
+And you use the voltage divider theory. So the next question is to find the voltage avenum looking from the point of view of A B and.
+
+325 "Mohd Fareq Abd Malek" (1040536064)
+01:33:37.199 --> 01:33:55.589
+The voltage seven in, is, is equal to, the voltage divided theory, so I'll just give the answer.
+
+326 "Mohd Fareq Abd Malek" (1040536064)
+01:33:55.589 --> 01:34:10.589
+20 divided by twen 40 multiplied by twelve, so you will get six votes for the.
+
+327 "Mohd Fareq Abd Malek" (1040536064)
+01:34:10.589 --> 01:34:29.909
+So now, after all the confusions, because after all the complicated complicated too many registers, too many registers, we have summarized it into V terminent, one V terminine 6 v and the R terminine ten kilowamts.
+
+328 "Mohd Fareq Abd Malek" (1040536064)
+01:34:29.909 --> 01:34:45.749
+And of course our note is 80 millions. I hope you still remember the TAO, the towelve is for the RL circuit, the towel for the RL circuit.
+
+329 "Mohd Fareq Abd Malek" (1040536064)
+01:34:45.749 --> 01:35:01.439
+And let me see how many more seconds available. So, the towel for the RL circuit is L over R So now you can use.
+
+330 "Mohd Fareq Abd Malek" (1040536064)
+01:35:01.439 --> 01:35:19.949
+The correct R because we have done the termining circuit is going to be easy for us. It's going to be easy. So the Tao the Tao is L over R So with that.
+
+331 "Mohd Fareq Abd Malek" (1040536064)
+01:35:19.949 --> 01:35:39.949
+And let's go to the next question to find the Tao, the tao after performing the tabant equivalent circuits. So the Tao, the tao for this is.
+
+332 "Mohd Fareq Abd Malek" (1040536064)
+01:35:39.949 --> 01:35:46.769
+Okay.
+
+333 "Mohd Fareq Abd Malek" (1040536064)
+01:35:46.769 --> 01:36:02.879
+18 millionaries L over R, this question should not be not in the quiz because it's all inducted but it's just to practice for the tabinet.
+
+334 "Mohd Fareq Abd Malek" (1040536064)
+01:36:02.879 --> 01:36:20.219
+Is it's not for the inductor that you will have Devin for for the previous weeks and NO inductors will be asked. And here is the.
+
+335 "Mohd Fareq Abd Malek" (1040536064)
+01:36:20.219 --> 01:36:36.509
+Perf for the voltage across L and the current across L So here is another challenge, so this challenge you can do.
+
+336 "Mohd Fareq Abd Malek" (1040536064)
+01:36:36.509 --> 01:36:52.769
+It's not going to be in the final exam, you can just test yourself at home. The inductors can be placed in series or in parallel, so the inductors in series.
+
+337 "Mohd Fareq Abd Malek" (1040536064)
+01:36:52.769 --> 01:37:09.659
+You add them, ok? You add them to get the total inductance. Steady state conditions is when for a long time.
+
+338 "Mohd Fareq Abd Malek" (1040536064)
+01:37:09.659 --> 01:37:28.289
+So the inductor acts like a short circuit after a long time, after a steady state has been established, ok? So as a practice for the steady state, so after a steady state for a long time, the inductor will.
+
+339 "Mohd Fareq Abd Malek" (1040536064)
+01:37:28.289 --> 01:37:48.289
+Because like a short circuit, can I know this is I want? So what is I want after a long time? What will be, what do you think will be the I want value in this situation?
+
+340 "Mohd Fareq Abd Malek" (1040536064)
+01:37:48.289 --> 01:38:06.569
+After a long time where after a long time, the inductor looks like a short sentence. So just try your knowledge, just want your your opinion after a long time, what will happen to the I want?
+
+341 "Mohd Fareq Abd Malek" (1040536064)
+01:38:06.569 --> 01:38:24.809
+So Iwan is here, so what do you think will happen to what's the value of I want? So just see that this current is from here, right?
+
+342 "Mohd Fareq Abd Malek" (1040536064)
+01:38:24.809 --> 01:38:40.199
+Current, from here move here. So there's a junction, so current doesn't like resistance, right? It, there are two choices here and here, but.
+
+343 "Mohd Fareq Abd Malek" (1040536064)
+01:38:40.199 --> 01:38:55.349
+It's total, total, NO resistance. Why should I don't like opposition, so I I will not travel, I will not, the current will, will not travel to here.
+
+344 "Mohd Fareq Abd Malek" (1040536064)
+01:38:55.349 --> 01:39:13.709
+This means the current here is zero, right? Zero. So what do you, this means is like this has bypassed this one, right? Okay, because all the current at this junction with load.
+
+345 "Mohd Fareq Abd Malek" (1040536064)
+01:39:13.709 --> 01:39:32.069
+With the zero resistance wire. With that, you can see that current is simply 10 v divided by two orgs. These three obs is becoming not relevant, ok?
+
+346 "Mohd Fareq Abd Malek" (1040536064)
+01:39:32.069 --> 01:39:51.929
+So at a steady state for a long time, the conductor will, will look, look like a short circuit. So you know that the current from the supplies come here, there is a two choice.
+
+347 "Mohd Fareq Abd Malek" (1040536064)
+01:39:51.929 --> 01:40:09.209
+Either here or both. You can see they don't like resist is a short circuits so they will not travel to here, which makes this to be bypassed. So the current here and here.
+
+348 "Mohd Fareq Abd Malek" (1040536064)
+01:40:09.209 --> 01:40:25.649
+Now the current is split split, right? Some will go here because these three orgs and some will go here. But you can analyze that these two, these two are in parallel.
+
+349 "Mohd Fareq Abd Malek" (1040536064)
+01:40:25.649 --> 01:40:43.139
+So these two are in parallel, the resultant is two oms, but this blue box as a whole is, is simply two oms, two oms. So here we have two inductors and the two inductors act like a short 2nd.
+
+350 "Mohd Fareq Abd Malek" (1040536064)
+01:40:47.249 --> 01:41:04.619
+So can I know, after, this is bypassed I already informed you, can I ask you, what is I want? What is I want?
+
+351 "Mohd Fareq Abd Malek" (1040536064)
+01:41:11.669 --> 01:41:31.669
+So I I give the hint, if this is 24 on votes, this is NO more there, this is just short wire. I also I give some written writing here to show the hint and I think you know the hint already so you can answer what is Taiwan.
+
+352 "Mohd Fareq Abd Malek" (1040536064)
+01:41:31.669 --> 01:41:50.069
+Okay, what is I want? In this situation, what is I want in this situation.
+
+353 "Mohd Fareq Abd Malek" (1040536064)
+01:41:50.069 --> 01:42:05.699
+So I want is home slow, so.
+
+354 "Mohd Fareq Abd Malek" (1040536064)
+01:42:05.699 --> 01:42:22.709
+21 divided by three. Can I ask you, I3, what is the value of I3? So I3 is this one. So if this.
+
+355 "Mohd Fareq Abd Malek" (1040536064)
+01:42:22.709 --> 01:42:40.319
+So I think you can, you can use the old slot as well, and I see how many more.
+
+356 "Mohd Fareq Abd Malek" (1040536064)
+01:42:40.319 --> 01:42:58.799
+Okay, how many more another 35 s give more some time. So I want in seven M's and I believe you know what is I3, so if this is 21 v.
+
+357 "Mohd Fareq Abd Malek" (1040536064)
+01:42:58.799 --> 01:43:18.179
+If they are in parallel, this must be 21 v, so you can now obtained the value, you, you can now select.
+
+358 "Mohd Fareq Abd Malek" (1040536064)
+01:43:18.179 --> 01:43:33.359
+The value of, I3 and the good news, I don't give, 30 min.
+
+359 "Mohd Fareq Abd Malek" (1040536064)
+01:43:33.359 --> 01:43:52.079
+I give 45 min for quiz too. I give an extra 15 min. So now you your time you will be have a lot of time to check, ok? So I3 is, find the I3.
+
+360 "Mohd Fareq Abd Malek" (1040536064)
+01:43:59.219 --> 01:44:19.219
+So any question so I3.
+
+361 "Mohd Fareq Abd Malek" (1040536064)
+01:44:19.219 --> 01:44:34.349
+And last but not least, what is IL, in this situation?
+
+362 "Mohd Fareq Abd Malek" (1040536064)
+01:44:34.349 --> 01:44:51.179
+Okay. So our here is the voltage across the voltage is 10 v.
+
+363 "Mohd Fareq Abd Malek" (1040536064)
+01:44:51.179 --> 01:45:06.389
+Divided by three owns. So I will reveal it, ok? Divided by two plus three and last but not least, what.
+
+364 "Mohd Fareq Abd Malek" (1040536064)
+01:45:06.389 --> 01:45:26.159
+No current will flow through here when the capacitor becomes an open 2nd, so view it as VC, let's check 4 s.
+
+365 "Mohd Fareq Abd Malek" (1040536064)
+01:45:26.159 --> 01:45:41.669
+So you will have 45 min instead of 30 min as I give a bonus of 15 min for the quiz too. Not to say it's more difficult, but just more time. You can finish it early and.
+
+366 "Mohd Fareq Abd Malek" (1040536064)
+01:45:41.669 --> 01:46:00.299
+I believe you will be able to finish it early. So IL is, two mpious and.
+
+367 "Mohd Fareq Abd Malek" (1040536064)
+01:46:00.299 --> 01:46:16.349
+Last question is VC VC is VC is, if we look from here, you will see a voltage divider theory.
+
+368 "Mohd Fareq Abd Malek" (1040536064)
+01:46:16.349 --> 01:46:36.349
+So we see it's looking from here and you are actually looking at the voltage across R two. Okay, so.
+
+369 "Mohd Fareq Abd Malek" (1040536064)
+01:46:36.349 --> 01:46:46.499
+So the energy stocked by inductor is half li squared. So all the bests, thank you, thank you very much.
+
+370 "Mohd Fareq Abd Malek" (1040536064)
+01:46:46.499 --> 01:47:06.499
+Hope you do well in the. Yeah.
+
+371 "Mohd Fareq Abd Malek" (1040536064)
+01:47:06.499 --> 01:47:25.859
+Oh, everything, everyone is there. Yeah. Yes yes.
+
+372 "Mohd Fareq Abd Malek" (1040536064)
+01:47:25.859 --> 01:47:44.549
+Okay. Yes, ok?
+
+373 "Mohd Fareq Abd Malek" (1040536064)
+01:47:44.549 --> 01:48:04.549
+So please make sure, keep your.
+
+374 "Mohd Fareq Abd Malek" (1040536064)
+01:48:04.549 --> 01:48:12.299
+Okay, uh.
+
+375 "Mohd Fareq Abd Malek" (1040536064)
+01:48:12.299 --> 01:48:30.569
+Okay, uh.
+
+376 "Mohd Fareq Abd Malek" (1040536064)
+01:48:30.569 --> 01:48:49.049
+Okay. Okay.
+
+377 "Mohd Fareq Abd Malek" (1040536064)
+01:48:52.349 --> 01:49:11.369
+Okay. Okay.
+
+378 "Mohd Fareq Abd Malek" (1040536064)
+01:49:11.369 --> 01:49:14.052
+Okay.
