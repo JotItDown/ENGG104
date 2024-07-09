@@ -1,0 +1,3689 @@
+WEBVTT
+
+1 "Mohd Fareq Abd Malek" (3159643136)
+00:01:25.650 --> 00:01:45.650
+Hello.
+
+2 "Mohd Fareq Abd Malek" (3159643136)
+00:04:25.650 --> 00:04:43.349
+Thank you.
+
+3 "Mohd Fareq Abd Malek" (3159643136)
+00:07:08.549 --> 00:07:28.549
+Hello.
+
+4 "Mohd Fareq Abd Malek" (3159643136)
+00:11:27.259 --> 00:11:41.009
+1.
+
+5 "Mohd Fareq Abd Malek" (3159643136)
+00:11:47.099 --> 00:11:50.249
+It's part of the electronic.
+
+6 "Mohd Fareq Abd Malek" (3159643136)
+00:11:50.249 --> 00:11:53.639
+Start from.
+
+7 "Mohd Fareq Abd Malek" (3159643136)
+00:11:53.639 --> 00:11:59.729
+Writing no, no, not not.
+
+8 "Mohd Fareq Abd Malek" (3159643136)
+00:11:59.729 --> 00:12:17.879
+The last 2.
+
+9 "Mohd Fareq Abd Malek" (3159643136)
+00:12:17.879 --> 00:12:21.929
+Hello.
+
+10 "Mohd Fareq Abd Malek" (3159643136)
+00:12:30.059 --> 00:12:34.739
+Take care.
+
+11 "Mohd Fareq Abd Malek" (3159643136)
+00:12:39.689 --> 00:12:59.689
+Hello.
+
+12 "Mohd Fareq Abd Malek" (3159643136)
+00:12:59.689 --> 00:13:08.039
+Hello.
+
+13 "Mohd Fareq Abd Malek" (3159643136)
+00:13:16.109 --> 00:13:21.239
+Hello.
+
+14 "Mohd Fareq Abd Malek" (3159643136)
+00:13:21.239 --> 00:13:24.929
+Good morning. Oh, cool. Everyone is good.
+
+15 "Mohd Fareq Abd Malek" (3159643136)
+00:13:28.799 --> 00:13:32.519
+Here, let's do it.
+
+16 "Mohd Fareq Abd Malek" (3159643136)
+00:13:35.879 --> 00:13:42.179
+So, we will, we will start with our lecture 5, and I hope to.
+
+17 "Mohd Fareq Abd Malek" (3159643136)
+00:13:42.179 --> 00:13:46.709
+Earlier, so that we have some.
+
+18 "Mohd Fareq Abd Malek" (3159643136)
+00:13:46.709 --> 00:13:50.879
+Um, some time to revise for the.
+
+19 "Mohd Fareq Abd Malek" (3159643136)
+00:13:50.879 --> 00:13:54.179
+With the exact midterm exam will start on.
+
+20 "Mohd Fareq Abd Malek" (3159643136)
+00:13:54.179 --> 00:13:58.229
+10 3010 30.
+
+21 "Mohd Fareq Abd Malek" (3159643136)
+00:14:01.229 --> 00:14:06.359
+In today's lecture facts, we are going to learn superposition.
+
+22 "Mohd Fareq Abd Malek" (3159643136)
+00:14:06.359 --> 00:14:12.539
+And equivalence and.
+
+23 "Mohd Fareq Abd Malek" (3159643136)
+00:14:12.539 --> 00:14:16.409
+What does the superposition States?
+
+24 "Mohd Fareq Abd Malek" (3159643136)
+00:14:16.409 --> 00:14:23.159
+It states that the current through or voltage across any element of a network is equal.
+
+25 "Mohd Fareq Abd Malek" (3159643136)
+00:14:23.159 --> 00:14:27.599
+To the algebraic, some of the currents of voltages produce.
+
+26 "Mohd Fareq Abd Malek" (3159643136)
+00:14:27.599 --> 00:14:31.169
+Independently by.
+
+27 "Mohd Fareq Abd Malek" (3159643136)
+00:14:31.169 --> 00:14:35.339
+So, we have, um.
+
+28 "Mohd Fareq Abd Malek" (3159643136)
+00:14:35.339 --> 00:14:39.779
+Have you guys have seen, uh, you have seen in the past 5 weeks?
+
+29 "Mohd Fareq Abd Malek" (3159643136)
+00:14:39.779 --> 00:14:45.689
+There are several more than 1 method to solve, uh, 2nd, problems.
+
+30 "Mohd Fareq Abd Malek" (3159643136)
+00:14:45.689 --> 00:14:56.879
+So, in this situation, we are going to learn another method, which is called Super position.
+
+31 "Mohd Fareq Abd Malek" (3159643136)
+00:14:56.879 --> 00:15:00.929
+So, in, uh.
+
+32 "Mohd Fareq Abd Malek" (3159643136)
+00:15:00.929 --> 00:15:04.499
+You can see in this circuit here.
+
+33 "Mohd Fareq Abd Malek" (3159643136)
+00:15:04.499 --> 00:15:11.129
+We have to resist us what voltage sauce and 1 current sauce. Okay.
+
+34 "Mohd Fareq Abd Malek" (3159643136)
+00:15:11.129 --> 00:15:17.279
+1 current source, so from the name.
+
+35 "Mohd Fareq Abd Malek" (3159643136)
+00:15:17.279 --> 00:15:20.939
+The support position means we focus.
+
+36 "Mohd Fareq Abd Malek" (3159643136)
+00:15:20.939 --> 00:15:25.139
+On 1 source, we remove the other sauce.
+
+37 "Mohd Fareq Abd Malek" (3159643136)
+00:15:25.139 --> 00:15:29.399
+We do whatever it is required.
+
+38 "Mohd Fareq Abd Malek" (3159643136)
+00:15:29.399 --> 00:15:33.299
+And that we focus on the other source.
+
+39 "Mohd Fareq Abd Malek" (3159643136)
+00:15:33.299 --> 00:15:39.269
+We remove, uh, the other 1 and we do whatever and then.
+
+40 "Mohd Fareq Abd Malek" (3159643136)
+00:15:39.269 --> 00:15:45.539
+At the end, we add both of them together so that is that's why it's called superposition.
+
+41 "Mohd Fareq Abd Malek" (3159643136)
+00:15:45.539 --> 00:15:50.549
+So, if we have here, we have 2 sources.
+
+42 "Mohd Fareq Abd Malek" (3159643136)
+00:15:50.549 --> 00:15:54.269
+I work at sauce and sauce, so.
+
+43 "Mohd Fareq Abd Malek" (3159643136)
+00:15:54.269 --> 00:15:57.719
+The strategy is when you.
+
+44 "Mohd Fareq Abd Malek" (3159643136)
+00:15:57.719 --> 00:16:03.479
+When you want to focus on the current source.
+
+45 "Mohd Fareq Abd Malek" (3159643136)
+00:16:03.479 --> 00:16:08.399
+Therefore, you must remove the voltage sauce.
+
+46 "Mohd Fareq Abd Malek" (3159643136)
+00:16:08.399 --> 00:16:12.449
+Be moving removing the voltage sauce means.
+
+47 "Mohd Fareq Abd Malek" (3159643136)
+00:16:12.449 --> 00:16:18.629
+Replacing the voltage sauce with, uh, short circuit.
+
+48 "Mohd Fareq Abd Malek" (3159643136)
+00:16:18.629 --> 00:16:25.709
+A straight line if we want to focus on the voltage sauce.
+
+49 "Mohd Fareq Abd Malek" (3159643136)
+00:16:25.709 --> 00:16:29.129
+We will remove the current source.
+
+50 "Mohd Fareq Abd Malek" (3159643136)
+00:16:29.129 --> 00:16:38.249
+And by removing the current sauce, we are replacing the current sauce with an open circuit.
+
+51 "Mohd Fareq Abd Malek" (3159643136)
+00:16:38.249 --> 00:16:44.639
+So, why why what is the strategy means? This means we.
+
+52 "Mohd Fareq Abd Malek" (3159643136)
+00:16:44.639 --> 00:16:47.969
+When we remove, uh, 1 of the sauce.
+
+53 "Mohd Fareq Abd Malek" (3159643136)
+00:16:47.969 --> 00:16:52.589
+Now, we can do whatever like calculations.
+
+54 "Mohd Fareq Abd Malek" (3159643136)
+00:16:52.589 --> 00:16:59.879
+Um, for example, voltage current and so forth, and we take note of the answer.
+
+55 "Mohd Fareq Abd Malek" (3159643136)
+00:16:59.879 --> 00:17:05.339
+And we now focus on the other source, which is current source.
+
+56 "Mohd Fareq Abd Malek" (3159643136)
+00:17:05.339 --> 00:17:10.649
+And we remove the voltage sauce.
+
+57 "Mohd Fareq Abd Malek" (3159643136)
+00:17:10.649 --> 00:17:15.959
+Plus by removing devoted sauce, we are replacing it with.
+
+58 "Mohd Fareq Abd Malek" (3159643136)
+00:17:15.959 --> 00:17:20.699
+A short circuit, which means a simple 1.
+
+59 "Mohd Fareq Abd Malek" (3159643136)
+00:17:20.699 --> 00:17:24.359
+Simple wire there at the end.
+
+60 "Mohd Fareq Abd Malek" (3159643136)
+00:17:24.359 --> 00:17:28.409
+After we do, uh, our operations.
+
+61 "Mohd Fareq Abd Malek" (3159643136)
+00:17:28.409 --> 00:17:35.579
+We get the results and, uh, for this case, we do our calculations and operations. We get the results.
+
+62 "Mohd Fareq Abd Malek" (3159643136)
+00:17:35.579 --> 00:17:41.129
+And that we add superposition means we add, uh, this results.
+
+63 "Mohd Fareq Abd Malek" (3159643136)
+00:17:41.129 --> 00:17:44.429
+To do these results to get.
+
+64 "Mohd Fareq Abd Malek" (3159643136)
+00:17:44.429 --> 00:17:49.379
+To get the final correct answer.
+
+65 "Mohd Fareq Abd Malek" (3159643136)
+00:17:49.379 --> 00:17:55.409
+So that is the concept of superposition and the name is, makes it easy.
+
+66 "Mohd Fareq Abd Malek" (3159643136)
+00:17:55.409 --> 00:17:59.729
+To to understand the logic, because we.
+
+67 "Mohd Fareq Abd Malek" (3159643136)
+00:17:59.729 --> 00:18:05.399
+We act, uh, both results together. That's why it is called Super position.
+
+68 "Mohd Fareq Abd Malek" (3159643136)
+00:18:05.399 --> 00:18:12.599
+It's best to to look at some examples.
+
+69 "Mohd Fareq Abd Malek" (3159643136)
+00:18:12.599 --> 00:18:17.729
+So, the theory of superposition means that.
+
+70 "Mohd Fareq Abd Malek" (3159643136)
+00:18:17.729 --> 00:18:21.029
+If we have if you want to remove.
+
+71 "Mohd Fareq Abd Malek" (3159643136)
+00:18:21.029 --> 00:18:27.569
+What takes us we are going to replace it with a short 2nd.
+
+72 "Mohd Fareq Abd Malek" (3159643136)
+00:18:27.569 --> 00:18:31.679
+If we are going to remove current sauce.
+
+73 "Mohd Fareq Abd Malek" (3159643136)
+00:18:31.679 --> 00:18:36.239
+We are going we are going to replace it with an open a 2nd.
+
+74 "Mohd Fareq Abd Malek" (3159643136)
+00:18:36.239 --> 00:18:46.079
+With an open 2nd, so let's look at 1 example of superposition. So, as, you know.
+
+75 "Mohd Fareq Abd Malek" (3159643136)
+00:18:46.079 --> 00:18:50.669
+Um, we were asked to find Karen, I, to.
+
+76 "Mohd Fareq Abd Malek" (3159643136)
+00:18:50.669 --> 00:18:54.689
+So this is I do in this branch.
+
+77 "Mohd Fareq Abd Malek" (3159643136)
+00:18:54.689 --> 00:18:58.259
+In this branch in this, uh, in this branch.
+
+78 "Mohd Fareq Abd Malek" (3159643136)
+00:18:58.259 --> 00:19:02.849
+So, I know that there are several ways to solve it.
+
+79 "Mohd Fareq Abd Malek" (3159643136)
+00:19:02.849 --> 00:19:06.269
+Is using maybe you want to convert.
+
+80 "Mohd Fareq Abd Malek" (3159643136)
+00:19:06.269 --> 00:19:10.799
+The work that sauce to become current sauce in parallel.
+
+81 "Mohd Fareq Abd Malek" (3159643136)
+00:19:10.799 --> 00:19:17.009
+So that parallel current source can be added. So that is also valued.
+
+82 "Mohd Fareq Abd Malek" (3159643136)
+00:19:17.009 --> 00:19:22.619
+But today we are going to learn a new technique, which is.
+
+83 "Mohd Fareq Abd Malek" (3159643136)
+00:19:22.619 --> 00:19:27.389
+Uh, support position Kyoto.
+
+84 "Mohd Fareq Abd Malek" (3159643136)
+00:19:27.389 --> 00:19:32.219
+Superposition to Europe. So superposition States the 1st step is.
+
+85 "Mohd Fareq Abd Malek" (3159643136)
+00:19:32.219 --> 00:19:38.309
+To focus on 1 source and remove the other source.
+
+86 "Mohd Fareq Abd Malek" (3159643136)
+00:19:38.309 --> 00:19:42.299
+The next step is to focus on.
+
+87 "Mohd Fareq Abd Malek" (3159643136)
+00:19:42.299 --> 00:19:48.029
+Current sauce and remove the voltage. So so now we are doing this.
+
+88 "Mohd Fareq Abd Malek" (3159643136)
+00:19:48.029 --> 00:19:57.929
+Okay, now we start this position. 0, so we are now focusing on, uh, what the sauce and removing the current sauce.
+
+89 "Mohd Fareq Abd Malek" (3159643136)
+00:19:57.929 --> 00:20:02.579
+So, when we focus on the.
+
+90 "Mohd Fareq Abd Malek" (3159643136)
+00:20:02.579 --> 00:20:07.199
+So, the theory states that when we removed the current.
+
+91 "Mohd Fareq Abd Malek" (3159643136)
+00:20:07.199 --> 00:20:12.449
+We replace it with an open. 2nd.
+
+92 "Mohd Fareq Abd Malek" (3159643136)
+00:20:12.449 --> 00:20:18.209
+So, we, we, we, we, we replace it with open a 2nd, so I just.
+
+93 "Mohd Fareq Abd Malek" (3159643136)
+00:20:18.209 --> 00:20:25.379
+Go back to the theory. So re, replace all any current process with open circuits.
+
+94 "Mohd Fareq Abd Malek" (3159643136)
+00:20:25.379 --> 00:20:29.969
+We've open seconds. No. So now this is open.
+
+95 "Mohd Fareq Abd Malek" (3159643136)
+00:20:29.969 --> 00:20:33.299
+And so.
+
+96 "Mohd Fareq Abd Malek" (3159643136)
+00:20:33.299 --> 00:20:38.219
+We, we will ask originally to find, uh, I do.
+
+97 "Mohd Fareq Abd Malek" (3159643136)
+00:20:38.219 --> 00:20:43.319
+So, i2 is here, so it looks like.
+
+98 "Mohd Fareq Abd Malek" (3159643136)
+00:20:43.319 --> 00:20:48.209
+Let's use mesh mesh.
+
+99 "Mohd Fareq Abd Malek" (3159643136)
+00:20:48.209 --> 00:20:51.419
+Uh, uh.
+
+100 "Mohd Fareq Abd Malek" (3159643136)
+00:20:51.419 --> 00:20:56.339
+This means, um, or you can use, um.
+
+101 "Mohd Fareq Abd Malek" (3159643136)
+00:20:56.339 --> 00:21:02.759
+After you viewing this, you can observe that. This is.
+
+102 "Mohd Fareq Abd Malek" (3159643136)
+00:21:02.759 --> 00:21:06.659
+Uh, simply, uh, series.
+
+103 "Mohd Fareq Abd Malek" (3159643136)
+00:21:06.659 --> 00:21:21.149
+A series a resistor cause this is open circuit. So this is normal. Uh, no more relevant. So we all.
+
+104 "Mohd Fareq Abd Malek" (3159643136)
+00:21:21.149 --> 00:21:24.809
+You only have this with, uh, 12 homes.
+
+105 "Mohd Fareq Abd Malek" (3159643136)
+00:21:24.809 --> 00:21:30.419
+And 6:00:00, um.
+
+106 "Mohd Fareq Abd Malek" (3159643136)
+00:21:30.419 --> 00:21:38.579
+We were asked to find the I do, but we don't call I too, because I do is the final we just for.
+
+107 "Mohd Fareq Abd Malek" (3159643136)
+00:21:38.579 --> 00:21:44.849
+So, not to confuse because we need to do the other 1 to add them together.
+
+108 "Mohd Fareq Abd Malek" (3159643136)
+00:21:44.849 --> 00:21:49.949
+And here, we can see it at 6 volts.
+
+109 "Mohd Fareq Abd Malek" (3159643136)
+00:21:49.949 --> 00:21:55.439
+So, I do in series, I think you agree with me.
+
+110 "Mohd Fareq Abd Malek" (3159643136)
+00:21:55.439 --> 00:21:59.879
+This is a serious occur law states that.
+
+111 "Mohd Fareq Abd Malek" (3159643136)
+00:21:59.879 --> 00:22:03.119
+I do that. Sorry?
+
+112 "Mohd Fareq Abd Malek" (3159643136)
+00:22:03.119 --> 00:22:07.979
+I, I.
+
+113 "Mohd Fareq Abd Malek" (3159643136)
+00:22:07.979 --> 00:22:13.619
+We call it dash so not to confuse with the final answer that required a voltage.
+
+114 "Mohd Fareq Abd Malek" (3159643136)
+00:22:13.619 --> 00:22:18.809
+Over total resistance.
+
+115 "Mohd Fareq Abd Malek" (3159643136)
+00:22:18.809 --> 00:22:23.039
+So, we got 2 Mbps so we take note.
+
+116 "Mohd Fareq Abd Malek" (3159643136)
+00:22:23.039 --> 00:22:27.479
+That by removing the current sauce.
+
+117 "Mohd Fareq Abd Malek" (3159643136)
+00:22:27.479 --> 00:22:30.629
+Maintaining the what the sauce.
+
+118 "Mohd Fareq Abd Malek" (3159643136)
+00:22:30.629 --> 00:22:37.019
+Uh, we got 2 for the eye to eye 2 dash.
+
+119 "Mohd Fareq Abd Malek" (3159643136)
+00:22:37.019 --> 00:22:42.239
+So, the next step is now we go back to the original.
+
+120 "Mohd Fareq Abd Malek" (3159643136)
+00:22:42.239 --> 00:22:46.349
+Now, we maintain the current source.
+
+121 "Mohd Fareq Abd Malek" (3159643136)
+00:22:46.349 --> 00:22:51.449
+And we remove the voltage source. Mm. Hmm.
+
+122 "Mohd Fareq Abd Malek" (3159643136)
+00:22:51.449 --> 00:22:58.259
+Now, the next step is to remove the, what results and maintain the current source.
+
+123 "Mohd Fareq Abd Malek" (3159643136)
+00:22:58.259 --> 00:23:05.219
+So, now we are doing that, so, and the theory states, so we are now focusing on the current source.
+
+124 "Mohd Fareq Abd Malek" (3159643136)
+00:23:05.219 --> 00:23:08.369
+And removing the voltage sauce.
+
+125 "Mohd Fareq Abd Malek" (3159643136)
+00:23:08.369 --> 00:23:18.779
+Moving to market source the workday source will be replaced by, uh, or the straight wire.
+
+126 "Mohd Fareq Abd Malek" (3159643136)
+00:23:18.779 --> 00:23:24.479
+And that in mind, we need to find the I, to, which is.
+
+127 "Mohd Fareq Abd Malek" (3159643136)
+00:23:24.479 --> 00:23:28.049
+In, uh, in.
+
+128 "Mohd Fareq Abd Malek" (3159643136)
+00:23:28.049 --> 00:23:31.709
+This branch, so let's look.
+
+129 "Mohd Fareq Abd Malek" (3159643136)
+00:23:31.709 --> 00:23:36.599
+Let's look here, so we can also some, um.
+
+130 "Mohd Fareq Abd Malek" (3159643136)
+00:23:36.599 --> 00:23:43.949
+Some things that we can use, we can put, uh, the R1.
+
+131 "Mohd Fareq Abd Malek" (3159643136)
+00:23:43.949 --> 00:23:48.329
+Here the, you can put here.
+
+132 "Mohd Fareq Abd Malek" (3159643136)
+00:23:48.329 --> 00:23:51.359
+Uh, is still here.
+
+133 "Mohd Fareq Abd Malek" (3159643136)
+00:23:51.359 --> 00:23:56.609
+I'm still here and this is.
+
+134 "Mohd Fareq Abd Malek" (3159643136)
+00:23:56.609 --> 00:24:01.529
+The current the current source.
+
+135 "Mohd Fareq Abd Malek" (3159643136)
+00:24:01.529 --> 00:24:08.609
+And the current, uh, current sauce is 9.
+
+136 "Mohd Fareq Abd Malek" (3159643136)
+00:24:08.609 --> 00:24:11.939
+Therefore, these 9 we flow here.
+
+137 "Mohd Fareq Abd Malek" (3159643136)
+00:24:15.389 --> 00:24:19.139
+And I will flow here and you can observe.
+
+138 "Mohd Fareq Abd Malek" (3159643136)
+00:24:19.139 --> 00:24:27.509
+You can use current divider theory, because this current will flow to this junction. It will be split.
+
+139 "Mohd Fareq Abd Malek" (3159643136)
+00:24:27.509 --> 00:24:35.249
+2:2:colors, but we are more interested to find the i2. That's the.
+
+140 "Mohd Fareq Abd Malek" (3159643136)
+00:24:35.249 --> 00:24:39.269
+Request in the question, so.
+
+141 "Mohd Fareq Abd Malek" (3159643136)
+00:24:39.269 --> 00:24:44.159
+This we call it out to dash dash dash.
+
+142 "Mohd Fareq Abd Malek" (3159643136)
+00:24:44.159 --> 00:24:49.229
+Uh, just to not to confuse, because I do is, I will find the answer.
+
+143 "Mohd Fareq Abd Malek" (3159643136)
+00:24:49.229 --> 00:24:54.869
+And I will write here 12 homes.
+
+144 "Mohd Fareq Abd Malek" (3159643136)
+00:24:54.869 --> 00:25:00.119
+This is 6 hours so I hope you.
+
+145 "Mohd Fareq Abd Malek" (3159643136)
+00:25:00.119 --> 00:25:03.929
+You still remember the special formula.
+
+146 "Mohd Fareq Abd Malek" (3159643136)
+00:25:03.929 --> 00:25:07.199
+For the current divider theory.
+
+147 "Mohd Fareq Abd Malek" (3159643136)
+00:25:07.199 --> 00:25:10.889
+We'll get, uh, I do in this branch.
+
+148 "Mohd Fareq Abd Malek" (3159643136)
+00:25:10.889 --> 00:25:18.329
+So, I do, but we don't try to to avoid confusion. We call.
+
+149 "Mohd Fareq Abd Malek" (3159643136)
+00:25:18.329 --> 00:25:22.619
+If we look at the opposite branch.
+
+150 "Mohd Fareq Abd Malek" (3159643136)
+00:25:22.619 --> 00:25:26.489
+Which is 12 volts divide that.
+
+151 "Mohd Fareq Abd Malek" (3159643136)
+00:25:26.489 --> 00:25:31.979
+By the total, which is 6+12.
+
+152 "Mohd Fareq Abd Malek" (3159643136)
+00:25:31.979 --> 00:25:36.479
+Uh, multiply the total color, which is 9. 0.
+
+153 "Mohd Fareq Abd Malek" (3159643136)
+00:25:39.779 --> 00:25:46.829
+And when we do that calculation is 6.
+
+154 "Mohd Fareq Abd Malek" (3159643136)
+00:25:46.829 --> 00:25:51.839
+So, we take the to Prime.
+
+155 "Mohd Fareq Abd Malek" (3159643136)
+00:25:51.839 --> 00:25:56.549
+From the previous answer, which is to.
+
+156 "Mohd Fareq Abd Malek" (3159643136)
+00:25:56.549 --> 00:26:04.589
+To, and, uh, I to double Prime that we just update, which is 6.
+
+157 "Mohd Fareq Abd Malek" (3159643136)
+00:26:04.589 --> 00:26:09.809
+And superposition Europe means.
+
+158 "Mohd Fareq Abd Malek" (3159643136)
+00:26:09.809 --> 00:26:18.389
+We add this 2 2+6 to get the final answer.
+
+159 "Mohd Fareq Abd Malek" (3159643136)
+00:26:18.389 --> 00:26:21.389
+Get the final answer so that is.
+
+160 "Mohd Fareq Abd Malek" (3159643136)
+00:26:21.389 --> 00:26:24.509
+The technique of Super position.
+
+161 "Mohd Fareq Abd Malek" (3159643136)
+00:26:24.509 --> 00:26:27.659
+So, um.
+
+162 "Mohd Fareq Abd Malek" (3159643136)
+00:26:27.659 --> 00:26:30.839
+I understand that, uh.
+
+163 "Mohd Fareq Abd Malek" (3159643136)
+00:26:30.839 --> 00:26:36.899
+There are different ways to solve the. You can also.
+
+164 "Mohd Fareq Abd Malek" (3159643136)
+00:26:36.899 --> 00:26:40.379
+Convert the voltage sauce and this.
+
+165 "Mohd Fareq Abd Malek" (3159643136)
+00:26:40.379 --> 00:26:44.399
+Register to become current source and register in parallel.
+
+166 "Mohd Fareq Abd Malek" (3159643136)
+00:26:44.399 --> 00:26:51.689
+And to that, uh, parallel sauce can be added together because that's the theory that we have learned.
+
+167 "Mohd Fareq Abd Malek" (3159643136)
+00:26:51.689 --> 00:26:54.869
+And so forth, but.
+
+168 "Mohd Fareq Abd Malek" (3159643136)
+00:26:54.869 --> 00:27:02.429
+This is another technique, a, another strategy, which is called the Super position.
+
+169 "Mohd Fareq Abd Malek" (3159643136)
+00:27:02.429 --> 00:27:06.959
+Super position, so superposition terror means.
+
+170 "Mohd Fareq Abd Malek" (3159643136)
+00:27:06.959 --> 00:27:13.589
+Focus each current source was that the 1st step is to focus.
+
+171 "Mohd Fareq Abd Malek" (3159643136)
+00:27:13.589 --> 00:27:19.229
+The, uh, what the sauce so we focus it.
+
+172 "Mohd Fareq Abd Malek" (3159643136)
+00:27:19.229 --> 00:27:22.889
+But we remove the current source.
+
+173 "Mohd Fareq Abd Malek" (3159643136)
+00:27:22.889 --> 00:27:29.249
+So, the current source is removed, but we, you need to remember what the current sauce.
+
+174 "Mohd Fareq Abd Malek" (3159643136)
+00:27:29.249 --> 00:27:34.649
+Is removed and replaced by, uh, open 2nd.
+
+175 "Mohd Fareq Abd Malek" (3159643136)
+00:27:34.649 --> 00:27:38.549
+Can we do whatever is possible to find.
+
+176 "Mohd Fareq Abd Malek" (3159643136)
+00:27:38.549 --> 00:27:41.789
+The in this branch.
+
+177 "Mohd Fareq Abd Malek" (3159643136)
+00:27:41.789 --> 00:27:46.109
+In this and they are series, so no issue.
+
+178 "Mohd Fareq Abd Malek" (3159643136)
+00:27:46.109 --> 00:27:53.039
+After that we take note of the answer, uh, I thought we call it to dash is 2 Mbps.
+
+179 "Mohd Fareq Abd Malek" (3159643136)
+00:27:53.039 --> 00:27:58.379
+Then now we, the next step, the next step is.
+
+180 "Mohd Fareq Abd Malek" (3159643136)
+00:27:58.379 --> 00:28:02.489
+To focus on the current sauce.
+
+181 "Mohd Fareq Abd Malek" (3159643136)
+00:28:02.489 --> 00:28:06.359
+And remove the voltage sauce.
+
+182 "Mohd Fareq Abd Malek" (3159643136)
+00:28:06.359 --> 00:28:11.339
+And do whatever permission to find I do.
+
+183 "Mohd Fareq Abd Malek" (3159643136)
+00:28:11.339 --> 00:28:16.769
+Uh, this branch, but removing you must remember that removing.
+
+184 "Mohd Fareq Abd Malek" (3159643136)
+00:28:16.769 --> 00:28:23.609
+The voltage source will be, it will be replaced by a short circuit while.
+
+185 "Mohd Fareq Abd Malek" (3159643136)
+00:28:23.609 --> 00:28:30.779
+Removing the previously, removing the current sauce will be replaced by an open 2nd, removing.
+
+186 "Mohd Fareq Abd Malek" (3159643136)
+00:28:30.779 --> 00:28:35.189
+The voltage sauce will be replaced with a shot so good. 1. yeah.
+
+187 "Mohd Fareq Abd Malek" (3159643136)
+00:28:35.189 --> 00:28:40.799
+So, after, uh, performing that removal.
+
+188 "Mohd Fareq Abd Malek" (3159643136)
+00:28:40.799 --> 00:28:44.729
+This is the next slide shows that.
+
+189 "Mohd Fareq Abd Malek" (3159643136)
+00:28:44.729 --> 00:28:48.179
+We are now focusing on the current source.
+
+190 "Mohd Fareq Abd Malek" (3159643136)
+00:28:48.179 --> 00:28:54.239
+And removing the voltage source and replacing with the short circuit strict wire.
+
+191 "Mohd Fareq Abd Malek" (3159643136)
+00:28:54.239 --> 00:29:00.119
+And we try to see what is available so that we can get I, to.
+
+192 "Mohd Fareq Abd Malek" (3159643136)
+00:29:00.119 --> 00:29:04.469
+I do rubber prime and we use a divided theory.
+
+193 "Mohd Fareq Abd Malek" (3159643136)
+00:29:04.469 --> 00:29:08.189
+To get it to double prime at 6.
+
+194 "Mohd Fareq Abd Malek" (3159643136)
+00:29:08.189 --> 00:29:14.369
+So, we take note of the answers both answers and then.
+
+195 "Mohd Fareq Abd Malek" (3159643136)
+00:29:14.369 --> 00:29:19.139
+From the what superposition this means we act.
+
+196 "Mohd Fareq Abd Malek" (3159643136)
+00:29:19.139 --> 00:29:22.499
+The previous answer of Prime.
+
+197 "Mohd Fareq Abd Malek" (3159643136)
+00:29:22.499 --> 00:29:29.669
+With the this answer of 6 2+6 M.
+
+198 "Mohd Fareq Abd Malek" (3159643136)
+00:29:29.669 --> 00:29:33.059
+Becomes it so this.
+
+199 "Mohd Fareq Abd Malek" (3159643136)
+00:29:33.059 --> 00:29:42.149
+Is our final answer for the to using Super position Europe using support?
+
+200 "Mohd Fareq Abd Malek" (3159643136)
+00:29:48.449 --> 00:29:51.479
+Is able to support position.
+
+201 "Mohd Fareq Abd Malek" (3159643136)
+00:29:51.479 --> 00:30:00.809
+Okay, this is another example of superposition.
+
+202 "Mohd Fareq Abd Malek" (3159643136)
+00:30:00.809 --> 00:30:05.549
+So, we have here, uh, we have.
+
+203 "Mohd Fareq Abd Malek" (3159643136)
+00:30:05.549 --> 00:30:11.759
+We want to find I do, and we have here 2 voltage sources.
+
+204 "Mohd Fareq Abd Malek" (3159643136)
+00:30:11.759 --> 00:30:20.099
+So, to what the process, no problem we can still use Super. So the 1st step is to focus.
+
+205 "Mohd Fareq Abd Malek" (3159643136)
+00:30:20.099 --> 00:30:24.329
+On 1 of them and removing.
+
+206 "Mohd Fareq Abd Malek" (3159643136)
+00:30:24.329 --> 00:30:28.949
+Uh, this 1, but removing this 1.
+
+207 "Mohd Fareq Abd Malek" (3159643136)
+00:30:28.949 --> 00:30:36.569
+Going to be replaced by, uh, both, uh, short, straight, quiet.
+
+208 "Mohd Fareq Abd Malek" (3159643136)
+00:30:36.569 --> 00:30:41.009
+And do whatever is possible.
+
+209 "Mohd Fareq Abd Malek" (3159643136)
+00:30:41.009 --> 00:30:44.219
+To find I to call it time to time.
+
+210 "Mohd Fareq Abd Malek" (3159643136)
+00:30:44.219 --> 00:30:48.449
+And then after that focus on the next.
+
+211 "Mohd Fareq Abd Malek" (3159643136)
+00:30:48.449 --> 00:30:53.129
+After doing the patient focus on the 48.
+
+212 "Mohd Fareq Abd Malek" (3159643136)
+00:30:53.129 --> 00:30:58.109
+48 volts added sauce removing.
+
+213 "Mohd Fareq Abd Malek" (3159643136)
+00:30:58.109 --> 00:31:05.639
+54 current sauce and removing uh, sorry removing the 50 for both the sauce.
+
+214 "Mohd Fareq Abd Malek" (3159643136)
+00:31:05.639 --> 00:31:10.349
+Removing about the sauce replacing with a short circuit.
+
+215 "Mohd Fareq Abd Malek" (3159643136)
+00:31:10.349 --> 00:31:13.409
+Straight, so that is.
+
+216 "Mohd Fareq Abd Malek" (3159643136)
+00:31:13.409 --> 00:31:21.269
+The, the concept of superposition Super position.
+
+217 "Mohd Fareq Abd Malek" (3159643136)
+00:31:21.269 --> 00:31:30.359
+So, let us move, uh, let us start with the 1st step. So we are now just focusing on the 54 votes with the sauce.
+
+218 "Mohd Fareq Abd Malek" (3159643136)
+00:31:30.359 --> 00:31:33.929
+And removing the.
+
+219 "Mohd Fareq Abd Malek" (3159643136)
+00:31:33.929 --> 00:31:40.229
+48 volts will the sauce and replacing it with a short circuit straight Wired.
+
+220 "Mohd Fareq Abd Malek" (3159643136)
+00:31:40.229 --> 00:31:44.669
+It short circuit, straight line, and we tried to.
+
+221 "Mohd Fareq Abd Malek" (3159643136)
+00:31:44.669 --> 00:31:48.329
+Fine, uh, I to Prime.
+
+222 "Mohd Fareq Abd Malek" (3159643136)
+00:31:48.329 --> 00:31:53.069
+Yeah, at the end is I too, but not to be confused.
+
+223 "Mohd Fareq Abd Malek" (3159643136)
+00:31:53.069 --> 00:31:56.549
+And answer, we call it I to Prime.
+
+224 "Mohd Fareq Abd Malek" (3159643136)
+00:31:56.549 --> 00:32:02.519
+And you can see here, this is a short circuit. Why? So, why not.
+
+225 "Mohd Fareq Abd Malek" (3159643136)
+00:32:02.519 --> 00:32:05.669
+In, uh, for for the best view.
+
+226 "Mohd Fareq Abd Malek" (3159643136)
+00:32:05.669 --> 00:32:09.599
+Why not we put we draw the for goes into here.
+
+227 "Mohd Fareq Abd Malek" (3159643136)
+00:32:09.599 --> 00:32:15.479
+Uh, we draw the post it to here and we can see.
+
+228 "Mohd Fareq Abd Malek" (3159643136)
+00:32:15.479 --> 00:32:21.839
+This is a parallel a, this is a parallel resistance.
+
+229 "Mohd Fareq Abd Malek" (3159643136)
+00:32:21.839 --> 00:32:28.919
+Uh, parallel resistance and.
+
+230 "Mohd Fareq Abd Malek" (3159643136)
+00:32:28.919 --> 00:32:33.539
+So, when it is parallel, so let's do go back.
+
+231 "Mohd Fareq Abd Malek" (3159643136)
+00:32:41.699 --> 00:32:45.089
+So, I will, uh, look in here.
+
+232 "Mohd Fareq Abd Malek" (3159643136)
+00:32:45.089 --> 00:32:52.049
+Steps as a, uh, drawing in 1 page is better to see a overall picture.
+
+233 "Mohd Fareq Abd Malek" (3159643136)
+00:32:55.349 --> 00:33:11.849
+Slower.
+
+234 "Mohd Fareq Abd Malek" (3159643136)
+00:33:11.849 --> 00:33:18.029
+So, the 1st, the 1st, uh, this is our original original 2nd.
+
+235 "Mohd Fareq Abd Malek" (3159643136)
+00:33:18.029 --> 00:33:24.989
+So, we now focus on the 54 votes, uh, what the sauce and we, we.
+
+236 "Mohd Fareq Abd Malek" (3159643136)
+00:33:24.989 --> 00:33:29.579
+Remove the 48 W, what you saw by replacing it with.
+
+237 "Mohd Fareq Abd Malek" (3159643136)
+00:33:29.579 --> 00:33:34.259
+So, good, why are you? Good while.
+
+238 "Mohd Fareq Abd Malek" (3159643136)
+00:33:37.979 --> 00:33:41.339
+Okay, and here you can.
+
+239 "Mohd Fareq Abd Malek" (3159643136)
+00:33:41.339 --> 00:33:44.489
+That is.
+
+240 "Mohd Fareq Abd Malek" (3159643136)
+00:33:44.489 --> 00:33:54.209
+This is just Wired, so why not? We drawing in this matter. So we can see it more. Clearly. We can see that the 12 herbs and the forms.
+
+241 "Mohd Fareq Abd Malek" (3159643136)
+00:33:54.209 --> 00:33:57.509
+Uh, I don't know, right. Ah, in parallel.
+
+242 "Mohd Fareq Abd Malek" (3159643136)
+00:33:57.509 --> 00:34:01.259
+So, they are in parallel, I hope you now.
+
+243 "Mohd Fareq Abd Malek" (3159643136)
+00:34:01.259 --> 00:34:07.589
+Uh, you know, that to, to resistance in parallel, because it will also come.
+
+244 "Mohd Fareq Abd Malek" (3159643136)
+00:34:07.589 --> 00:34:11.939
+In the victim at 10, 30.
+
+245 "Mohd Fareq Abd Malek" (3159643136)
+00:34:11.939 --> 00:34:16.979
+To resist this in parallel, but of course, you should never forget.
+
+246 "Mohd Fareq Abd Malek" (3159643136)
+00:34:16.979 --> 00:34:22.589
+The long formula our team is 1 over.
+
+247 "Mohd Fareq Abd Malek" (3159643136)
+00:34:22.589 --> 00:34:26.249
+What over our work and and so forth.
+
+248 "Mohd Fareq Abd Malek" (3159643136)
+00:34:26.249 --> 00:34:31.469
+But here, we can observe that 12 hours and photos.
+
+249 "Mohd Fareq Abd Malek" (3159643136)
+00:34:31.469 --> 00:34:36.869
+Uh, to multiply, by, for 12+4 is equivalent to.
+
+250 "Mohd Fareq Abd Malek" (3159643136)
+00:34:36.869 --> 00:34:41.459
+3, okay.
+
+251 "Mohd Fareq Abd Malek" (3159643136)
+00:34:41.459 --> 00:34:49.319
+So, this we want to get, uh.
+
+252 "Mohd Fareq Abd Malek" (3159643136)
+00:34:49.319 --> 00:34:56.729
+Uh, which is here, uh, I want.
+
+253 "Mohd Fareq Abd Malek" (3159643136)
+00:34:56.729 --> 00:35:04.559
+And I want, uh, we know 54 votes, you know, serious resistance, 24 and 3.
+
+254 "Mohd Fareq Abd Malek" (3159643136)
+00:35:04.559 --> 00:35:08.909
+We will say that I want is to.
+
+255 "Mohd Fareq Abd Malek" (3159643136)
+00:35:08.909 --> 00:35:12.689
+So, now we can go back to do the.
+
+256 "Mohd Fareq Abd Malek" (3159643136)
+00:35:12.689 --> 00:35:19.469
+Previous 1, and we know that I want is to.
+
+257 "Mohd Fareq Abd Malek" (3159643136)
+00:35:19.469 --> 00:35:25.709
+So, in the past 1 or 2 weeks, we always be the example.
+
+258 "Mohd Fareq Abd Malek" (3159643136)
+00:35:25.709 --> 00:35:28.799
+Uh, if we have this look at the rights.
+
+259 "Mohd Fareq Abd Malek" (3159643136)
+00:35:28.799 --> 00:35:33.149
+With all the resistance as 1 and then.
+
+260 "Mohd Fareq Abd Malek" (3159643136)
+00:35:33.149 --> 00:35:40.109
+Yeah, I I saw and that is going to come in the meet them as well.
+
+261 "Mohd Fareq Abd Malek" (3159643136)
+00:35:40.109 --> 00:35:46.499
+So this is the benefit because you cannot this 1, this 1 you come, but the concept of.
+
+262 "Mohd Fareq Abd Malek" (3159643136)
+00:35:46.499 --> 00:35:52.769
+The total resistance, and then to find the source.
+
+263 "Mohd Fareq Abd Malek" (3159643136)
+00:35:52.769 --> 00:35:58.379
+So this means when we know is to we go back to here.
+
+264 "Mohd Fareq Abd Malek" (3159643136)
+00:35:58.379 --> 00:36:02.009
+Now, we can use the current divider theory.
+
+265 "Mohd Fareq Abd Malek" (3159643136)
+00:36:02.009 --> 00:36:05.759
++2 Mbps we want.
+
+266 "Mohd Fareq Abd Malek" (3159643136)
+00:36:05.759 --> 00:36:11.279
+Uh, I to Prime, so I hope you still remember the current.
+
+267 "Mohd Fareq Abd Malek" (3159643136)
+00:36:11.279 --> 00:36:17.099
+Divide the theory, because it's the current divide theory is also in the midterm exam.
+
+268 "Mohd Fareq Abd Malek" (3159643136)
+00:36:17.099 --> 00:36:25.259
+But we are going to practice now, the current provider theory for a special to resist the in parallel.
+
+269 "Mohd Fareq Abd Malek" (3159643136)
+00:36:25.259 --> 00:36:30.959
+That's practice now also good for the midterm exam.
+
+270 "Mohd Fareq Abd Malek" (3159643136)
+00:36:30.959 --> 00:36:36.389
+Current divided duty, but this will not come Super position on this but.
+
+271 "Mohd Fareq Abd Malek" (3159643136)
+00:36:36.389 --> 00:36:39.569
+We can see that each question we need to use.
+
+272 "Mohd Fareq Abd Malek" (3159643136)
+00:36:39.569 --> 00:36:42.839
+How to divide the theory? Uh.
+
+273 "Mohd Fareq Abd Malek" (3159643136)
+00:36:42.839 --> 00:36:47.819
+In parallel to make it a total and so forth.
+
+274 "Mohd Fareq Abd Malek" (3159643136)
+00:36:47.819 --> 00:36:52.379
+So, it will be that, um, I will test.
+
+275 "Mohd Fareq Abd Malek" (3159643136)
+00:36:52.379 --> 00:36:57.869
+And as a practice for the victim exam as well.
+
+276 "Mohd Fareq Abd Malek" (3159643136)
+00:36:57.869 --> 00:37:02.339
+So, I will show, uh, it is it, uh.
+
+277 "Mohd Fareq Abd Malek" (3159643136)
+00:37:02.339 --> 00:37:06.599
+Let's just pull them in the lectures for the.
+
+278 "Mohd Fareq Abd Malek" (3159643136)
+00:37:06.599 --> 00:37:11.879
+And you will see 1024, uh, in class quiz.
+
+279 "Mohd Fareq Abd Malek" (3159643136)
+00:37:11.879 --> 00:37:16.619
+Uh, lecture 5, uh, Wednesday to 5.
+
+280 "Mohd Fareq Abd Malek" (3159643136)
+00:37:16.619 --> 00:37:20.849
+So.
+
+281 "Mohd Fareq Abd Malek" (3159643136)
+00:37:20.849 --> 00:37:27.209
+If I click this and I will call.
+
+282 "Mohd Fareq Abd Malek" (3159643136)
+00:37:27.209 --> 00:37:34.979
+Wednesday, 15th of May, uh, 2024.
+
+283 "Mohd Fareq Abd Malek" (3159643136)
+00:37:34.979 --> 00:37:39.509
+Wednesday, 15th of May 24.
+
+284 "Mohd Fareq Abd Malek" (3159643136)
+00:37:43.529 --> 00:37:48.119
+Okay, so I did not start yet.
+
+285 "Mohd Fareq Abd Malek" (3159643136)
+00:37:48.119 --> 00:37:54.419
+So, uh, the question that we are going to ask them is.
+
+286 "Mohd Fareq Abd Malek" (3159643136)
+00:37:54.419 --> 00:37:59.669
+So, if we have here.
+
+287 "Mohd Fareq Abd Malek" (3159643136)
+00:37:59.669 --> 00:38:07.409
+So, if we have it, now, go, it is to it split into 2.
+
+288 "Mohd Fareq Abd Malek" (3159643136)
+00:38:07.409 --> 00:38:10.649
+All right what we are interested.
+
+289 "Mohd Fareq Abd Malek" (3159643136)
+00:38:10.649 --> 00:38:15.870
+To use the.
+
+290 "Mohd Fareq Abd Malek" (3159643136)
+00:38:15.870 --> 00:38:20.340
+Uh, which I believe you remember because this current divided theory.
+
+291 "Mohd Fareq Abd Malek" (3159643136)
+00:38:20.340 --> 00:38:26.220
+Will be in the midterm exam the current.
+
+292 "Mohd Fareq Abd Malek" (3159643136)
+00:38:26.220 --> 00:38:36.090
+And so let's start the quiz and you will have 200 seconds before. This is the 1st question.
+
+293 "Mohd Fareq Abd Malek" (3159643136)
+00:38:36.090 --> 00:38:44.190
+Quiz is in the lecture folder, uh, 2024 in class, uh, lecture 5.
+
+294 "Mohd Fareq Abd Malek" (3159643136)
+00:38:44.190 --> 00:38:48.510
+Where is the intellectual photos?
+
+295 "Mohd Fareq Abd Malek" (3159643136)
+00:38:48.510 --> 00:38:52.830
+And you can say, 2024.
+
+296 "Mohd Fareq Abd Malek" (3159643136)
+00:38:52.830 --> 00:38:57.510
+In class, please let your 5 bracket. Uh, when is the.
+
+297 "Mohd Fareq Abd Malek" (3159643136)
+00:38:57.510 --> 00:39:01.170
+Let's see here.
+
+298 "Mohd Fareq Abd Malek" (3159643136)
+00:39:01.170 --> 00:39:07.380
+We have, uh, the current provider theory to get eye to dash.
+
+299 "Mohd Fareq Abd Malek" (3159643136)
+00:39:11.820 --> 00:39:18.600
+I too dash.
+
+300 "Mohd Fareq Abd Malek" (3159643136)
+00:39:18.600 --> 00:39:22.200
+So, uh, you need to.
+
+301 "Mohd Fareq Abd Malek" (3159643136)
+00:39:22.200 --> 00:39:26.220
+Familiarized with current theory resistance in.
+
+302 "Mohd Fareq Abd Malek" (3159643136)
+00:39:26.220 --> 00:39:30.000
+Mm, hmm.
+
+303 "Mohd Fareq Abd Malek" (3159643136)
+00:39:30.000 --> 00:39:38.220
+Huh.
+
+304 "Mohd Fareq Abd Malek" (3159643136)
+00:39:42.000 --> 00:39:45.600
+Um, very faster.
+
+305 "Mohd Fareq Abd Malek" (3159643136)
+00:39:45.600 --> 00:39:49.170
+Very fast. Okay. Now, why I will repeat the question.
+
+306 "Mohd Fareq Abd Malek" (3159643136)
+00:39:49.170 --> 00:39:54.000
+But, uh, thank you for telling so I will 1st.
+
+307 "Mohd Fareq Abd Malek" (3159643136)
+00:39:54.000 --> 00:40:00.600
+Um, why is the, uh.
+
+308 "Mohd Fareq Abd Malek" (3159643136)
+00:40:00.600 --> 00:40:06.060
+Close the session and start a new session. Don't worry, uh, close the session.
+
+309 "Mohd Fareq Abd Malek" (3159643136)
+00:40:06.060 --> 00:40:11.700
+Start a new session, and I will change the timer. Okay.
+
+310 "Mohd Fareq Abd Malek" (3159643136)
+00:40:11.700 --> 00:40:17.190
+The time, uh, let me check what happened to the timer.
+
+311 "Mohd Fareq Abd Malek" (3159643136)
+00:40:17.190 --> 00:40:24.810
+The 1st question.
+
+312 "Mohd Fareq Abd Malek" (3159643136)
+00:40:24.810 --> 00:40:28.050
+Okay, 200 seconds.
+
+313 "Mohd Fareq Abd Malek" (3159643136)
+00:40:28.050 --> 00:40:33.690
+Okay, 200 seconds the 1st, the 2nd question.
+
+314 "Mohd Fareq Abd Malek" (3159643136)
+00:40:36.930 --> 00:40:48.720
+100 seconds, sorry for the 40 for for this, uh, on site and 100 seconds.
+
+315 "Mohd Fareq Abd Malek" (3159643136)
+00:40:48.720 --> 00:40:57.270
+We only have less question today because.
+
+316 "Mohd Fareq Abd Malek" (3159643136)
+00:40:57.270 --> 00:41:05.100
+You don't have to we just want to do to practice for the with them and that's the case.
+
+317 "Mohd Fareq Abd Malek" (3159643136)
+00:41:05.100 --> 00:41:10.050
+The 5th questions.
+
+318 "Mohd Fareq Abd Malek" (3159643136)
+00:41:10.050 --> 00:41:14.970
+106.
+
+319 "Mohd Fareq Abd Malek" (3159643136)
+00:41:14.970 --> 00:41:19.080
+six thirty pm is one hundred 
+
+320 "Mohd Fareq Abd Malek" (3159643136)
+00:41:19.080 --> 00:41:25.620
+It gets so.
+
+321 "Mohd Fareq Abd Malek" (3159643136)
+00:41:25.620 --> 00:41:31.860
+So, let's start a new, a new.
+
+322 "Mohd Fareq Abd Malek" (3159643136)
+00:41:31.860 --> 00:41:34.860
+A new session, so I will.
+
+323 "Mohd Fareq Abd Malek" (3159643136)
+00:41:34.860 --> 00:41:37.920
+Here again, uh, in class, which.
+
+324 "Mohd Fareq Abd Malek" (3159643136)
+00:41:37.920 --> 00:41:43.680
+Start the new session, the real, the real, the real 1.
+
+325 "Mohd Fareq Abd Malek" (3159643136)
+00:41:43.680 --> 00:41:48.630
+Let me see.
+
+326 "Mohd Fareq Abd Malek" (3159643136)
+00:41:48.630 --> 00:41:53.760
+16 may 2024.
+
+327 "Mohd Fareq Abd Malek" (3159643136)
+00:41:53.760 --> 00:42:04.560
+So this new session, uh, and, uh, so now you will have 200 seconds on the 1st question.
+
+328 "Mohd Fareq Abd Malek" (3159643136)
+00:42:04.560 --> 00:42:11.790
+And the question is for fine, I to dash.
+
+329 "Mohd Fareq Abd Malek" (3159643136)
+00:42:24.510 --> 00:42:40.710
+Yes, um.
+
+330 "Mohd Fareq Abd Malek" (3159643136)
+00:42:40.710 --> 00:42:48.930
+So, you currently Weiner theory, you should familiarize for the midterm exam exam our total.
+
+331 "Mohd Fareq Abd Malek" (3159643136)
+00:42:48.930 --> 00:42:57.390
+Special formula for 2:2:registers in parallel to get the, you should familiarize.
+
+332 "Mohd Fareq Abd Malek" (3159643136)
+00:42:57.390 --> 00:43:05.250
+Uh, current divided theory, special formula for 2 resistance in parallel. You should also.
+
+333 "Mohd Fareq Abd Malek" (3159643136)
+00:43:05.250 --> 00:43:15.450
+For the victim exam, uh, no data analytics you should familiarize for the exam.
+
+334 "Mohd Fareq Abd Malek" (3159643136)
+00:43:15.450 --> 00:43:20.820
+Currently what, uh, Jodi voltage divider duty.
+
+335 "Mohd Fareq Abd Malek" (3159643136)
+00:43:20.820 --> 00:43:27.330
+So, okay, so this means, uh, I, is.
+
+336 "Mohd Fareq Abd Malek" (3159643136)
+00:43:27.330 --> 00:43:36.120
+0.5Mbps so keep keep track of this result because we are going to use and the final results.
+
+337 "Mohd Fareq Abd Malek" (3159643136)
+00:43:36.120 --> 00:43:39.450
+So, now the 2nd step is to.
+
+338 "Mohd Fareq Abd Malek" (3159643136)
+00:43:39.450 --> 00:43:57.330
+To focus on the 48 volts and to remove the 54 box voltage. So when we focus on the 4 tables and remove the 54 volts, what is supply and replacing by a short circuit.
+
+339 "Mohd Fareq Abd Malek" (3159643136)
+00:43:57.330 --> 00:44:01.020
+Why are we have this situation.
+
+340 "Mohd Fareq Abd Malek" (3159643136)
+00:44:01.020 --> 00:44:10.500
+So, we, we still want to find I, to what we call it to double Prime. So that not to confuse with the other.
+
+341 "Mohd Fareq Abd Malek" (3159643136)
+00:44:10.500 --> 00:44:17.640
+I to so, here we can see 24 hours we to have a better view. We draw it here.
+
+342 "Mohd Fareq Abd Malek" (3159643136)
+00:44:17.640 --> 00:44:25.260
+24 hours, and here is 12 goals and here is 48 volts, but.
+
+343 "Mohd Fareq Abd Malek" (3159643136)
+00:44:25.260 --> 00:44:29.550
+The polarity is the opposite and here is for bones.
+
+344 "Mohd Fareq Abd Malek" (3159643136)
+00:44:29.550 --> 00:44:33.930
+So, again, we use the same technique.
+
+345 "Mohd Fareq Abd Malek" (3159643136)
+00:44:33.930 --> 00:44:41.160
+This technique will need to be used in the midterm in the midterm.
+
+346 "Mohd Fareq Abd Malek" (3159643136)
+00:44:41.160 --> 00:44:45.660
+Of course, not superposition with copy the victim, but as a whole.
+
+347 "Mohd Fareq Abd Malek" (3159643136)
+00:44:45.660 --> 00:44:49.980
+Because 1st, you need to summarize all the.
+
+348 "Mohd Fareq Abd Malek" (3159643136)
+00:44:49.980 --> 00:44:55.080
+All the resistance, so that you can get the.
+
+349 "Mohd Fareq Abd Malek" (3159643136)
+00:44:55.080 --> 00:45:01.680
+So the 24 hours and 12 OEMs are to resist this in parallel.
+
+350 "Mohd Fareq Abd Malek" (3159643136)
+00:45:01.680 --> 00:45:07.230
+We can use the special formula for the 2 resistance in parallel to get the.
+
+351 "Mohd Fareq Abd Malek" (3159643136)
+00:45:07.230 --> 00:45:14.640
+It was as a total for owns for all 3. so now it's easy to get the.
+
+352 "Mohd Fareq Abd Malek" (3159643136)
+00:45:14.640 --> 00:45:19.170
+Because they, uh, these 2 resisters are in serious.
+
+353 "Mohd Fareq Abd Malek" (3159643136)
+00:45:19.170 --> 00:45:22.620
+And use all slow, I thought is.
+
+354 "Mohd Fareq Abd Malek" (3159643136)
+00:45:22.620 --> 00:45:26.610
+But, please be careful because of the polarities.
+
+355 "Mohd Fareq Abd Malek" (3159643136)
+00:45:26.610 --> 00:45:30.840
+So, -48 volts divided by.
+
+356 "Mohd Fareq Abd Malek" (3159643136)
+00:45:30.840 --> 00:45:35.760
+Uh, folks, so we have .
+
+357 "Mohd Fareq Abd Malek" (3159643136)
+00:45:35.760 --> 00:45:39.030
+Or empty, so take note of that to access.
+
+358 "Mohd Fareq Abd Malek" (3159643136)
+00:45:39.030 --> 00:45:43.440
+Uh, this was.
+
+359 "Mohd Fareq Abd Malek" (3159643136)
+00:45:43.440 --> 00:45:47.910
+To prime and.
+
+360 "Mohd Fareq Abd Malek" (3159643136)
+00:45:47.910 --> 00:45:51.150
+So, it's not your answer. Sorry? Because this is.
+
+361 "Mohd Fareq Abd Malek" (3159643136)
+00:45:51.150 --> 00:45:58.170
+I saw I saw, okay, then we go back to our.
+
+362 "Mohd Fareq Abd Malek" (3159643136)
+00:45:58.170 --> 00:46:01.290
+So, I thought it's minus for.
+
+363 "Mohd Fareq Abd Malek" (3159643136)
+00:46:01.290 --> 00:46:05.610
+Or oh, I saw now he use back.
+
+364 "Mohd Fareq Abd Malek" (3159643136)
+00:46:05.610 --> 00:46:12.510
+We now we want to find I to prime and, you know, this is the total current -4 and.
+
+365 "Mohd Fareq Abd Malek" (3159643136)
+00:46:12.510 --> 00:46:18.450
+You use the current divider theory again so this is good practice for the midterm exam.
+
+366 "Mohd Fareq Abd Malek" (3159643136)
+00:46:18.450 --> 00:46:23.880
+Because there will be several divided duty.
+
+367 "Mohd Fareq Abd Malek" (3159643136)
+00:46:23.880 --> 00:46:28.050
+And now let us, um.
+
+368 "Mohd Fareq Abd Malek" (3159643136)
+00:46:28.050 --> 00:46:33.450
+Fine, I to Prime, using the current directory. What is.
+
+369 "Mohd Fareq Abd Malek" (3159643136)
+00:46:33.450 --> 00:46:36.600
+I do Brian. I do fine.
+
+370 "Mohd Fareq Abd Malek" (3159643136)
+00:46:36.600 --> 00:46:41.760
+And so with that, so that's very good.
+
+371 "Mohd Fareq Abd Malek" (3159643136)
+00:46:41.760 --> 00:46:45.000
+That's a good answer. And.
+
+372 "Mohd Fareq Abd Malek" (3159643136)
+00:46:45.000 --> 00:46:53.010
+Previous question is very good. So now I to try I to double prime i2 number back.
+
+373 "Mohd Fareq Abd Malek" (3159643136)
+00:46:58.200 --> 00:47:08.700
+So, I, to double fine. So currently by the theory.
+
+374 "Mohd Fareq Abd Malek" (3159643136)
+00:47:08.700 --> 00:47:18.330
+Uh, I to double time, so I don't mind. I give.
+
+375 "Mohd Fareq Abd Malek" (3159643136)
+00:47:18.330 --> 00:47:22.650
+And the answers, so you can do. So, okay, I have to double plan.
+
+376 "Mohd Fareq Abd Malek" (3159643136)
+00:47:22.650 --> 00:47:42.420
+Is look at the opposite current, uh, opposite register, 24 divided by total, which is 24+12xby the total current -4 Mbps. So I, to double plan is -2.6 7 Mbps plus but not least.
+
+377 "Mohd Fareq Abd Malek" (3159643136)
+00:47:42.420 --> 00:47:49.590
+Um, the name itself is super position Euro so the, the results that we obtain.
+
+378 "Mohd Fareq Abd Malek" (3159643136)
+00:47:49.590 --> 00:47:55.140
+Well, I to Prime, this is 0.5.
+
+379 "Mohd Fareq Abd Malek" (3159643136)
+00:47:55.140 --> 00:48:00.360
+And I, to double plan because it is negative. So it's.
+
+380 "Mohd Fareq Abd Malek" (3159643136)
+00:48:00.360 --> 00:48:09.480
+In here in this direction as 267, and as a total we add them together, which is.
+
+381 "Mohd Fareq Abd Malek" (3159643136)
+00:48:09.480 --> 00:48:16.740
+2.1722.6 7.
+
+382 "Mohd Fareq Abd Malek" (3159643136)
+00:48:16.740 --> 00:48:20.280
+0.5but, the direction is upwards.
+
+383 "Mohd Fareq Abd Malek" (3159643136)
+00:48:20.280 --> 00:48:31.710
+So, we yes, please.
+
+384 "Mohd Fareq Abd Malek" (3159643136)
+00:48:31.710 --> 00:48:37.770
+Very good, uh, reservation .
+
+385 "Mohd Fareq Abd Malek" (3159643136)
+00:48:37.770 --> 00:48:49.590
+Because this 12 and this is 24. okay. Okay. Have to be slightly more uh.
+
+386 "Mohd Fareq Abd Malek" (3159643136)
+00:48:49.590 --> 00:48:55.590
+Absolutely that 12, 34.
+
+387 "Mohd Fareq Abd Malek" (3159643136)
+00:48:55.590 --> 00:49:00.150
+Um, so, uh, this is our.
+
+388 "Mohd Fareq Abd Malek" (3159643136)
+00:49:00.150 --> 00:49:03.330
+Technique or Super position.
+
+389 "Mohd Fareq Abd Malek" (3159643136)
+00:49:03.330 --> 00:49:08.370
+Uh, very good and so at the end.
+
+390 "Mohd Fareq Abd Malek" (3159643136)
+00:49:08.370 --> 00:49:11.880
+Uh, our final answer is I to.
+
+391 "Mohd Fareq Abd Malek" (3159643136)
+00:49:11.880 --> 00:49:21.360
+Because we add these 2 together, so 2.67-0.5 is 2.17and I do is in this direction.
+
+392 "Mohd Fareq Abd Malek" (3159643136)
+00:49:25.950 --> 00:49:30.570
+So 1 more example of using, uh.
+
+393 "Mohd Fareq Abd Malek" (3159643136)
+00:49:30.570 --> 00:49:41.940
+So, we have here 1 voltage sauce, 9 books and 1, current sauce and 6Million Mbps and we were asked to find I do.
+
+394 "Mohd Fareq Abd Malek" (3159643136)
+00:49:41.940 --> 00:49:45.120
+And we were asked to find so.
+
+395 "Mohd Fareq Abd Malek" (3159643136)
+00:49:45.120 --> 00:49:51.720
+Fine, I do using Super position 0 If in the future exam, the final exam.
+
+396 "Mohd Fareq Abd Malek" (3159643136)
+00:49:51.720 --> 00:50:02.490
+If the question says, uh, find using Super position, so you need to use superposition theater. But if the question says find.
+
+397 "Mohd Fareq Abd Malek" (3159643136)
+00:50:02.490 --> 00:50:07.560
+So, it's, uh, you are free to choose the best technique.
+
+398 "Mohd Fareq Abd Malek" (3159643136)
+00:50:07.560 --> 00:50:14.460
+The you are convenient with it.
+
+399 "Mohd Fareq Abd Malek" (3159643136)
+00:50:14.460 --> 00:50:20.790
+So, here we can withdraw, uh, redraw this, uh, this 2nd.
+
+400 "Mohd Fareq Abd Malek" (3159643136)
+00:50:20.790 --> 00:50:28.050
+To be, uh, in this manner in this manner, but actually.
+
+401 "Mohd Fareq Abd Malek" (3159643136)
+00:50:28.050 --> 00:50:32.700
+There is, uh, 9 volts here.
+
+402 "Mohd Fareq Abd Malek" (3159643136)
+00:50:32.700 --> 00:50:40.950
+And 9 books, but, okay, we do, we draw it, but now we go to the next step, which is.
+
+403 "Mohd Fareq Abd Malek" (3159643136)
+00:50:40.950 --> 00:50:45.360
+We focus on the current sauce and we.
+
+404 "Mohd Fareq Abd Malek" (3159643136)
+00:50:45.360 --> 00:50:58.620
+Remove the voltage SaaS 9 volts and according to the order, if you remove all the sauce, you need to replace it with, uh, short circuit wire straight.
+
+405 "Mohd Fareq Abd Malek" (3159643136)
+00:50:58.620 --> 00:51:03.060
+So, now I'll just do this, so okay.
+
+406 "Mohd Fareq Abd Malek" (3159643136)
+00:51:03.060 --> 00:51:06.870
+So, and our objective is to find.
+
+407 "Mohd Fareq Abd Malek" (3159643136)
+00:51:06.870 --> 00:51:10.740
+I too, so we right here, right to Prime.
+
+408 "Mohd Fareq Abd Malek" (3159643136)
+00:51:10.740 --> 00:51:17.100
+Um, so.
+
+409 "Mohd Fareq Abd Malek" (3159643136)
+00:51:17.100 --> 00:51:20.610
+So, actually, these charts are kiddwaya.
+
+410 "Mohd Fareq Abd Malek" (3159643136)
+00:51:20.610 --> 00:51:29.100
+It's actually it's just like nothing like, it's just a while so we can redraw it in this manner.
+
+411 "Mohd Fareq Abd Malek" (3159643136)
+00:51:29.100 --> 00:51:43.530
+Just like this and like this, so it's back, I'll draw it so that we can see a better view and not in order to solve it for too. So, in this manner, we can see.
+
+412 "Mohd Fareq Abd Malek" (3159643136)
+00:51:43.530 --> 00:51:47.910
+We are given in a question of 6,000,000.
+
+413 "Mohd Fareq Abd Malek" (3159643136)
+00:51:47.910 --> 00:51:54.690
+Uh, it is split current is and some current at the current we will move here.
+
+414 "Mohd Fareq Abd Malek" (3159643136)
+00:51:54.690 --> 00:52:02.700
+So, can I ask you what is the best technique to find I, to Prime.
+
+415 "Mohd Fareq Abd Malek" (3159643136)
+00:52:05.970 --> 00:52:09.060
+What is the best technique to find out to Brian?
+
+416 "Mohd Fareq Abd Malek" (3159643136)
+00:52:09.060 --> 00:52:14.400
+Currently wider yes currently wider because I have to Prime.
+
+417 "Mohd Fareq Abd Malek" (3159643136)
+00:52:14.400 --> 00:52:23.130
+Look at this, uh, which is 6 divided by 6+12.
+
+418 "Mohd Fareq Abd Malek" (3159643136)
+00:52:23.130 --> 00:52:27.120
+And multiply by the original.
+
+419 "Mohd Fareq Abd Malek" (3159643136)
+00:52:27.120 --> 00:52:30.480
+6.
+
+420 "Mohd Fareq Abd Malek" (3159643136)
+00:52:30.480 --> 00:52:34.530
+So that you will get tied to Prime.
+
+421 "Mohd Fareq Abd Malek" (3159643136)
+00:52:38.760 --> 00:52:43.020
+So you will get, let's let me do it here.
+
+422 "Mohd Fareq Abd Malek" (3159643136)
+00:52:43.020 --> 00:52:48.060
+Uh, that's the 1 that's, uh, 1 in 1 pitch in 1 pitch.
+
+423 "Mohd Fareq Abd Malek" (3159643136)
+00:52:48.060 --> 00:53:01.920
+So, we, this is the next 1, are we focused on nevermind? We, that's the, the next 1.
+
+424 "Mohd Fareq Abd Malek" (3159643136)
+00:53:01.920 --> 00:53:06.120
+So, we now get a I, to Prime.
+
+425 "Mohd Fareq Abd Malek" (3159643136)
+00:53:06.120 --> 00:53:13.950
+Okay, so the next, uh, the next step is.
+
+426 "Mohd Fareq Abd Malek" (3159643136)
+00:53:13.950 --> 00:53:19.530
+To focus on the sauce and removing the current source.
+
+427 "Mohd Fareq Abd Malek" (3159643136)
+00:53:19.530 --> 00:53:23.790
+So removing the current sauce, you must know the theory which states.
+
+428 "Mohd Fareq Abd Malek" (3159643136)
+00:53:23.790 --> 00:53:29.040
+Removing that current sauce replacing with, uh, both, uh, awkward.
+
+429 "Mohd Fareq Abd Malek" (3159643136)
+00:53:29.040 --> 00:53:32.430
+So, when you can see here opens the.
+
+430 "Mohd Fareq Abd Malek" (3159643136)
+00:53:32.430 --> 00:53:39.150
+Actually, this is, uh, irrelevant. It's just like a wire.
+
+431 "Mohd Fareq Abd Malek" (3159643136)
+00:53:39.150 --> 00:53:42.570
+Nothing is not relevant, so at the end.
+
+432 "Mohd Fareq Abd Malek" (3159643136)
+00:53:42.570 --> 00:53:47.430
+You have, uh, only this.
+
+433 "Mohd Fareq Abd Malek" (3159643136)
+00:53:47.430 --> 00:53:52.620
+The only this, because it's, um.
+
+434 "Mohd Fareq Abd Malek" (3159643136)
+00:53:52.620 --> 00:53:59.310
+This is just a, uh, open secret wire. So when you have only this, you can.
+
+435 "Mohd Fareq Abd Malek" (3159643136)
+00:53:59.310 --> 00:54:05.400
+Rearrange it so this is, is here and why not? Um.
+
+436 "Mohd Fareq Abd Malek" (3159643136)
+00:54:05.400 --> 00:54:09.420
+Drawing because still 6 and 12, and at the bottom.
+
+437 "Mohd Fareq Abd Malek" (3159643136)
+00:54:09.420 --> 00:54:13.320
+14 and 35 kilohertz and.
+
+438 "Mohd Fareq Abd Malek" (3159643136)
+00:54:13.320 --> 00:54:19.530
+Also for the wisdom in 1 hours time.
+
+439 "Mohd Fareq Abd Malek" (3159643136)
+00:54:19.530 --> 00:54:24.930
+Oh, well, I was you should also observe.
+
+440 "Mohd Fareq Abd Malek" (3159643136)
+00:54:24.930 --> 00:54:28.890
+That, uh, if this is 9 volts.
+
+441 "Mohd Fareq Abd Malek" (3159643136)
+00:54:28.890 --> 00:54:33.360
+If this is 9 books.
+
+442 "Mohd Fareq Abd Malek" (3159643136)
+00:54:33.360 --> 00:54:37.740
+And this to emperor, this vast bill.
+
+443 "Mohd Fareq Abd Malek" (3159643136)
+00:54:37.740 --> 00:54:46.380
+9 books as well, and this 1 is in parallel to that. This also must be 9 books.
+
+444 "Mohd Fareq Abd Malek" (3159643136)
+00:54:46.380 --> 00:54:50.250
+So, we learn divide the theory. I give tips.
+
+445 "Mohd Fareq Abd Malek" (3159643136)
+00:54:50.250 --> 00:54:54.420
+Coming in the, uh, with them, and also.
+
+446 "Mohd Fareq Abd Malek" (3159643136)
+00:54:54.420 --> 00:54:58.770
+Voltage in federal they are the same yes.
+
+447 "Mohd Fareq Abd Malek" (3159643136)
+00:55:03.360 --> 00:55:14.580
+You see, um.
+
+448 "Mohd Fareq Abd Malek" (3159643136)
+00:55:14.580 --> 00:55:21.120
+Uh, the chefs current law to get high to double point.
+
+449 "Mohd Fareq Abd Malek" (3159643136)
+00:55:21.120 --> 00:55:27.960
+You want to use in which area? Uh, in which.
+
+450 "Mohd Fareq Abd Malek" (3159643136)
+00:55:27.960 --> 00:55:32.940
+Okay, uh, like a Mish mash, right?
+
+451 "Mohd Fareq Abd Malek" (3159643136)
+00:55:32.940 --> 00:55:42.660
+This is 1:1:message. Yes, you can see.
+
+452 "Mohd Fareq Abd Malek" (3159643136)
+00:55:42.660 --> 00:55:50.310
+Yes, I can use it. Yes.
+
+453 "Mohd Fareq Abd Malek" (3159643136)
+00:55:50.310 --> 00:55:56.760
+Okay, so now we, we, but I just want to highlight if this is 9 volts.
+
+454 "Mohd Fareq Abd Malek" (3159643136)
+00:55:56.760 --> 00:56:01.920
+This also must be 9 works. This must be 9 books as well.
+
+455 "Mohd Fareq Abd Malek" (3159643136)
+00:56:01.920 --> 00:56:10.830
+Just to revise that theory that will come in the midterm, uh, in 1 and half hours time.
+
+456 "Mohd Fareq Abd Malek" (3159643136)
+00:56:10.830 --> 00:56:16.920
+So so if we.
+
+457 "Mohd Fareq Abd Malek" (3159643136)
+00:56:16.920 --> 00:56:25.920
+We throw it in this manner, but actually it's up to the students, but to make it, uh, better view. So I draw it.
+
+458 "Mohd Fareq Abd Malek" (3159643136)
+00:56:25.920 --> 00:56:32.340
+In this manner lab, this this vendor is top and bottom.
+
+459 "Mohd Fareq Abd Malek" (3159643136)
+00:56:32.340 --> 00:56:35.400
+But, uh, this vendor is.
+
+460 "Mohd Fareq Abd Malek" (3159643136)
+00:56:35.400 --> 00:56:43.200
+Go with this manner of drawing is, uh, left and right but they are the same, right?
+
+461 "Mohd Fareq Abd Malek" (3159643136)
+00:56:43.200 --> 00:56:49.080
+Yeah, the same just to whichever 1 is convenient. So I redraw it.
+
+462 "Mohd Fareq Abd Malek" (3159643136)
+00:56:49.080 --> 00:56:54.240
+I regret it, uh, in terms of.
+
+463 "Mohd Fareq Abd Malek" (3159643136)
+00:56:54.240 --> 00:56:59.520
+Left and right but there are still 9 votes and 9 volts in.
+
+464 "Mohd Fareq Abd Malek" (3159643136)
+00:56:59.520 --> 00:57:04.050
+And so the i2 Prime is here.
+
+465 "Mohd Fareq Abd Malek" (3159643136)
+00:57:04.050 --> 00:57:08.820
+So, can I ask you this time? Uh, I, to.
+
+466 "Mohd Fareq Abd Malek" (3159643136)
+00:57:08.820 --> 00:57:13.980
+He's using a current divider rule or.
+
+467 "Mohd Fareq Abd Malek" (3159643136)
+00:57:13.980 --> 00:57:17.280
+A voltage divide to.
+
+468 "Mohd Fareq Abd Malek" (3159643136)
+00:57:20.430 --> 00:57:30.240
+I too, I to Frank, I too is also is voltage.
+
+469 "Mohd Fareq Abd Malek" (3159643136)
+00:57:30.240 --> 00:57:35.940
+Because, um, I say, so we have to be calm and.
+
+470 "Mohd Fareq Abd Malek" (3159643136)
+00:57:35.940 --> 00:57:40.290
+There is 9 goals right? Change color.
+
+471 "Mohd Fareq Abd Malek" (3159643136)
+00:57:44.100 --> 00:57:48.360
+This means this also is.
+
+472 "Mohd Fareq Abd Malek" (3159643136)
+00:57:48.360 --> 00:57:56.340
+Change color this means.
+
+473 "Mohd Fareq Abd Malek" (3159643136)
+00:57:56.340 --> 00:58:01.410
+These 2 point is 9 months. So if this is 9 volts.
+
+474 "Mohd Fareq Abd Malek" (3159643136)
+00:58:01.410 --> 00:58:08.610
+And we know 600 kilowatts and Turkey, or what will be high to plan.
+
+475 "Mohd Fareq Abd Malek" (3159643136)
+00:58:08.610 --> 00:58:14.580
+What will be I to prime if we know that this is 9 volts 9 books here.
+
+476 "Mohd Fareq Abd Malek" (3159643136)
+00:58:14.580 --> 00:58:20.160
+So, you, uh, let's try it.
+
+477 "Mohd Fareq Abd Malek" (3159643136)
+00:58:20.160 --> 00:58:30.480
+So, it's a practice for because the now will also be asked in the midterm questions questions.
+
+478 "Mohd Fareq Abd Malek" (3159643136)
+00:58:30.480 --> 00:58:45.510
+The questions so will be asked, um.
+
+479 "Mohd Fareq Abd Malek" (3159643136)
+00:58:45.510 --> 00:58:54.330
+Resistors in parallel will not not will be asked as a single, but in a 2nd, so you need to you to know. Okay. This 1. S.
+
+480 "Mohd Fareq Abd Malek" (3159643136)
+00:58:54.330 --> 00:59:00.900
+This is in parallel this 1, uh, oh, because they are in parallel the voltage must be like this.
+
+481 "Mohd Fareq Abd Malek" (3159643136)
+00:59:00.900 --> 00:59:04.410
+This 1, you've got a divider slopped.
+
+482 "Mohd Fareq Abd Malek" (3159643136)
+00:59:04.410 --> 00:59:08.520
+This is also a good question for the victim.
+
+483 "Mohd Fareq Abd Malek" (3159643136)
+00:59:08.520 --> 00:59:13.140
+What a victim exams that presents.
+
+484 "Mohd Fareq Abd Malek" (3159643136)
+00:59:13.140 --> 00:59:17.070
+So you got the right answer, which is 9 volts.
+
+485 "Mohd Fareq Abd Malek" (3159643136)
+00:59:17.070 --> 00:59:24.330
+Divided by that branch 6 and 12 6+12. So I to.
+
+486 "Mohd Fareq Abd Malek" (3159643136)
+00:59:24.330 --> 00:59:27.810
+Is, uh.
+
+487 "Mohd Fareq Abd Malek" (3159643136)
+00:59:27.810 --> 00:59:31.260
+The Prime is 0.5.
+
+488 "Mohd Fareq Abd Malek" (3159643136)
+00:59:31.260 --> 00:59:41.970
+Billy 0.5Million this now, I did the steps for the previous 1.
+
+489 "Mohd Fareq Abd Malek" (3159643136)
+00:59:41.970 --> 00:59:46.200
+I already did the steps, but let's, um.
+
+490 "Mohd Fareq Abd Malek" (3159643136)
+00:59:46.200 --> 00:59:49.950
+Let's explain again now we focus.
+
+491 "Mohd Fareq Abd Malek" (3159643136)
+00:59:49.950 --> 00:59:53.460
+On the 6Million current source and we remove.
+
+492 "Mohd Fareq Abd Malek" (3159643136)
+00:59:53.460 --> 00:59:57.840
+No, 9 will be.
+
+493 "Mohd Fareq Abd Malek" (3159643136)
+00:59:57.840 --> 01:00:03.540
+We draw it like this and you already mentioned rightly just now.
+
+494 "Mohd Fareq Abd Malek" (3159643136)
+01:00:03.540 --> 01:00:09.180
+I to Prime is using the current divider.
+
+495 "Mohd Fareq Abd Malek" (3159643136)
+01:00:09.180 --> 01:00:16.020
+So, let's, uh, let's answer I to Prime, in terms of current divider.
+
+496 "Mohd Fareq Abd Malek" (3159643136)
+01:00:16.020 --> 01:00:20.100
+Theory, so I, I took time.
+
+497 "Mohd Fareq Abd Malek" (3159643136)
+01:00:20.100 --> 01:00:24.090
+Uh, in terms of current divided theory.
+
+498 "Mohd Fareq Abd Malek" (3159643136)
+01:00:24.090 --> 01:00:29.040
+And, uh, you can see here, please select the the correct answer.
+
+499 "Mohd Fareq Abd Malek" (3159643136)
+01:00:39.090 --> 01:00:48.000
+So, I, to prime to Prime, using the current divided.
+
+500 "Mohd Fareq Abd Malek" (3159643136)
+01:00:48.000 --> 01:00:54.360
+And from the what Super position superposition means, we.
+
+501 "Mohd Fareq Abd Malek" (3159643136)
+01:00:54.360 --> 01:01:00.630
+We act the final I to is I to Brian.
+
+502 "Mohd Fareq Abd Malek" (3159643136)
+01:01:00.630 --> 01:01:04.500
+And I, to double point 0.5.
+
+503 "Mohd Fareq Abd Malek" (3159643136)
+01:01:04.500 --> 01:01:10.530
+Uh, last.
+
+504 "Mohd Fareq Abd Malek" (3159643136)
+01:01:10.530 --> 01:01:19.830
+To really for the prime, so in total our final answer is 2.5Million. Yes.
+
+505 "Mohd Fareq Abd Malek" (3159643136)
+01:01:19.830 --> 01:01:22.860
+So that is, uh, that.
+
+506 "Mohd Fareq Abd Malek" (3159643136)
+01:01:22.860 --> 01:01:28.770
+The technique of Super position Kyoto support position.
+
+507 "Mohd Fareq Abd Malek" (3159643136)
+01:01:34.890 --> 01:01:43.590
+Okay, so if there is no question.
+
+508 "Mohd Fareq Abd Malek" (3159643136)
+01:01:43.590 --> 01:01:49.590
+So, I would like to proceed with, uh.
+
+509 "Mohd Fareq Abd Malek" (3159643136)
+01:01:49.590 --> 01:01:54.090
+So, let's see the answer. 1st. Mm. Hmm.
+
+510 "Mohd Fareq Abd Malek" (3159643136)
+01:01:54.090 --> 01:02:00.330
+That's good. And so we have learned superposition, but now.
+
+511 "Mohd Fareq Abd Malek" (3159643136)
+01:02:00.330 --> 01:02:03.540
+We are going to learn, uh.
+
+512 "Mohd Fareq Abd Malek" (3159643136)
+01:02:03.540 --> 01:02:12.930
+The most interesting and permits the reduction of complex networks to a simple form for analysis and design.
+
+513 "Mohd Fareq Abd Malek" (3159643136)
+01:02:16.260 --> 01:02:21.450
+So, because, uh, it's parallel, it's easy.
+
+514 "Mohd Fareq Abd Malek" (3159643136)
+01:02:21.450 --> 01:02:24.930
+But if it's a combination too much.
+
+515 "Mohd Fareq Abd Malek" (3159643136)
+01:02:24.930 --> 01:02:28.830
+Too many combinations, so it's better.
+
+516 "Mohd Fareq Abd Malek" (3159643136)
+01:02:28.830 --> 01:02:35.220
+To to have a technique and this technique is called.
+
+517 "Mohd Fareq Abd Malek" (3159643136)
+01:02:35.220 --> 01:02:44.640
+Okay, so let's see. So, what we want to do is, uh, all the complexities.
+
+518 "Mohd Fareq Abd Malek" (3159643136)
+01:02:44.640 --> 01:02:48.540
+Um, for example, we have, uh, what.
+
+519 "Mohd Fareq Abd Malek" (3159643136)
+01:02:48.540 --> 01:02:54.600
+And then all these here.
+
+520 "Mohd Fareq Abd Malek" (3159643136)
+01:02:54.600 --> 01:02:59.550
+And then here many things.
+
+521 "Mohd Fareq Abd Malek" (3159643136)
+01:02:59.550 --> 01:03:04.830
+And then some here and so forth. So we want to.
+
+522 "Mohd Fareq Abd Malek" (3159643136)
+01:03:04.830 --> 01:03:08.880
+Uh, do view some voltage across the.
+
+523 "Mohd Fareq Abd Malek" (3159643136)
+01:03:08.880 --> 01:03:15.420
+Certain places, so we want to simplify all of them.
+
+524 "Mohd Fareq Abd Malek" (3159643136)
+01:03:15.420 --> 01:03:18.900
+And this is called.
+
+525 "Mohd Fareq Abd Malek" (3159643136)
+01:03:18.900 --> 01:03:24.600
+And.
+
+526 "Mohd Fareq Abd Malek" (3159643136)
+01:03:24.600 --> 01:03:30.240
+And here, we can look at the same point and find whatever that we want.
+
+527 "Mohd Fareq Abd Malek" (3159643136)
+01:03:30.240 --> 01:03:39.330
+So that is, uh, it's like simplification 1st year we might have, uh.
+
+528 "Mohd Fareq Abd Malek" (3159643136)
+01:03:39.330 --> 01:03:44.460
+Uh, this 1, this 1 another here.
+
+529 "Mohd Fareq Abd Malek" (3159643136)
+01:03:44.460 --> 01:03:50.790
+So this needs to simplify all the current work, all the sauce into 1.
+
+530 "Mohd Fareq Abd Malek" (3159643136)
+01:03:50.790 --> 01:03:54.750
+To simplify all the resistance into 1.
+
+531 "Mohd Fareq Abd Malek" (3159643136)
+01:03:54.750 --> 01:03:58.530
+E, uh, 8, 70 and.
+
+532 "Mohd Fareq Abd Malek" (3159643136)
+01:03:58.530 --> 01:04:02.370
+Resistance and then we can.
+
+533 "Mohd Fareq Abd Malek" (3159643136)
+01:04:02.370 --> 01:04:07.530
+To whatever, uh, easily to find, for example, voltage.
+
+534 "Mohd Fareq Abd Malek" (3159643136)
+01:04:07.530 --> 01:04:11.580
+Across a, and B, and so forth.
+
+535 "Mohd Fareq Abd Malek" (3159643136)
+01:04:11.580 --> 01:04:16.680
+So, we want our objective here. You can see here.
+
+536 "Mohd Fareq Abd Malek" (3159643136)
+01:04:16.680 --> 01:04:23.670
+This is voltage source current source. Resistor 1. resistor 2.
+
+537 "Mohd Fareq Abd Malek" (3159643136)
+01:04:23.670 --> 01:04:28.800
+And this blue box, we want to.
+
+538 "Mohd Fareq Abd Malek" (3159643136)
+01:04:28.800 --> 01:04:41.160
+Summarize them to become just, uh, 1, uh, 1 voltage, which call it voltage 70 and 1 resistance. We call it resistance Stephanie.
+
+539 "Mohd Fareq Abd Malek" (3159643136)
+01:04:41.160 --> 01:04:46.860
+And then it's easy to solve or whatever that we want for the.
+
+540 "Mohd Fareq Abd Malek" (3159643136)
+01:04:46.860 --> 01:04:50.010
+For the across, uh, a, and B.
+
+541 "Mohd Fareq Abd Malek" (3159643136)
+01:04:50.010 --> 01:04:53.640
+Be the point a, and B, okay.
+
+542 "Mohd Fareq Abd Malek" (3159643136)
+01:04:57.870 --> 01:05:05.370
+So, remove that portion of the network where the is found.
+
+543 "Mohd Fareq Abd Malek" (3159643136)
+01:05:05.370 --> 01:05:11.880
+Uh, this requires that the load resist our L. we temporarily remove from a network.
+
+544 "Mohd Fareq Abd Malek" (3159643136)
+01:05:11.880 --> 01:05:15.900
+But the terminals of the remaining 2 terminal network.
+
+545 "Mohd Fareq Abd Malek" (3159643136)
+01:05:19.170 --> 01:05:22.350
+So then we calculate, uh, R, W.
+
+546 "Mohd Fareq Abd Malek" (3159643136)
+01:05:22.350 --> 01:05:29.340
+By setting all sources to 0, what data sources are replaced by.
+
+547 "Mohd Fareq Abd Malek" (3159643136)
+01:05:29.340 --> 01:05:32.790
+And the current sources, my open tickets.
+
+548 "Mohd Fareq Abd Malek" (3159643136)
+01:05:32.790 --> 01:05:39.150
+And then finding the result of resistance between the 2 terminals.
+
+549 "Mohd Fareq Abd Malek" (3159643136)
+01:05:39.150 --> 01:05:47.220
+If the internal resistance of the voltage, and our current process is included in the original network, it must remain.
+
+550 "Mohd Fareq Abd Malek" (3159643136)
+01:05:47.220 --> 01:05:54.690
+When the sauces are set to 0, and then calculate.
+
+551 "Mohd Fareq Abd Malek" (3159643136)
+01:05:54.690 --> 01:06:00.240
+By returning all success to their original position and finding the open. 2nd.
+
+552 "Mohd Fareq Abd Malek" (3159643136)
+01:06:00.240 --> 01:06:09.570
+Voltage between the mock terminals so I think, um, and lastly a 2nd.
+
+553 "Mohd Fareq Abd Malek" (3159643136)
+01:06:09.570 --> 01:06:17.280
+The portion of the separate previously remove replace between the terminals on the equivalent setups.
+
+554 "Mohd Fareq Abd Malek" (3159643136)
+01:06:17.280 --> 01:06:22.440
+But it's better to to use an example. So I will.
+
+555 "Mohd Fareq Abd Malek" (3159643136)
+01:06:22.440 --> 01:06:27.210
+I will do 1 simple example and then.
+
+556 "Mohd Fareq Abd Malek" (3159643136)
+01:06:27.210 --> 01:06:32.070
+Uh, develop from that from that. So here we are.
+
+557 "Mohd Fareq Abd Malek" (3159643136)
+01:06:32.070 --> 01:06:38.250
+Uh, we have look, we are loads, we should not.
+
+558 "Mohd Fareq Abd Malek" (3159643136)
+01:06:38.250 --> 01:06:43.470
+We in the blue box, uh, how the load is removed.
+
+559 "Mohd Fareq Abd Malek" (3159643136)
+01:06:43.470 --> 01:06:49.950
+And then open 2nd is far. So the 1st step is to remove.
+
+560 "Mohd Fareq Abd Malek" (3159643136)
+01:06:49.950 --> 01:07:01.620
+Uh, the load to get to use the, we remove, uh, the R. L. so we, when we remove the loads.
+
+561 "Mohd Fareq Abd Malek" (3159643136)
+01:07:01.620 --> 01:07:05.100
+This will be an open 2nd.
+
+562 "Mohd Fareq Abd Malek" (3159643136)
+01:07:05.100 --> 01:07:09.090
+This will be a positive, but we should not.
+
+563 "Mohd Fareq Abd Malek" (3159643136)
+01:07:09.090 --> 01:07:12.780
+We should be wary. We should.
+
+564 "Mohd Fareq Abd Malek" (3159643136)
+01:07:12.780 --> 01:07:18.510
+No, where is AB, AB is still here it is still here.
+
+565 "Mohd Fareq Abd Malek" (3159643136)
+01:07:18.510 --> 01:07:23.040
+All right, so that is the 1st step to remove the load.
+
+566 "Mohd Fareq Abd Malek" (3159643136)
+01:07:23.040 --> 01:07:26.370
+We have to remove that we have removed the load.
+
+567 "Mohd Fareq Abd Malek" (3159643136)
+01:07:29.910 --> 01:07:36.570
+So, to obtain, so, at the end bear in mind that we weren't.
+
+568 "Mohd Fareq Abd Malek" (3159643136)
+01:07:36.570 --> 01:07:45.270
+Uh, what page? 17, and we want.
+
+569 "Mohd Fareq Abd Malek" (3159643136)
+01:07:45.270 --> 01:07:48.660
+So.
+
+570 "Mohd Fareq Abd Malek" (3159643136)
+01:07:48.660 --> 01:07:53.010
+After we removed the lotus now the 1st step.
+
+571 "Mohd Fareq Abd Malek" (3159643136)
+01:07:53.010 --> 01:07:58.230
+The next step is to find the so.
+
+572 "Mohd Fareq Abd Malek" (3159643136)
+01:07:58.230 --> 01:08:06.180
+The next step is, uh, all voltages will be shorter.
+
+573 "Mohd Fareq Abd Malek" (3159643136)
+01:08:06.180 --> 01:08:12.930
+And all of our all current process will be open. 2nd.
+
+574 "Mohd Fareq Abd Malek" (3159643136)
+01:08:12.930 --> 01:08:17.190
+So, remember, the load is still remove the R. L. is no more there.
+
+575 "Mohd Fareq Abd Malek" (3159643136)
+01:08:17.190 --> 01:08:21.270
+Now, we remove the voltage source.
+
+576 "Mohd Fareq Abd Malek" (3159643136)
+01:08:21.270 --> 01:08:25.260
+And we replace with, uh.
+
+577 "Mohd Fareq Abd Malek" (3159643136)
+01:08:25.260 --> 01:08:28.440
+Why are you? So.
+
+578 "Mohd Fareq Abd Malek" (3159643136)
+01:08:28.440 --> 01:08:31.890
+There is no current source here, so just a voltage sauce.
+
+579 "Mohd Fareq Abd Malek" (3159643136)
+01:08:31.890 --> 01:08:36.780
+So, we replaced with, uh, shops in so now.
+
+580 "Mohd Fareq Abd Malek" (3159643136)
+01:08:36.780 --> 01:08:45.360
+In mind N. D because a, and B is the point of view the eye you can see that. I.
+
+581 "Mohd Fareq Abd Malek" (3159643136)
+01:08:45.360 --> 01:08:49.590
+I view of the our.
+
+582 "Mohd Fareq Abd Malek" (3159643136)
+01:08:49.590 --> 01:08:56.400
+Resistance 17, so if we view from here.
+
+583 "Mohd Fareq Abd Malek" (3159643136)
+01:08:56.400 --> 01:09:06.720
+So, I like you, you might do not want to withdraw, but I'd like to redraw it. So have a better view. So I'll read through it in this manner.
+
+584 "Mohd Fareq Abd Malek" (3159643136)
+01:09:06.720 --> 01:09:11.190
+Because this is just a wire, so I put it.
+
+585 "Mohd Fareq Abd Malek" (3159643136)
+01:09:11.190 --> 01:09:14.220
+Uh, 1, 2.
+
+586 "Mohd Fareq Abd Malek" (3159643136)
+01:09:14.220 --> 01:09:18.900
+And, and we still here and the, I view.
+
+587 "Mohd Fareq Abd Malek" (3159643136)
+01:09:18.900 --> 01:09:25.530
+Of the, so if we view, uh, our eye from here.
+
+588 "Mohd Fareq Abd Malek" (3159643136)
+01:09:25.530 --> 01:09:30.960
+What we can see is are 1 and half to.
+
+589 "Mohd Fareq Abd Malek" (3159643136)
+01:09:30.960 --> 01:09:35.790
+In parallel, right? How do I get up to add in parallel.
+
+590 "Mohd Fareq Abd Malek" (3159643136)
+01:09:35.790 --> 01:09:38.880
+Therefore, we can.
+
+591 "Mohd Fareq Abd Malek" (3159643136)
+01:09:38.880 --> 01:09:42.000
+As the point of view is like, looking at.
+
+592 "Mohd Fareq Abd Malek" (3159643136)
+01:09:42.000 --> 01:09:46.650
+As a result then it is.
+
+593 "Mohd Fareq Abd Malek" (3159643136)
+01:09:46.650 --> 01:09:54.480
+What we call as a total from here is a by.
+
+594 "Mohd Fareq Abd Malek" (3159643136)
+01:09:54.480 --> 01:10:00.060
+Up to add 1 last half 2 because.
+
+595 "Mohd Fareq Abd Malek" (3159643136)
+01:10:00.060 --> 01:10:04.620
+You see the special formula for 2 resistors in parallel.
+
+596 "Mohd Fareq Abd Malek" (3159643136)
+01:10:04.620 --> 01:10:10.260
+And again, I emphasize special formula or 2 reasons this internal we'll come up in the.
+
+597 "Mohd Fareq Abd Malek" (3159643136)
+01:10:10.260 --> 01:10:18.000
+Victim exam in 1 hour 1 hour time. Okay.
+
+598 "Mohd Fareq Abd Malek" (3159643136)
+01:10:18.000 --> 01:10:24.990
+So, if this is, uh, 3 and 6, this is 3 hours.
+
+599 "Mohd Fareq Abd Malek" (3159643136)
+01:10:24.990 --> 01:10:28.410
+And this is 6 months so I think.
+
+600 "Mohd Fareq Abd Malek" (3159643136)
+01:10:28.410 --> 01:10:32.310
+Uh, you you know how to find.
+
+601 "Mohd Fareq Abd Malek" (3159643136)
+01:10:32.310 --> 01:10:37.800
+This too as a result. So now you, you have solved.
+
+602 "Mohd Fareq Abd Malek" (3159643136)
+01:10:37.800 --> 01:10:43.530
+Uh, you have now, uh, update the value.
+
+603 "Mohd Fareq Abd Malek" (3159643136)
+01:10:43.530 --> 01:10:48.630
+Of our This is.
+
+604 "Mohd Fareq Abd Malek" (3159643136)
+01:10:48.630 --> 01:10:53.160
+So, now we, we are going to, uh, find.
+
+605 "Mohd Fareq Abd Malek" (3159643136)
+01:10:53.160 --> 01:10:59.370
+Uh, both or 8:30:so has been found.
+
+606 "Mohd Fareq Abd Malek" (3159643136)
+01:10:59.370 --> 01:11:03.960
+The next step is to find 8:7:or re, voltage 17.
+
+607 "Mohd Fareq Abd Malek" (3159643136)
+01:11:03.960 --> 01:11:08.040
+So, to find a work test, you.
+
+608 "Mohd Fareq Abd Malek" (3159643136)
+01:11:08.040 --> 01:11:15.870
+You put back all the boxes sources, because previously, when you want to find the resistor.
+
+609 "Mohd Fareq Abd Malek" (3159643136)
+01:11:15.870 --> 01:11:19.530
+We remove all the voltage and current sources.
+
+610 "Mohd Fareq Abd Malek" (3159643136)
+01:11:19.530 --> 01:11:28.320
+But now we want to find the we, we put back all the voltage sources.
+
+611 "Mohd Fareq Abd Malek" (3159643136)
+01:11:28.320 --> 01:11:33.570
+Um, uh, but still, there are a note.
+
+612 "Mohd Fareq Abd Malek" (3159643136)
+01:11:33.570 --> 01:11:43.380
+It's not yet. It's not yet. It's not yet, uh, return. We just, uh, put back the work of sauce.
+
+613 "Mohd Fareq Abd Malek" (3159643136)
+01:11:43.380 --> 01:11:53.010
+So when we put back the voltage source here, we got 3 orbs and 6. M. but that's why it's very important.
+
+614 "Mohd Fareq Abd Malek" (3159643136)
+01:11:53.010 --> 01:11:57.780
+To not lose track of a and B.
+
+615 "Mohd Fareq Abd Malek" (3159643136)
+01:11:57.780 --> 01:12:04.080
+Because that is our, I view, oh, I view a point of view.
+
+616 "Mohd Fareq Abd Malek" (3159643136)
+01:12:04.080 --> 01:12:07.410
+Now, this point of view.
+
+617 "Mohd Fareq Abd Malek" (3159643136)
+01:12:07.410 --> 01:12:12.450
+Between is the voltage.
+
+618 "Mohd Fareq Abd Malek" (3159643136)
+01:12:12.450 --> 01:12:23.400
+It is is both stage, right? The voltage across this because this is the point of view.
+
+619 "Mohd Fareq Abd Malek" (3159643136)
+01:12:23.400 --> 01:12:28.500
+And as usual, I like to draw it redraw it.
+
+620 "Mohd Fareq Abd Malek" (3159643136)
+01:12:28.500 --> 01:12:34.260
+So this is not volts. Uh, this is 3.
+
+621 "Mohd Fareq Abd Malek" (3159643136)
+01:12:34.260 --> 01:12:38.550
+The quotes and this is 6 hours and, uh.
+
+622 "Mohd Fareq Abd Malek" (3159643136)
+01:12:38.550 --> 01:12:43.200
+The point of view, the view is between a, and B.
+
+623 "Mohd Fareq Abd Malek" (3159643136)
+01:12:43.200 --> 01:12:46.440
+And to get the R, the.
+
+624 "Mohd Fareq Abd Malek" (3159643136)
+01:12:46.440 --> 01:12:51.210
+And also the work is divider theory.
+
+625 "Mohd Fareq Abd Malek" (3159643136)
+01:12:51.210 --> 01:13:02.850
+Is this 1, but you are going to experience it in the victim the voltage divide the theory the voltage divided theory. So I hope you just now, you are.
+
+626 "Mohd Fareq Abd Malek" (3159643136)
+01:13:02.850 --> 01:13:06.210
+You finish successfully mention.
+
+627 "Mohd Fareq Abd Malek" (3159643136)
+01:13:06.210 --> 01:13:09.750
+The current divider theory and I, will you still.
+
+628 "Mohd Fareq Abd Malek" (3159643136)
+01:13:09.750 --> 01:13:14.550
+Uh, you are well versed in both this divided query if we have 6.
+
+629 "Mohd Fareq Abd Malek" (3159643136)
+01:13:14.550 --> 01:13:20.490
+Those 3 ops here at 9 volts, the voltage divided theory states that are voltage.
+
+630 "Mohd Fareq Abd Malek" (3159643136)
+01:13:20.490 --> 01:13:24.690
+Plus is 6.
+
+631 "Mohd Fareq Abd Malek" (3159643136)
+01:13:24.690 --> 01:13:29.820
+Divided by 6+3xby 9 books.
+
+632 "Mohd Fareq Abd Malek" (3159643136)
+01:13:29.820 --> 01:13:33.030
+So, now we have update.
+
+633 "Mohd Fareq Abd Malek" (3159643136)
+01:13:33.030 --> 01:13:38.250
+Uh, previously we have to obtain.
+
+634 "Mohd Fareq Abd Malek" (3159643136)
+01:13:38.250 --> 01:13:46.740
+Our so last, but not least we re, draw it as a final answer.
+
+635 "Mohd Fareq Abd Malek" (3159643136)
+01:13:46.740 --> 01:13:52.560
+The is 6 books. Our revenue is 2.
+
+636 "Mohd Fareq Abd Malek" (3159643136)
+01:13:52.560 --> 01:13:56.730
+And now we put back our load.
+
+637 "Mohd Fareq Abd Malek" (3159643136)
+01:13:56.730 --> 01:13:59.970
+Please look back in a 2nd.
+
+638 "Mohd Fareq Abd Malek" (3159643136)
+01:13:59.970 --> 01:14:04.860
+And when we place the note back in a 2nd.
+
+639 "Mohd Fareq Abd Malek" (3159643136)
+01:14:04.860 --> 01:14:08.700
+We can easily find the current.
+
+640 "Mohd Fareq Abd Malek" (3159643136)
+01:14:08.700 --> 01:14:11.790
+The color flowing in the.
+
+641 "Mohd Fareq Abd Malek" (3159643136)
+01:14:11.790 --> 01:14:15.630
+Uh, load resistance, because I hope.
+
+642 "Mohd Fareq Abd Malek" (3159643136)
+01:14:15.630 --> 01:14:18.900
+You are well versed by now that current is.
+
+643 "Mohd Fareq Abd Malek" (3159643136)
+01:14:18.900 --> 01:14:22.530
+Well, it's folks logged voltage.
+
+644 "Mohd Fareq Abd Malek" (3159643136)
+01:14:22.530 --> 01:14:26.520
+Over over the resistance.
+
+645 "Mohd Fareq Abd Malek" (3159643136)
+01:14:26.520 --> 01:14:32.640
+Okay, so maybe the question will say, okay, now the R. L. is 1.
+
+646 "Mohd Fareq Abd Malek" (3159643136)
+01:14:32.640 --> 01:14:36.420
+Let's let's see, let's say.
+
+647 "Mohd Fareq Abd Malek" (3159643136)
+01:14:36.420 --> 01:14:44.340
+So I am, is a 6 volts divided by the total.
+
+648 "Mohd Fareq Abd Malek" (3159643136)
+01:14:44.340 --> 01:14:49.110
+Resistance 2 and 3 2+3 and 5.
+
+649 "Mohd Fareq Abd Malek" (3159643136)
+01:14:49.110 --> 01:14:53.490
+This is just example. So R. L. can be any value.
+
+650 "Mohd Fareq Abd Malek" (3159643136)
+01:14:53.490 --> 01:14:56.520
+But it's not easy to solve.
+
+651 "Mohd Fareq Abd Malek" (3159643136)
+01:14:56.520 --> 01:15:00.390
+Or the so just observed. Yeah.
+
+652 "Mohd Fareq Abd Malek" (3159643136)
+01:15:00.390 --> 01:15:06.510
+I think is our original question so we were asked to find.
+
+653 "Mohd Fareq Abd Malek" (3159643136)
+01:15:06.510 --> 01:15:15.000
+I L, if you were asked to find, I am, it's going to be.
+
+654 "Mohd Fareq Abd Malek" (3159643136)
+01:15:15.000 --> 01:15:19.320
+Maybe we can solve it, but.
+
+655 "Mohd Fareq Abd Malek" (3159643136)
+01:15:19.320 --> 01:15:22.980
+Uh, is this is maybe a bit complicated.
+
+656 "Mohd Fareq Abd Malek" (3159643136)
+01:15:22.980 --> 01:15:29.280
+But, in other cases, with more, uh, combination of currents source, voltage source.
+
+657 "Mohd Fareq Abd Malek" (3159643136)
+01:15:29.280 --> 01:15:34.950
+Resistance in hybrid, serious parallel so it's going to be.
+
+658 "Mohd Fareq Abd Malek" (3159643136)
+01:15:34.950 --> 01:15:44.250
+Uh, difficult so the covenant theory, makes it, like, summarize all of the elements in the blue box.
+
+659 "Mohd Fareq Abd Malek" (3159643136)
+01:15:44.250 --> 01:15:50.940
+To become, uh, or voltage 17.
+
+660 "Mohd Fareq Abd Malek" (3159643136)
+01:15:50.940 --> 01:15:55.920
+Uh, and and and therefore you can solve.
+
+661 "Mohd Fareq Abd Malek" (3159643136)
+01:15:55.920 --> 01:16:04.890
+Whatever is required, because it's just a simple slow in this case.
+
+662 "Mohd Fareq Abd Malek" (3159643136)
+01:16:04.890 --> 01:16:11.970
+So, now we have another example, and this is, is the.
+
+663 "Mohd Fareq Abd Malek" (3159643136)
+01:16:11.970 --> 01:16:17.280
+And the blue box, we have the 12 current sauce.
+
+664 "Mohd Fareq Abd Malek" (3159643136)
+01:16:17.280 --> 01:16:21.780
+Bones and 2 offs so.
+
+665 "Mohd Fareq Abd Malek" (3159643136)
+01:16:21.780 --> 01:16:27.300
+We are going to use the.
+
+666 "Mohd Fareq Abd Malek" (3159643136)
+01:16:27.300 --> 01:16:32.370
+So 1st of all, uh, we are.
+
+667 "Mohd Fareq Abd Malek" (3159643136)
+01:16:32.370 --> 01:16:35.490
+The answer is 6 months for the.
+
+668 "Mohd Fareq Abd Malek" (3159643136)
+01:16:35.490 --> 01:16:41.370
+Um, because find out that we need, we.
+
+669 "Mohd Fareq Abd Malek" (3159643136)
+01:16:41.370 --> 01:16:48.720
+We replaced, of course, the load is no more there. So the load is not part of the analysis.
+
+670 "Mohd Fareq Abd Malek" (3159643136)
+01:16:48.720 --> 01:16:56.160
+Okay to find the afternoon we then replace the current source with and.
+
+671 "Mohd Fareq Abd Malek" (3159643136)
+01:16:56.160 --> 01:17:03.930
+Okay, 3rd, this current source is open secure. Of course, the, the are load is no matter, but.
+
+672 "Mohd Fareq Abd Malek" (3159643136)
+01:17:03.930 --> 01:17:09.870
+Bear in mind, where are the points? Where are the point? A, and point B.
+
+673 "Mohd Fareq Abd Malek" (3159643136)
+01:17:09.870 --> 01:17:14.820
+Does this is, uh, I view that we want to.
+
+674 "Mohd Fareq Abd Malek" (3159643136)
+01:17:14.820 --> 01:17:19.830
+Look at my view that you want to look at.
+
+675 "Mohd Fareq Abd Malek" (3159643136)
+01:17:22.890 --> 01:17:30.960
+So, and so this is becoming open 2nd.
+
+676 "Mohd Fareq Abd Malek" (3159643136)
+01:17:30.960 --> 01:17:34.890
+So this means, I can I ask you.
+
+677 "Mohd Fareq Abd Malek" (3159643136)
+01:17:34.890 --> 01:17:40.260
+Uh, because some of you will say, why is it not for us.
+
+678 "Mohd Fareq Abd Malek" (3159643136)
+01:17:40.260 --> 01:17:44.910
+Why is it not for us? Because I'm looking like this.
+
+679 "Mohd Fareq Abd Malek" (3159643136)
+01:17:44.910 --> 01:17:49.620
+But you have to look from the point of view from a.
+
+680 "Mohd Fareq Abd Malek" (3159643136)
+01:17:49.620 --> 01:17:58.410
+Between a, and P, so if you look from here, so that's why I like to redraw it if it.
+
+681 "Mohd Fareq Abd Malek" (3159643136)
+01:17:58.410 --> 01:18:05.040
+To avoid plus, this can be.
+
+682 "Mohd Fareq Abd Malek" (3159643136)
+01:18:05.040 --> 01:18:11.160
+Be drawn are the 2 OEMs.
+
+683 "Mohd Fareq Abd Malek" (3159643136)
+01:18:11.160 --> 01:18:14.550
+And for us, so we have to.
+
+684 "Mohd Fareq Abd Malek" (3159643136)
+01:18:14.550 --> 01:18:17.610
+To be safe, keep track of.
+
+685 "Mohd Fareq Abd Malek" (3159643136)
+01:18:17.610 --> 01:18:21.180
+A, and B, or you can draw it up.
+
+686 "Mohd Fareq Abd Malek" (3159643136)
+01:18:21.180 --> 01:18:27.330
+If I rewrote it, and if I look, uh, if I look from.
+
+687 "Mohd Fareq Abd Malek" (3159643136)
+01:18:27.330 --> 01:18:32.640
+I see that the resistor that I see from a is.
+
+688 "Mohd Fareq Abd Malek" (3159643136)
+01:18:32.640 --> 01:18:39.870
+To register in series, 2 and 4 2+4 is 6 hours. So we have solved.
+
+689 "Mohd Fareq Abd Malek" (3159643136)
+01:18:39.870 --> 01:18:43.200
+Uh, that would so if you are.
+
+690 "Mohd Fareq Abd Malek" (3159643136)
+01:18:43.200 --> 01:18:46.590
+Just remind me remind me.
+
+691 "Mohd Fareq Abd Malek" (3159643136)
+01:18:46.590 --> 01:18:50.520
+To find we.
+
+692 "Mohd Fareq Abd Malek" (3159643136)
+01:18:50.520 --> 01:18:54.600
+Retain back we return back the.
+
+693 "Mohd Fareq Abd Malek" (3159643136)
+01:18:54.600 --> 01:19:00.150
+Removed previously, it was removed now 117 with.
+
+694 "Mohd Fareq Abd Malek" (3159643136)
+01:19:00.150 --> 01:19:06.090
+Put back the current sauce and but the other loads is still.
+
+695 "Mohd Fareq Abd Malek" (3159643136)
+01:19:06.090 --> 01:19:09.900
+It's still removed, it's still removed.
+
+696 "Mohd Fareq Abd Malek" (3159643136)
+01:19:09.900 --> 01:19:16.770
+Um, but now the point a is still maintain, and we look.
+
+697 "Mohd Fareq Abd Malek" (3159643136)
+01:19:16.770 --> 01:19:22.950
+From here. Okay. And this is something interesting.
+
+698 "Mohd Fareq Abd Malek" (3159643136)
+01:19:22.950 --> 01:19:28.560
+Something interesting here, because let's do it. Uh, let's do.
+
+699 "Mohd Fareq Abd Malek" (3159643136)
+01:19:28.560 --> 01:19:33.540
+Uh, our, uh, redrawing it, uh, let me rejoin.
+
+700 "Mohd Fareq Abd Malek" (3159643136)
+01:19:33.540 --> 01:19:47.070
+Yeah, and this is the point, right? The point.
+
+701 "Mohd Fareq Abd Malek" (3159643136)
+01:19:47.070 --> 01:19:53.490
+Uh, AV, something interesting.
+
+702 "Mohd Fareq Abd Malek" (3159643136)
+01:19:53.490 --> 01:19:58.980
+I hope you see that the carbon.
+
+703 "Mohd Fareq Abd Malek" (3159643136)
+01:19:58.980 --> 01:20:05.640
+The problem is moving here this is.
+
+704 "Mohd Fareq Abd Malek" (3159643136)
+01:20:05.640 --> 01:20:09.120
+Hanging right as if there's no use.
+
+705 "Mohd Fareq Abd Malek" (3159643136)
+01:20:09.120 --> 01:20:12.390
+Because no current, this is open.
+
+706 "Mohd Fareq Abd Malek" (3159643136)
+01:20:12.390 --> 01:20:20.100
+Here is, here is like, is hanging, so this resistor is of not relevance.
+
+707 "Mohd Fareq Abd Malek" (3159643136)
+01:20:20.100 --> 01:20:25.200
+Right. It's not relevant so as if, uh, it's nothing.
+
+708 "Mohd Fareq Abd Malek" (3159643136)
+01:20:25.200 --> 01:20:28.860
+The resistor does not exist, so it's.
+
+709 "Mohd Fareq Abd Malek" (3159643136)
+01:20:28.860 --> 01:20:35.310
+Uh, just like this, or even if you want, you can just say.
+
+710 "Mohd Fareq Abd Malek" (3159643136)
+01:20:35.310 --> 01:20:39.330
+It's nothing so now we.
+
+711 "Mohd Fareq Abd Malek" (3159643136)
+01:20:39.330 --> 01:20:45.930
+The point of view of a B, is these 2 points.
+
+712 "Mohd Fareq Abd Malek" (3159643136)
+01:20:45.930 --> 01:20:51.060
+So we want to find 8:17:or we want to find the voltage.
+
+713 "Mohd Fareq Abd Malek" (3159643136)
+01:20:51.060 --> 01:20:55.680
+8 Avenue or the voltage.
+
+714 "Mohd Fareq Abd Malek" (3159643136)
+01:20:55.680 --> 01:21:00.870
+By looking from a and B.
+
+715 "Mohd Fareq Abd Malek" (3159643136)
+01:21:00.870 --> 01:21:05.760
+And I think, uh, you, um.
+
+716 "Mohd Fareq Abd Malek" (3159643136)
+01:21:05.760 --> 01:21:09.780
+The whole pitch between a, and B.
+
+717 "Mohd Fareq Abd Malek" (3159643136)
+01:21:09.780 --> 01:21:13.050
+And this is 12.
+
+718 "Mohd Fareq Abd Malek" (3159643136)
+01:21:13.050 --> 01:21:21.960
+And this is phones.
+
+719 "Mohd Fareq Abd Malek" (3159643136)
+01:21:21.960 --> 01:21:27.660
+And, uh, soft transformation.
+
+720 "Mohd Fareq Abd Malek" (3159643136)
+01:21:27.660 --> 01:21:32.070
+Let me remember whether it's in the midterm exam.
+
+721 "Mohd Fareq Abd Malek" (3159643136)
+01:21:32.070 --> 01:21:39.630
+Soft transformation. No. So now, since you are here, I give you the tips.
+
+722 "Mohd Fareq Abd Malek" (3159643136)
+01:21:39.630 --> 01:21:47.910
+What in the midterm exam is a resistance in parallel, uh, current divider, uh, nodal analysis. So.
+
+723 "Mohd Fareq Abd Malek" (3159643136)
+01:21:47.910 --> 01:21:51.570
+You there is no.
+
+724 "Mohd Fareq Abd Malek" (3159643136)
+01:21:51.570 --> 01:21:56.430
+Transformation question, but here in here.
+
+725 "Mohd Fareq Abd Malek" (3159643136)
+01:21:56.430 --> 01:22:03.480
+We can observe that this can be transformed 12 times for.
+
+726 "Mohd Fareq Abd Malek" (3159643136)
+01:22:03.480 --> 01:22:08.580
+Is, uh, 48 transformation.
+
+727 "Mohd Fareq Abd Malek" (3159643136)
+01:22:08.580 --> 01:22:13.800
+And in series is for forms.
+
+728 "Mohd Fareq Abd Malek" (3159643136)
+01:22:13.800 --> 01:22:17.310
+And do not forget always the.
+
+729 "Mohd Fareq Abd Malek" (3159643136)
+01:22:17.310 --> 01:22:27.000
+Between the point a, and we and we want the E voltage.
+
+730 "Mohd Fareq Abd Malek" (3159643136)
+01:22:27.000 --> 01:22:34.170
+So, the voltage, uh, looking at this is 48 volts.
+
+731 "Mohd Fareq Abd Malek" (3159643136)
+01:22:34.170 --> 01:22:40.530
+Is 48 volts so the, the voltage across between 8.
+
+732 "Mohd Fareq Abd Malek" (3159643136)
+01:22:40.530 --> 01:22:50.580
+Is 48 volts so, this means 8 is 48 books uh, is 6 hours.
+
+733 "Mohd Fareq Abd Malek" (3159643136)
+01:22:50.580 --> 01:22:55.230
+And, uh, our 3 or our loads.
+
+734 "Mohd Fareq Abd Malek" (3159643136)
+01:22:55.230 --> 01:23:01.680
+Our load is 7 months so the last, only at the last moment.
+
+735 "Mohd Fareq Abd Malek" (3159643136)
+01:23:01.680 --> 01:23:05.070
+That the 7 Ops will be.
+
+736 "Mohd Fareq Abd Malek" (3159643136)
+01:23:05.070 --> 01:23:08.370
+We will be put back in the 2nd.
+
+737 "Mohd Fareq Abd Malek" (3159643136)
+01:23:08.370 --> 01:23:14.520
+Okay, so now it's easy because whatever you want to find.
+
+738 "Mohd Fareq Abd Malek" (3159643136)
+01:23:14.520 --> 01:23:20.430
+Uh, is it the current going through the 3 now? It's easy.
+
+739 "Mohd Fareq Abd Malek" (3159643136)
+01:23:20.430 --> 01:23:24.000
+To file because everything is.
+
+740 "Mohd Fareq Abd Malek" (3159643136)
+01:23:24.000 --> 01:23:27.390
+In terms of and the, so you can.
+
+741 "Mohd Fareq Abd Malek" (3159643136)
+01:23:27.390 --> 01:23:35.700
+Let's see what the time I, it's, uh, onslaught the voltage divided by the total resistance.
+
+742 "Mohd Fareq Abd Malek" (3159643136)
+01:23:35.700 --> 01:23:42.300
+So that is we have learned so far is, uh, support position.
+
+743 "Mohd Fareq Abd Malek" (3159643136)
+01:23:42.300 --> 01:23:46.170
+This morning and 17.
+
+744 "Mohd Fareq Abd Malek" (3159643136)
+01:23:46.170 --> 01:23:51.090
+That would mean Kingdom, so another.
+
+745 "Mohd Fareq Abd Malek" (3159643136)
+01:23:51.090 --> 01:23:56.640
+Interesting example, is the load there are node can be.
+
+746 "Mohd Fareq Abd Malek" (3159643136)
+01:23:56.640 --> 01:23:59.880
+That'd be a new app.
+
+747 "Mohd Fareq Abd Malek" (3159643136)
+01:23:59.880 --> 01:24:03.120
+In this case, um.
+
+748 "Mohd Fareq Abd Malek" (3159643136)
+01:24:13.020 --> 01:24:17.880
+So, in this case, uh, the upload.
+
+749 "Mohd Fareq Abd Malek" (3159643136)
+01:24:17.880 --> 01:24:22.680
+Is between this R4 resistance?
+
+750 "Mohd Fareq Abd Malek" (3159643136)
+01:24:22.680 --> 01:24:31.440
+Sometimes most, like, sometimes in here or here, but if the question mentioned this, this means this is the R low.
+
+751 "Mohd Fareq Abd Malek" (3159643136)
+01:24:31.440 --> 01:24:35.760
+So, it's very, um, complicated.
+
+752 "Mohd Fareq Abd Malek" (3159643136)
+01:24:35.760 --> 01:24:39.930
+Because this is the voltage or the.
+
+753 "Mohd Fareq Abd Malek" (3159643136)
+01:24:39.930 --> 01:24:44.040
+Anything that we want to do, because it's not somewhere else. So we are going to use.
+
+754 "Mohd Fareq Abd Malek" (3159643136)
+01:24:44.040 --> 01:24:47.490
+Uh, Evelyn.
+
+755 "Mohd Fareq Abd Malek" (3159643136)
+01:24:47.490 --> 01:24:54.180
+To summarize it to summarize to have only 1.
+
+756 "Mohd Fareq Abd Malek" (3159643136)
+01:24:54.180 --> 01:24:59.280
+Uh, 1.
+
+757 "Mohd Fareq Abd Malek" (3159643136)
+01:24:59.280 --> 01:25:02.310
+1 resistance.
+
+758 "Mohd Fareq Abd Malek" (3159643136)
+01:25:02.310 --> 01:25:06.270
+And between a, and B.
+
+759 "Mohd Fareq Abd Malek" (3159643136)
+01:25:06.270 --> 01:25:10.260
+So, where do we have this summarization.
+
+760 "Mohd Fareq Abd Malek" (3159643136)
+01:25:10.260 --> 01:25:15.390
+It's easy to find, uh, the color cause it's just, uh.
+
+761 "Mohd Fareq Abd Malek" (3159643136)
+01:25:15.390 --> 01:25:21.630
+All slow. Okay so the 1st step.
+
+762 "Mohd Fareq Abd Malek" (3159643136)
+01:25:21.630 --> 01:25:27.150
+Is to find so this is our load so I will not.
+
+763 "Mohd Fareq Abd Malek" (3159643136)
+01:25:27.150 --> 01:25:31.710
+Between this point a, and we will be removed.
+
+764 "Mohd Fareq Abd Malek" (3159643136)
+01:25:31.710 --> 01:25:41.460
+All in the analysis, except put back in the last, uh, steps as you remember in the last step then only we put back the outer loop.
+
+765 "Mohd Fareq Abd Malek" (3159643136)
+01:25:41.460 --> 01:25:46.560
+So, to find the afternoon, if you remember, we will.
+
+766 "Mohd Fareq Abd Malek" (3159643136)
+01:25:46.560 --> 01:25:54.900
+Uh, remove both data source and replace with a short.
+
+767 "Mohd Fareq Abd Malek" (3159643136)
+01:25:54.900 --> 01:26:00.600
+So, keep track of a, and B, always.
+
+768 "Mohd Fareq Abd Malek" (3159643136)
+01:26:00.600 --> 01:26:07.080
+Because that is our point of view I look to the left or loop the director from the left, or right.
+
+769 "Mohd Fareq Abd Malek" (3159643136)
+01:26:07.080 --> 01:26:13.260
+From the point of view, and here we can see the voltage sauce has been.
+
+770 "Mohd Fareq Abd Malek" (3159643136)
+01:26:13.260 --> 01:26:18.450
+Remove and replace with, uh, short circuit straight wire.
+
+771 "Mohd Fareq Abd Malek" (3159643136)
+01:26:18.450 --> 01:26:23.850
+1, now, um, it's better to.
+
+772 "Mohd Fareq Abd Malek" (3159643136)
+01:26:23.850 --> 01:26:27.210
+We throw it and make.
+
+773 "Mohd Fareq Abd Malek" (3159643136)
+01:26:27.210 --> 01:26:30.450
+Uh, this to the last.
+
+774 "Mohd Fareq Abd Malek" (3159643136)
+01:26:30.450 --> 01:26:42.060
+Plus it's all in parallel so whether you make a and B on the left or on here, no doesn't matter. So we make a.
+
+775 "Mohd Fareq Abd Malek" (3159643136)
+01:26:42.060 --> 01:26:48.870
+To add the 6 on here at the 6. Oh, yeah. Okay. Okay.
+
+776 "Mohd Fareq Abd Malek" (3159643136)
+01:26:48.870 --> 01:26:56.010
+And again, there is something interesting, uh, something.
+
+777 "Mohd Fareq Abd Malek" (3159643136)
+01:26:56.010 --> 01:27:02.640
+Interesting here there are 2 methods. So here.
+
+778 "Mohd Fareq Abd Malek" (3159643136)
+01:27:02.640 --> 01:27:08.250
+This is a 0 cost.
+
+779 "Mohd Fareq Abd Malek" (3159643136)
+01:27:08.250 --> 01:27:14.400
+Is 0 homes right? And this is 2 homes, but as a whole.
+
+780 "Mohd Fareq Abd Malek" (3159643136)
+01:27:14.400 --> 01:27:19.500
+These 2 are in parallel back.
+
+781 "Mohd Fareq Abd Malek" (3159643136)
+01:27:19.500 --> 01:27:29.220
+These 2 in parallel so you use the spectrum formula for to resistance in parallel 0 multiplied by 2 0.
+
+782 "Mohd Fareq Abd Malek" (3159643136)
+01:27:29.220 --> 01:27:33.480
+And 0+2 and of course 0.
+
+783 "Mohd Fareq Abd Malek" (3159643136)
+01:27:33.480 --> 01:27:37.170
+0, 0.
+
+784 "Mohd Fareq Abd Malek" (3159643136)
+01:27:37.170 --> 01:27:41.250
+So 0, so this 2.
+
+785 "Mohd Fareq Abd Malek" (3159643136)
+01:27:41.250 --> 01:27:50.850
+Uh, these 2 is just, uh, this to overall is just a short circuit wire of.
+
+786 "Mohd Fareq Abd Malek" (3159643136)
+01:27:50.850 --> 01:27:55.650
+So this is the homes.
+
+787 "Mohd Fareq Abd Malek" (3159643136)
+01:27:55.650 --> 01:28:06.000
+And this is our, um, cause we have, we brought it here. So, um.
+
+788 "Mohd Fareq Abd Malek" (3159643136)
+01:28:06.000 --> 01:28:11.460
+This, uh, this, this is 6 hours.
+
+789 "Mohd Fareq Abd Malek" (3159643136)
+01:28:11.460 --> 01:28:19.320
+And this is our point of view, uh, a, and B.
+
+790 "Mohd Fareq Abd Malek" (3159643136)
+01:28:19.320 --> 01:28:24.090
+But, of course, uh, we probably need is better because.
+
+791 "Mohd Fareq Abd Malek" (3159643136)
+01:28:24.090 --> 01:28:28.170
+What s, W why not draw it here?
+
+792 "Mohd Fareq Abd Malek" (3159643136)
+01:28:28.170 --> 01:28:33.480
+Why not, uh, drawing here so we can have a better view.
+
+793 "Mohd Fareq Abd Malek" (3159643136)
+01:28:37.080 --> 01:28:43.200
+Okay, so what I did is step by step here is zeros and 2 offs in parallel.
+
+794 "Mohd Fareq Abd Malek" (3159643136)
+01:28:43.200 --> 01:28:49.590
+If you were at 2:00:00, always just a strict wire.
+
+795 "Mohd Fareq Abd Malek" (3159643136)
+01:28:49.590 --> 01:28:53.550
+And 4 hours is here. So why not throw it like this?
+
+796 "Mohd Fareq Abd Malek" (3159643136)
+01:28:53.550 --> 01:28:57.390
+And our point of view is here.
+
+797 "Mohd Fareq Abd Malek" (3159643136)
+01:28:57.390 --> 01:29:07.440
+And this point of view, when we look at this, we are looking at, uh, 6 and 4 in parallel. So we do another.
+
+798 "Mohd Fareq Abd Malek" (3159643136)
+01:29:07.440 --> 01:29:12.840
+Resistors in parallel 6 multiplied by for.
+
+799 "Mohd Fareq Abd Malek" (3159643136)
+01:29:12.840 --> 01:29:17.370
+6+4 in order.
+
+800 "Mohd Fareq Abd Malek" (3159643136)
+01:29:17.370 --> 01:29:22.650
+We got to get our.
+
+801 "Mohd Fareq Abd Malek" (3159643136)
+01:29:22.650 --> 01:29:26.490
+Um, W, our our.
+
+802 "Mohd Fareq Abd Malek" (3159643136)
+01:29:29.790 --> 01:29:35.730
+Okay, in order to get our our mm, hmm.
+
+803 "Mohd Fareq Abd Malek" (3159643136)
+01:29:35.730 --> 01:29:46.290
+So, we have obtained, uh, W, we have to obtain the now, our next task is to part the.
+
+804 "Mohd Fareq Abd Malek" (3159643136)
+01:29:46.290 --> 01:29:51.540
+The E. W. so if it means.
+
+805 "Mohd Fareq Abd Malek" (3159643136)
+01:29:51.540 --> 01:29:54.900
+We, uh, we are.
+
+806 "Mohd Fareq Abd Malek" (3159643136)
+01:29:54.900 --> 01:30:02.010
+The is still there with no, our load. The armor is still a removed.
+
+807 "Mohd Fareq Abd Malek" (3159643136)
+01:30:02.010 --> 01:30:05.700
+1st, the is the point of view.
+
+808 "Mohd Fareq Abd Malek" (3159643136)
+01:30:05.700 --> 01:30:09.750
+And since we want to find, we put back.
+
+809 "Mohd Fareq Abd Malek" (3159643136)
+01:30:09.750 --> 01:30:13.200
+We'll take sauce now.
+
+810 "Mohd Fareq Abd Malek" (3159643136)
+01:30:13.200 --> 01:30:16.230
+If we have a look.
+
+811 "Mohd Fareq Abd Malek" (3159643136)
+01:30:16.230 --> 01:30:24.270
+From this point of view, um.
+
+812 "Mohd Fareq Abd Malek" (3159643136)
+01:30:24.270 --> 01:30:29.130
+So, it is better to, uh, to draw it.
+
+813 "Mohd Fareq Abd Malek" (3159643136)
+01:30:29.130 --> 01:30:35.130
+Okay, so, at this point of view.
+
+814 "Mohd Fareq Abd Malek" (3159643136)
+01:30:35.130 --> 01:30:38.220
+So, I will do it, uh, from here to here.
+
+815 "Mohd Fareq Abd Malek" (3159643136)
+01:30:44.340 --> 01:30:48.840
+And here I redraw it.
+
+816 "Mohd Fareq Abd Malek" (3159643136)
+01:30:48.840 --> 01:30:57.840
+Close 6 hours.
+
+817 "Mohd Fareq Abd Malek" (3159643136)
+01:30:57.840 --> 01:31:03.360
+For all 6 books and remember see the a.
+
+818 "Mohd Fareq Abd Malek" (3159643136)
+01:31:03.360 --> 01:31:08.190
+Is here and the is here so therefore.
+
+819 "Mohd Fareq Abd Malek" (3159643136)
+01:31:08.190 --> 01:31:13.950
+The a, uh, is here.
+
+820 "Mohd Fareq Abd Malek" (3159643136)
+01:31:13.950 --> 01:31:18.240
+And the B, so this is a.
+
+821 "Mohd Fareq Abd Malek" (3159643136)
+01:31:18.240 --> 01:31:21.870
+The is here and this point of view.
+
+822 "Mohd Fareq Abd Malek" (3159643136)
+01:31:21.870 --> 01:31:25.200
+And so this is.
+
+823 "Mohd Fareq Abd Malek" (3159643136)
+01:31:25.200 --> 01:31:30.030
+It votes in the opposite priority.
+
+824 "Mohd Fareq Abd Malek" (3159643136)
+01:31:30.030 --> 01:31:33.150
+And we don't care so much about.
+
+825 "Mohd Fareq Abd Malek" (3159643136)
+01:31:33.150 --> 01:31:39.360
+But the rest, but about is too old, because we are carrying more about.
+
+826 "Mohd Fareq Abd Malek" (3159643136)
+01:31:39.360 --> 01:31:43.020
+The part of you between a, and B.
+
+827 "Mohd Fareq Abd Malek" (3159643136)
+01:31:43.020 --> 01:31:47.130
+So, we can see that again.
+
+828 "Mohd Fareq Abd Malek" (3159643136)
+01:31:47.130 --> 01:31:53.220
+Uh, in parallel parallel theory that you are willing to experience.
+
+829 "Mohd Fareq Abd Malek" (3159643136)
+01:31:53.220 --> 01:31:59.489
+Uh, in 1, August time, so this is it goes, right?
+
+830 "Mohd Fareq Abd Malek" (3159643136)
+01:31:59.489 --> 01:32:05.879
+This is 8 books. Okay this is at volts.
+
+831 "Mohd Fareq Abd Malek" (3159643136)
+01:32:05.879 --> 01:32:10.109
+This must be 8 volts.
+
+832 "Mohd Fareq Abd Malek" (3159643136)
+01:32:10.109 --> 01:32:13.199
+So this is this 8 volts.
+
+833 "Mohd Fareq Abd Malek" (3159643136)
+01:32:13.199 --> 01:32:19.289
+So, I hope you can see that. This is a voltage divider room.
+
+834 "Mohd Fareq Abd Malek" (3159643136)
+01:32:19.289 --> 01:32:24.239
+To get the voltage across this 6. Oh register.
+
+835 "Mohd Fareq Abd Malek" (3159643136)
+01:32:24.239 --> 01:32:29.609
+And that will be your E governance that will be your E. W.
+
+836 "Mohd Fareq Abd Malek" (3159643136)
+01:32:29.609 --> 01:32:33.269
+Okay, so.
+
+837 "Mohd Fareq Abd Malek" (3159643136)
+01:32:33.269 --> 01:32:36.389
+At the end.
+
+838 "Mohd Fareq Abd Malek" (3159643136)
+01:32:36.389 --> 01:32:41.249
+We find our we find our resist.
+
+839 "Mohd Fareq Abd Malek" (3159643136)
+01:32:41.249 --> 01:32:52.559
+And the will be the load visitor out for will be placed back in the circuit in the, in the 2nd.
+
+840 "Mohd Fareq Abd Malek" (3159643136)
+01:32:52.559 --> 01:33:01.109
+Will be placed by in the 2nd, so this challenge example I will not, uh, I will not.
+
+841 "Mohd Fareq Abd Malek" (3159643136)
+01:33:01.109 --> 01:33:04.409
+Um, um.
+
+842 "Mohd Fareq Abd Malek" (3159643136)
+01:33:04.409 --> 01:33:08.219
+I will not go through this is.
+
+843 "Mohd Fareq Abd Malek" (3159643136)
+01:33:08.219 --> 01:33:12.329
+For your for your analysis at home.
+
+844 "Mohd Fareq Abd Malek" (3159643136)
+01:33:12.329 --> 01:33:16.259
+Okay, so I will, this is another example of.
+
+845 "Mohd Fareq Abd Malek" (3159643136)
+01:33:16.259 --> 01:33:20.789
+Uh, E, and.
+
+846 "Mohd Fareq Abd Malek" (3159643136)
+01:33:20.789 --> 01:33:24.389
+But, um, you go through.
+
+847 "Mohd Fareq Abd Malek" (3159643136)
+01:33:24.389 --> 01:33:29.159
+But is good practice for your midterm exam in 30 minutes.
+
+848 "Mohd Fareq Abd Malek" (3159643136)
+01:33:29.159 --> 01:33:33.599
+So, I will, you don't need to analyze this.
+
+849 "Mohd Fareq Abd Malek" (3159643136)
+01:33:33.599 --> 01:33:41.429
+But I want you to, uh, to, to, to tell me.
+
+850 "Mohd Fareq Abd Malek" (3159643136)
+01:33:41.429 --> 01:33:49.109
+What is so what is our 3.
+
+851 "Mohd Fareq Abd Malek" (3159643136)
+01:33:49.109 --> 01:33:52.769
+In parallel to to.
+
+852 "Mohd Fareq Abd Malek" (3159643136)
+01:33:52.769 --> 01:33:59.549
+See, what is in parallel to to.
+
+853 "Mohd Fareq Abd Malek" (3159643136)
+01:33:59.549 --> 01:34:07.859
+What is in parallel to? We have our 3.
+
+854 "Mohd Fareq Abd Malek" (3159643136)
+01:34:07.859 --> 01:34:12.269
+And he's out 2 so what is our total.
+
+855 "Mohd Fareq Abd Malek" (3159643136)
+01:34:16.019 --> 01:34:25.559
+Um, which juries are using, which theory should use if 2 registers in parallel.
+
+856 "Mohd Fareq Abd Malek" (3159643136)
+01:34:25.559 --> 01:34:33.389
+To resistance in parallel how 1, uh, that 1 is the long formula.
+
+857 "Mohd Fareq Abd Malek" (3159643136)
+01:34:33.389 --> 01:34:38.909
+What is this? Okay.
+
+858 "Mohd Fareq Abd Malek" (3159643136)
+01:34:38.909 --> 01:34:43.199
+That's good. So with so if we know our.
+
+859 "Mohd Fareq Abd Malek" (3159643136)
+01:34:43.199 --> 01:34:46.919
+2 is.
+
+860 "Mohd Fareq Abd Malek" (3159643136)
+01:34:46.919 --> 01:34:50.639
+So, let's fine. Um.
+
+861 "Mohd Fareq Abd Malek" (3159643136)
+01:34:50.639 --> 01:34:55.919
+Uh, are 3 in parallel to have to.
+
+862 "Mohd Fareq Abd Malek" (3159643136)
+01:34:55.919 --> 01:35:14.309
+3, uh.
+
+863 "Mohd Fareq Abd Malek" (3159643136)
+01:35:14.309 --> 01:35:17.879
+All 3 mean, the.
+
+864 "Mohd Fareq Abd Malek" (3159643136)
+01:35:17.879 --> 01:35:23.099
+I don't go to detail the steps because going to book, but I just want to.
+
+865 "Mohd Fareq Abd Malek" (3159643136)
+01:35:23.099 --> 01:35:29.459
+Practice with you, uh, our 3 in parallel to have to.
+
+866 "Mohd Fareq Abd Malek" (3159643136)
+01:35:29.459 --> 01:35:34.589
+All right, so our 3 in parallel to 2.
+
+867 "Mohd Fareq Abd Malek" (3159643136)
+01:35:34.589 --> 01:35:38.309
+And is 2.4kilohertz.
+
+868 "Mohd Fareq Abd Malek" (3159643136)
+01:35:38.309 --> 01:35:42.359
+So, if as a whole is 2 point.
+
+869 "Mohd Fareq Abd Malek" (3159643136)
+01:35:42.359 --> 01:35:48.359
+For so these 2.
+
+870 "Mohd Fareq Abd Malek" (3159643136)
+01:35:48.359 --> 01:35:51.389
+Will be in parallel to.
+
+871 "Mohd Fareq Abd Malek" (3159643136)
+01:35:51.389 --> 01:35:55.739
+So, these 2 to reduce the internal.
+
+872 "Mohd Fareq Abd Malek" (3159643136)
+01:35:55.739 --> 01:35:58.949
+Okay, um, yes, please.
+
+873 "Mohd Fareq Abd Malek" (3159643136)
+01:35:58.949 --> 01:36:03.959
+Can I ask you so now you have found 3.
+
+874 "Mohd Fareq Abd Malek" (3159643136)
+01:36:03.959 --> 01:36:07.319
+The lady the lady.
+
+875 "Mohd Fareq Abd Malek" (3159643136)
+01:36:07.319 --> 01:36:14.999
+So, now, I have you have sent, uh, are 3 in parallel to add 2 is the special formula, right?
+
+876 "Mohd Fareq Abd Malek" (3159643136)
+01:36:14.999 --> 01:36:19.709
+Okay, now we have found it S2.4 kilohertz.
+
+877 "Mohd Fareq Abd Malek" (3159643136)
+01:36:19.709 --> 01:36:22.949
+So, these 2.4kilohertz.
+
+878 "Mohd Fareq Abd Malek" (3159643136)
+01:36:22.949 --> 01:36:27.269
+Uh, in parallel to so what is.
+
+879 "Mohd Fareq Abd Malek" (3159643136)
+01:36:27.269 --> 01:36:32.819
+As a formula, what do you apply?
+
+880 "Mohd Fareq Abd Malek" (3159643136)
+01:36:32.819 --> 01:36:37.319
+Then the same, so, what, uh, what is the value.
+
+881 "Mohd Fareq Abd Malek" (3159643136)
+01:36:45.209 --> 01:36:49.199
+No, it's not. The question is not said yeah, so what's the value.
+
+882 "Mohd Fareq Abd Malek" (3159643136)
+01:36:55.349 --> 01:37:03.539
+What what's I wonder you and then.
+
+883 "Mohd Fareq Abd Malek" (3159643136)
+01:37:03.539 --> 01:37:08.069
+Okay, that's.
+
+884 "Mohd Fareq Abd Malek" (3159643136)
+01:37:08.069 --> 01:37:12.629
+That's a good answer. So this, uh.
+
+885 "Mohd Fareq Abd Malek" (3159643136)
+01:37:12.629 --> 01:37:16.229
+Select the, the, for the next question.
+
+886 "Mohd Fareq Abd Malek" (3159643136)
+01:37:19.829 --> 01:37:34.379
+The next question.
+
+887 "Mohd Fareq Abd Malek" (3159643136)
+01:37:34.379 --> 01:37:42.119
+In we have found the answer, but it's also in parallel to.
+
+888 "Mohd Fareq Abd Malek" (3159643136)
+01:37:42.119 --> 01:37:47.069
+Add 1, so.
+
+889 "Mohd Fareq Abd Malek" (3159643136)
+01:37:47.069 --> 01:37:51.029
+That is the answer 0.6kilowatts.
+
+890 "Mohd Fareq Abd Malek" (3159643136)
+01:37:51.029 --> 01:37:55.949
+So, but a full analysis, uh, you can do it at home.
+
+891 "Mohd Fareq Abd Malek" (3159643136)
+01:37:55.949 --> 01:38:00.929
+And I'm not go into the, uh, detail for a full analysis.
+
+892 "Mohd Fareq Abd Malek" (3159643136)
+01:38:00.929 --> 01:38:09.089
+So the answer just now is 0.6kilograms.
+
+893 "Mohd Fareq Abd Malek" (3159643136)
+01:38:09.089 --> 01:38:12.119
+So, we have learned, um.
+
+894 "Mohd Fareq Abd Malek" (3159643136)
+01:38:12.119 --> 01:38:15.779
+We have learned, uh.
+
+895 "Mohd Fareq Abd Malek" (3159643136)
+01:38:15.779 --> 01:38:20.729
+17 is.
+
+896 "Mohd Fareq Abd Malek" (3159643136)
+01:38:20.729 --> 01:38:27.869
+This and the, and resistance.
+
+897 "Mohd Fareq Abd Malek" (3159643136)
+01:38:27.869 --> 01:38:32.999
+And that the point between the points.
+
+898 "Mohd Fareq Abd Malek" (3159643136)
+01:38:32.999 --> 01:38:37.379
+And that is the, the road.
+
+899 "Mohd Fareq Abd Malek" (3159643136)
+01:38:37.379 --> 01:38:45.539
+There are the resistance, so this is, uh.
+
+900 "Mohd Fareq Abd Malek" (3159643136)
+01:38:45.539 --> 01:38:48.569
+Uh, the okay.
+
+901 "Mohd Fareq Abd Malek" (3159643136)
+01:38:48.569 --> 01:38:53.789
+But, uh, we can also.
+
+902 "Mohd Fareq Abd Malek" (3159643136)
+01:38:53.789 --> 01:38:56.969
+Uh, what we call a knock knock then.
+
+903 "Mohd Fareq Abd Malek" (3159643136)
+01:38:56.969 --> 01:39:01.889
+Equivalent Euro, not term instead of the voltage.
+
+904 "Mohd Fareq Abd Malek" (3159643136)
+01:39:01.889 --> 01:39:08.519
+17 and resistor February in series. Uh, it is our M, the objective is.
+
+905 "Mohd Fareq Abd Malek" (3159643136)
+01:39:08.519 --> 01:39:12.239
+The current source and the resistance.
+
+906 "Mohd Fareq Abd Malek" (3159643136)
+01:39:12.239 --> 01:39:18.389
+Uh, in parallel, so there are symbol and we've not done. I end.
+
+907 "Mohd Fareq Abd Malek" (3159643136)
+01:39:18.389 --> 01:39:26.159
+And R. M. okay. So 1 way is to.
+
+908 "Mohd Fareq Abd Malek" (3159643136)
+01:39:26.159 --> 01:39:30.149
+To find, uh, and.
+
+909 "Mohd Fareq Abd Malek" (3159643136)
+01:39:30.149 --> 01:39:35.189
+If the questions say, find the doctor for a 2nd, you can just.
+
+910 "Mohd Fareq Abd Malek" (3159643136)
+01:39:35.189 --> 01:39:38.939
+You can just convert it once you've got.
+
+911 "Mohd Fareq Abd Malek" (3159643136)
+01:39:38.939 --> 01:39:42.269
+Uh, and.
+
+912 "Mohd Fareq Abd Malek" (3159643136)
+01:39:42.269 --> 01:39:46.439
+You can forward to I am not done.
+
+913 "Mohd Fareq Abd Malek" (3159643136)
+01:39:46.439 --> 01:39:50.219
+And our resistance Norton.
+
+914 "Mohd Fareq Abd Malek" (3159643136)
+01:39:50.219 --> 01:39:55.199
+Observe that the resistor long term is equals to.
+
+915 "Mohd Fareq Abd Malek" (3159643136)
+01:39:55.199 --> 01:40:00.209
+The value to resist the right.
+
+916 "Mohd Fareq Abd Malek" (3159643136)
+01:40:00.209 --> 01:40:07.409
+So, we, uh, today we have covered support position and governing equivalent citizens.
+
+917 "Mohd Fareq Abd Malek" (3159643136)
+01:40:07.409 --> 01:40:11.369
+So, hopefully, uh.
+
+918 "Mohd Fareq Abd Malek" (3159643136)
+01:40:11.369 --> 01:40:16.469
+We have also revision. Yes. Now, uh, for current.
+
+919 "Mohd Fareq Abd Malek" (3159643136)
+01:40:16.469 --> 01:40:21.359
+This is in parallel voltage divider set up and so forth.
+
+920 "Mohd Fareq Abd Malek" (3159643136)
+01:40:21.359 --> 01:40:26.279
+So, I will take a few minutes breaks and I will give.
+
+921 "Mohd Fareq Abd Malek" (3159643136)
+01:40:26.279 --> 01:40:29.729
+Total analysis revision because.
+
+922 "Mohd Fareq Abd Malek" (3159643136)
+01:40:29.729 --> 01:40:34.824
+You request, uh, no, the analysis so.
