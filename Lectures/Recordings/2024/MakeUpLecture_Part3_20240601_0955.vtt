@@ -1,0 +1,861 @@
+WEBVTT
+
+1 "" (0)
+00:00:00.000 --> 00:00:02.627
+Yeah.
+
+2 "Mohd Fareq Abd Malek" (1553601280)
+00:00:02.627 --> 00:00:21.540
+In this lecture, we are going to learn, about the response of the resistor inductor and also we are going to learn about the low and high frequency response of inductors and capacitors.
+
+3 "Mohd Fareq Abd Malek" (1553601280)
+00:00:21.540 --> 00:00:37.920
+And the average power and the power factor. 1st of all, if we have in the previous seven weeks, right? Previous seven weeks, we can see.
+
+4 "Mohd Fareq Abd Malek" (1553601280)
+00:00:37.920 --> 00:00:57.920
+That is just, let's say it's a voltage, it's just a fix. So if 10 v.
+
+5 "Mohd Fareq Abd Malek" (1553601280)
+00:00:57.920 --> 00:01:17.920
+Okay, uh.
+
+6 "Mohd Fareq Abd Malek" (1553601280)
+00:01:17.920 --> 00:01:41.690
+Okay, uh.
+
+7 "Mohd Fareq Abd Malek" (1553601280)
+00:01:41.690 --> 00:01:58.655
+You're here, OK Can you hear me?
+
+8 "Taha Yaseen Parker" (44226048)
+00:01:58.655 --> 00:02:00.697
+Yes professor. Okay ok.
+
+9 "Mohd Fareq Abd Malek" (1553601280)
+00:02:00.697 --> 00:02:03.750
+Sorry for the I think it's a network issue. I hope.
+
+10 "Mohd Fareq Abd Malek" (1553601280)
+00:02:03.750 --> 00:02:21.510
+Now it's, now it's available, ok? So, here, when we talk about cynosoidle, we cannot just because we have big, this big value.
+
+11 "Mohd Fareq Abd Malek" (1553601280)
+00:02:21.510 --> 00:02:39.600
+Is this one. Ins instantaneous value, either we choose if you want here this instantaneous value or here instantaneous value. But we have other things, other important important characteristics such as average value.
+
+12 "Mohd Fareq Abd Malek" (1553601280)
+00:02:39.600 --> 00:02:59.100
+So, average means you can analyze this sand, the UAE we have a desert, right? That the sand on the desert. So if we, if we take an average height of the sand.
+
+13 "Mohd Fareq Abd Malek" (1553601280)
+00:02:59.100 --> 00:03:14.250
+From the same distance we get, we got this, e.g., this is the peak, peak, but at the end.
+
+14 "Mohd Fareq Abd Malek" (1553601280)
+00:03:14.250 --> 00:03:29.460
+The average is something, is this one, this is average, average. So let's analyze for our average. But before I, before I go I just want.
+
+15 "Mohd Fareq Abd Malek" (1553601280)
+00:03:29.460 --> 00:03:53.876
+To ask for a guess from you or your prediction. We measure between here and here. What do you think is the average if this is ten and this is minus ten? And anyone want to guess?
+
+16 "Taha Yaseen Parker" (44226048)
+00:03:53.876 --> 00:03:55.356
+Zero?
+
+17 "Mohd Fareq Abd Malek" (1553601280)
+00:03:55.356 --> 00:04:20.690
+Zero yes yes. That's very good answer, that's the right answer. So that is the average for in this case, ok? In this case. So average is 0 v. Peak, peak value is 10 v and the average is 0 v. So in to calculate average value, the break sum of the areas must be the.
+
+18 "Mohd Fareq Abd Malek" (1553601280)
+00:04:20.690 --> 00:04:37.709
+You mean Since some area contributions will be from below from the horizontal axis. So why is it zero? Cause, you can see here, some is higher.
+
+19 "Mohd Fareq Abd Malek" (1553601280)
+00:04:37.709 --> 00:04:56.069
+And it is canceled out with some is below, so it's canceled out, it becomes zero as an average, ok? So in this example.
+
+20 "Mohd Fareq Abd Malek" (1553601280)
+00:04:56.069 --> 00:05:15.119
+So in this example, if we measure 10 v is the peak, but if we want to measure between for this green region from here to here.
+
+21 "Mohd Fareq Abd Malek" (1553601280)
+00:05:15.119 --> 00:05:31.589
+I think you agreed, you will agree with me the average value is zero, ok? Because 10 v and minus ten and zero. But if we have slightly different, if we shift up.
+
+22 "Mohd Fareq Abd Malek" (1553601280)
+00:05:31.589 --> 00:05:46.949
+This means everything is shifted by four votes. This means instead of ten we have 14 votes. Instead of minus ten, everything is shifted, you have 16 votes, so if we.
+
+23 "Mohd Fareq Abd Malek" (1553601280)
+00:05:46.949 --> 00:06:03.689
+Measure from here to here, you I think you agree with me, that the average value is NO more zero but four votes, ok? So that is.
+
+24 "Mohd Fareq Abd Malek" (1553601280)
+00:06:03.689 --> 00:06:19.079
+A visual observation, of how to determine the average value. You can see that this is number zero because here the upper part contributes.
+
+25 "Mohd Fareq Abd Malek" (1553601280)
+00:06:19.079 --> 00:06:35.699
+The more compared to the lower part. So as an average, it is four. Previously, the upper part contributes equally to the lower part, as an average it is zero.
+
+26 "Mohd Fareq Abd Malek" (1553601280)
+00:06:35.699 --> 00:06:59.129
+So we have inspected visually, but we can do mathematically. We can do mathematically. So what how can we do mathematically? So.
+
+27 "Mohd Fareq Abd Malek" (1553601280)
+00:06:59.129 --> 00:07:16.859
+Let's do mathematically, let's do this 1st. We know that the answer is zero, but, what we can do is we all let me this one, change color.
+
+28 "Mohd Fareq Abd Malek" (1553601280)
+00:07:16.859 --> 00:07:31.889
+Just So we can observe this part and this part is 10 v.
+
+29 "Mohd Fareq Abd Malek" (1553601280)
+00:07:31.889 --> 00:07:51.839
+Oh, Multiply by one millisecond, and now we can observe, this part, which is.
+
+30 "Mohd Fareq Abd Malek" (1553601280)
+00:07:51.839 --> 00:08:09.029
+Amplitude is -10 v and the time is one millisecond, and we divide by the total area.
+
+31 "Mohd Fareq Abd Malek" (1553601280)
+00:08:09.029 --> 00:08:24.599
+The total time is zero between zero and two is two milliseconds and because this is minus so it is zero. If we do the same.
+
+32 "Mohd Fareq Abd Malek" (1553601280)
+00:08:24.599 --> 00:08:40.949
+So we can observe that and this part 1st. So this part, we can observe the amplitude is 14.
+
+33 "Mohd Fareq Abd Malek" (1553601280)
+00:08:40.949 --> 00:09:00.479
+And we multiply the time for that is one millisecond, now let us observe, this part and we can observe this part.
+
+34 "Mohd Fareq Abd Malek" (1553601280)
+00:09:00.479 --> 00:09:16.259
+The amplitude is one of six and the time is The time is one and two, so it's one milliseconds, and.
+
+35 "Mohd Fareq Abd Malek" (1553601280)
+00:09:16.259 --> 00:09:31.289
+The the the measurement is from zero to two which is two milliseconds. So when we do the calculation, we will see.
+
+36 "Mohd Fareq Abd Malek" (1553601280)
+00:09:31.289 --> 00:09:47.969
+That what we will see that the answer, the average value is equal to four, four votes. This is the answer. Previously, the average value.
+
+37 "Mohd Fareq Abd Malek" (1553601280)
+00:09:47.969 --> 00:10:05.669
+Is 0 v. Okay, so that is how we calculate the average value. We multiply the observe the, the sections and we multiply the the amplitude with that time.
+
+38 "Mohd Fareq Abd Malek" (1553601280)
+00:10:05.669 --> 00:10:24.329
+We add all the sections and we divide, after that we divide our all for the whole of the time that we measured, ok? So in in this example in the next example which I apply with the quiz.
+
+39 "Mohd Fareq Abd Malek" (1553601280)
+00:10:24.329 --> 00:10:39.359
+I would like you to answer this question, ok? And this question will be in the form of online quiz. So let's go here.
+
+40 "Mohd Fareq Abd Malek" (1553601280)
+00:10:39.359 --> 00:10:57.959
+Okay, so if we have this kind of waveforms and we want to measure from zero until 10 s zero until 10 s.
+
+41 "Mohd Fareq Abd Malek" (1553601280)
+00:10:57.959 --> 00:11:13.199
+Can I ask you, what will be the average value in this case? So this means 1st you have to observe this.
+
+42 "Mohd Fareq Abd Malek" (1553601280)
+00:11:13.199 --> 00:11:33.269
+And then plus you have to observe this and you have to observe this, but it's 0 v, right? And you have to observe this. Then you have to observe this as 0 v and you must divide.
+
+43 "Mohd Fareq Abd Malek" (1553601280)
+00:11:33.269 --> 00:11:48.749
+By the total measurement time which is 10 s from zero until ten. So I hope you will be able to do this quiz.
+
+44 "Mohd Fareq Abd Malek" (1553601280)
+00:11:48.749 --> 00:12:05.789
+Which will be, 200 s because it's the starting, starting quiz for today. Let me check where did I put it?
+
+45 "Mohd Fareq Abd Malek" (1553601280)
+00:12:05.789 --> 00:12:23.789
+Just 1 s. Let me check where did I put it? This one inbox and so on.
+
+46 "Mohd Fareq Abd Malek" (1553601280)
+00:12:23.789 --> 00:12:43.439
+Yeah it's here, so it is we are already in lecture nine and ten. We finish lecture eight lecture eight, there is NO online.
+
+47 "Mohd Fareq Abd Malek" (1553601280)
+00:12:43.439 --> 00:13:01.679
+In class quiz. So now I will show, now you will be able to see in your Moodle 2024, in class quiz lecture nine Saturday.
+
+48 "Mohd Fareq Abd Malek" (1553601280)
+00:13:01.679 --> 00:13:17.609
+It's in the letters folder, lectures folder. Saturday is Saturday. So I will click here, so I will call this session.
+
+49 "Mohd Fareq Abd Malek" (1553601280)
+00:13:17.609 --> 00:13:36.329
+Saturday, 1st of June 2024. Saturday 1st of June 2024. I will click start session, ok? Start session. So I will repeat.
+
+50 "Mohd Fareq Abd Malek" (1553601280)
+00:13:36.329 --> 00:13:52.139
+The problem or the question, find the average value of this, these curves, ok, this system. So now I will start the quiz and you will have.
+
+51 "Mohd Fareq Abd Malek" (1553601280)
+00:13:52.139 --> 00:14:12.139
+200 s to, to collect to select the right and so.
+
+52 "Mohd Fareq Abd Malek" (1553601280)
+00:14:12.139 --> 00:14:46.219
+Okay. I hope the network is ok on your side. Just check again.
+
+53 "Mohd Fareq Abd Malek" (1553601280)
+00:14:46.219 --> 00:15:08.369
+Okay, just remember analyze each box, so minus 10th multiply by the time is two plus four multiply.
+
+54 "Mohd Fareq Abd Malek" (1553601280)
+00:15:08.369 --> 00:15:25.829
+The time is two, plus zero, ok? And so forth. Can I check, can I check so far what's the progress? 2727 students.
+
+55 "Mohd Fareq Abd Malek" (1553601280)
+00:15:25.829 --> 00:15:44.309
+I Enrolled in today's lecture, 27 students team. Let me check. 28 students, ok, 28 students.
+
+56 "Rana" (192336640)
+00:15:54.661 --> 00:16:09.581
+There is it one over time. Yes yes.
+
+57 "Mohd Fareq Abd Malek" (1553601280)
+00:16:09.581 --> 00:16:31.309
+Let's wait for a while, for maybe 1 min and this week.
+
+58 "Mohd Fareq Abd Malek" (1553601280)
+00:16:31.309 --> 00:16:51.309
+Okay, uh.
+
+59 "Mohd Fareq Abd Malek" (1553601280)
+00:16:51.309 --> 00:17:14.129
+Let's wait for 30 s.
+
+60 "Mohd Fareq Abd Malek" (1553601280)
+00:17:14.129 --> 00:17:29.459
+Let me see the timer, let me see the timer. So the timer is completed. So.
+
+61 "Mohd Fareq Abd Malek" (1553601280)
+00:17:29.459 --> 00:17:45.899
+That these students enrolled in this lecture today and well done, you got, got the right answer. The answer is, the answer.
+
+62 "Mohd Fareq Abd Malek" (1553601280)
+00:17:45.899 --> 00:18:03.029
+It's -1.6 MPS. So but it's not so much important the final answer, but the steps. Steps are more important than the final answer, ok? So well done.
+
+63 "Mohd Fareq Abd Malek" (1553601280)
+00:18:03.029 --> 00:18:23.029
+That you'll get the correct and the correct steps. So.
+
+64 "Mohd Fareq Abd Malek" (1553601280)
+00:18:23.029 --> 00:18:41.459
+Okay, and, so now we have learned, peak, we have learned from the past 1 h, we have learned what we call it the peak value.
+
+65 "Mohd Fareq Abd Malek" (1553601280)
+00:18:41.459 --> 00:18:58.019
+Yeah, at this point, a picked value, now we have learned just now the average value, but now we are going to learn the effective value or the.
+
+66 "Mohd Fareq Abd Malek" (1553601280)
+00:18:58.019 --> 00:19:16.049
+A root, a mean square values, ok?
+
+67 "Mohd Fareq Abd Malek" (1553601280)
+00:19:16.049 --> 00:19:32.999
+Root mean square values RMS or effective values. So now we learn a lot of terminologies this morning terminologies. You understand already the meaning of the peak value, you understood how to get.
+
+68 "Mohd Fareq Abd Malek" (1553601280)
+00:19:32.999 --> 00:19:50.909
+Average value, now let us learn how to get the root mean square or effective or RMS value. Why is, why is it called root mean square? Okay let us start here, ok?
+
+69 "Mohd Fareq Abd Malek" (1553601280)
+00:19:50.909 --> 00:20:08.399
+Power, is I square arm. You have learned it in the past, what, three to four weeks. You have also known that the power is v squared over arm, ok?
+
+70 "Mohd Fareq Abd Malek" (1553601280)
+00:20:08.399 --> 00:20:33.719
+Okay, so, if the power, what is the, if we want to.
+
+71 "Mohd Fareq Abd Malek" (1553601280)
+00:20:33.719 --> 00:20:53.719
+Reduce, if you want to, e.g., power, you want to reduce it to become half a power, Half of the power, right? Just an example. So if we want to reduce the power to become half.
+
+72 "Mohd Fareq Abd Malek" (1553601280)
+00:20:53.719 --> 00:21:14.269
+Therefore, we, the I needs to be reduced, ok? Because I is squared so I will I will draw it here again. I.
+
+73 "Mohd Fareq Abd Malek" (1553601280)
+00:21:14.269 --> 00:21:32.219
+Square, right? So in actual effect it's I I, ok? So in actual effect, it's I over.
+
+74 "Mohd Fareq Abd Malek" (1553601280)
+00:21:32.219 --> 00:21:49.109
+Squared of two, I over squared of two. If we perform an I squartered of two.
+
+75 "Mohd Fareq Abd Malek" (1553601280)
+00:21:49.109 --> 00:22:04.439
+An eye squared of two, we will get an eye over two, ok? When we get an eye over two, so we have the current.
+
+76 "Mohd Fareq Abd Malek" (1553601280)
+00:22:04.439 --> 00:22:22.289
+We will have, the current. I mean, Sorry, we will get ice square over two, right? So this means previously it was ice square. Now we.
+
+77 "Mohd Fareq Abd Malek" (1553601280)
+00:22:22.289 --> 00:22:38.369
+Because our target is to reduce So P equals to ice square R, so if we want to reduce the power by half.
+
+78 "Mohd Fareq Abd Malek" (1553601280)
+00:22:38.369 --> 00:22:53.939
+B over two. So the whole thing on the right is also ice square, R over two. But ice square is II, right?
+
+79 "Mohd Fareq Abd Malek" (1553601280)
+00:22:53.939 --> 00:23:12.329
+I I over two. So in order to achieve in in order to achieve power is reduced by two, so I is.
+
+80 "Mohd Fareq Abd Malek" (1553601280)
+00:23:12.329 --> 00:23:28.799
+The new eye is squared root of two, right? I squarrowed of two. So if we reduce, if we multiply eye with one over squared root of two because of the ice square, we are getting, I squared two.
+
+81 "Mohd Fareq Abd Malek" (1553601280)
+00:23:28.799 --> 00:23:45.239
+Which in effect reducing the power by half. That's, that's the best analogy that I, I can explain at the moment. So, this means.
+
+82 "Mohd Fareq Abd Malek" (1553601280)
+00:23:45.239 --> 00:24:03.569
+We determine a new parameters. So if this is the picked, I M or VM doesn't matter. So this is.
+
+83 "Mohd Fareq Abd Malek" (1553601280)
+00:24:03.569 --> 00:24:22.229
+Another a little bit lower is called, I, the IM divided by the screwed of two, and this is called.
+
+84 "Mohd Fareq Abd Malek" (1553601280)
+00:24:22.229 --> 00:24:39.749
+I Root means square. Root means this is square root. So I hope the reason why we have another.
+
+85 "Mohd Fareq Abd Malek" (1553601280)
+00:24:39.749 --> 00:24:59.129
+I hope you can, you can see that the reasons why we have, of course we have peak value, but we have to determine, we have to define one more element which is IRMS and this IRRMS is a bit smaller than the ipeak.
+
+86 "Mohd Fareq Abd Malek" (1553601280)
+00:24:59.129 --> 00:25:15.239
+And the reason why we learned that just now I showed you, because as an example, if we want to reduce the power by half, we must reduce the current by s one over squarery of two.
+
+87 "Mohd Fareq Abd Malek" (1553601280)
+00:25:15.239 --> 00:25:32.789
+That is to make it the power reduced by half, ok? Yes yes. So I let's look, let's let's look at some.
+
+88 "Mohd Fareq Abd Malek" (1553601280)
+00:25:32.789 --> 00:25:48.539
+The next one, ok, the next one and the reason why we don't use the average or the peak because you you answered me well just now.
+
+89 "Mohd Fareq Abd Malek" (1553601280)
+00:25:48.539 --> 00:26:05.999
+The average is zero, right? And the average is zero. So the average is zero, but we deliver power, right? There is still power. So how can, I mean for mathematical it's ok. The average is zero, but.
+
+90 "Mohd Fareq Abd Malek" (1553601280)
+00:26:05.999 --> 00:26:25.999
+We want, we are engineers, we, we, we have a signal and we have a energy or signal, we deliver something. So we cannot say yes, we deliver something which is zero. The average is zero, so it's not useful. It's not so much useful in application. That's why.
+
+91 "Mohd Fareq Abd Malek" (1553601280)
+00:26:25.999 --> 00:26:47.219
+We defined RMS value so that when we deliver something to the application, to the load, it's not so useful. Zero is nothing much we can do with our analysis or our output, right? So we defined what we call.
+
+92 "Mohd Fareq Abd Malek" (1553601280)
+00:26:47.219 --> 00:27:04.289
+Root means square. So although the average is zero, but it's still possible for the cytosoidal AC quantity to deliver a net power over a full cycle.
+
+93 "Mohd Fareq Abd Malek" (1553601280)
+00:27:04.289 --> 00:27:23.579
+The net current in one direction is zero. Even the average value is zero, we deliver something, right? Some power. So irrespective of direction, the current of any magnitude to a resistor will deliver power to that resistor.
+
+94 "Mohd Fareq Abd Malek" (1553601280)
+00:27:23.579 --> 00:27:41.069
+Okay, of course the average is zero, but power is still delivered, ok? Okay, I hope it's this this one, so.
+
+95 "Mohd Fareq Abd Malek" (1553601280)
+00:27:41.069 --> 00:27:59.639
+That's why we we learned or we we set and we learned root means square value. So the average value as zero. Of course, you are you agree with this, I agree with this, ok? So how does a sunsettled voltage.
+
+96 "Mohd Fareq Abd Malek" (1553601280)
+00:27:59.639 --> 00:28:18.599
+Provide power or produce heat in a resistor. So I just explained this now. Power is high square R or power is V square R or power is VI. So in this case.
+
+97 "Mohd Fareq Abd Malek" (1553601280)
+00:28:18.599 --> 00:28:34.469
+When we, for the two cases shown for the same average power, find the relationship between the DC and AC sources, ok? So we can.
+
+98 "Mohd Fareq Abd Malek" (1553601280)
+00:28:34.469 --> 00:28:54.149
+This is the register, this means the water will be getting hotter and hotter if we put, we put we put switch one or we put switch two. So if we put switch one, there's NO issue because it is a fix.
+
+99 "Mohd Fareq Abd Malek" (1553601280)
+00:28:54.149 --> 00:29:11.369
+A fixed amplitude, right? Fixed amplitude. So we, we don't have to worry about the RMS or average, so it's this one. But, if it is this one.
+
+100 "Mohd Fareq Abd Malek" (1553601280)
+00:29:11.369 --> 00:29:32.279
+So we can say, they must also hit, it will also hit. So how can, of course the average is zero, but there must be some, because we got the results we still get hitting, right?
+
+101 "Mohd Fareq Abd Malek" (1553601280)
+00:29:32.279 --> 00:29:48.419
+So we we have to use some, some element or some other measurement measurement characteristic, not average. Average value is zero is not so interesting, right? Average value of zero.
+
+102 "Mohd Fareq Abd Malek" (1553601280)
+00:29:48.419 --> 00:30:04.199
+It's not so because we still can see the application of the heating. So this means we want to, we, for the sun soidel, we use.
+
+103 "Mohd Fareq Abd Malek" (1553601280)
+00:30:04.199 --> 00:30:24.199
+The root wind square value to to see the to to see the application, ok? So if we compare the DC, DC is NO problem because DC is direct current, the fix.
+
+104 "Mohd Fareq Abd Malek" (1553601280)
+00:30:24.199 --> 00:30:39.479
+The fixed one, so power for the DC direct current case is high squared out, there's NO NO issue, ok? So the, for the AC, there is a slight issue. We cannot use average value.
+
+105 "Mohd Fareq Abd Malek" (1553601280)
+00:30:39.479 --> 00:30:54.509
+So how can we, if we want to say the same to to make it equal to the same power by the DC, so we can now prove it by the power.
+
+106 "Mohd Fareq Abd Malek" (1553601280)
+00:30:54.509 --> 00:31:15.529
+Delivered by the AC is eye steel eye square up, but the eye is normal fixed I eye is signed eyes, big IM multiply by side omegative steel square, right? Steel square. So this means it becomes eyes.
+
+107 "Mohd Fareq Abd Malek" (1553601280)
+00:31:15.529 --> 00:31:31.679
+Square, signed square omega T According to trigunometry, sign square omega T This is just proving. I'm not going to ask you in the exam. It's just approving.
+
+108 "Mohd Fareq Abd Malek" (1553601280)
+00:31:31.679 --> 00:31:47.489
+Proving proving concept, so sign square is one minus cost two over 30 over two. So here we can we can have two elements now. The 1st element is I M square over.
+
+109 "Mohd Fareq Abd Malek" (1553601280)
+00:31:47.489 --> 00:32:03.149
+R over two, and the 2nd element, I M square, R cost to omegative over two. So because we still use the average power concept.
+
+110 "Mohd Fareq Abd Malek" (1553601280)
+00:32:03.149 --> 00:32:18.629
+Here is 1st element, let's start with the 2nd element. So it doesn't matter cosigned because here it's co signed or is it cosigned?
+
+111 "Mohd Fareq Abd Malek" (1553601280)
+00:32:18.629 --> 00:32:35.789
+Two omega T, the average power is zero, right? Average power costs the top one will be canceled by the bottom one.
+
+112 "Mohd Fareq Abd Malek" (1553601280)
+00:32:35.789 --> 00:32:52.859
+So the average power will be zero. So this, if we are talking about average power per side two omega T is zero, is zero. But this is not zero because this is a fix.
+
+113 "Mohd Fareq Abd Malek" (1553601280)
+00:32:52.859 --> 00:33:09.809
+This is a fixed number. So this means I square DCR, if you want to compare that they are the same, as you mentioned, they are hitting the same water, same heat, same effect. So we.
+
+114 "Mohd Fareq Abd Malek" (1553601280)
+00:33:09.809 --> 00:33:24.959
+Compare the ice square R of the DC with the I M square R, I M square over two R of the AC. So if we compare R and R cancels.
+
+115 "Mohd Fareq Abd Malek" (1553601280)
+00:33:24.959 --> 00:33:44.339
+Therefore, IDC is I AM squared over two. This means every time we see a curve, this is.
+
+116 "Mohd Fareq Abd Malek" (1553601280)
+00:33:44.339 --> 00:34:00.239
+A peak and slightly lower to that, is RMS value because RMS.
+
+117 "Mohd Fareq Abd Malek" (1553601280)
+00:34:00.239 --> 00:34:17.519
+The peak is peak, but the RMS is equals to ipeak, divided a little bit di divided by scared of two.
+
+118 "Mohd Fareq Abd Malek" (1553601280)
+00:34:17.519 --> 00:34:36.989
+So I picked or I am divided by square root of two. Obviously this is because of one over squarreot of two, so it is a little bit lower than the peak, ok? I hope this concept is.
+
+119 "Mohd Fareq Abd Malek" (1553601280)
+00:34:36.989 --> 00:34:52.799
+It's a bit not to say long, I take time to explain it, but, it's very important. But from now onwards, you have it in your mind to memorize that I.
+
+120 "Mohd Fareq Abd Malek" (1553601280)
+00:34:52.799 --> 00:35:12.799
+RMS, it's just an eye peak divided by square root of two. And it is slightly lower because peak, peak is the highest, right? Peak is the highest, so I.
+
+121 "Mohd Fareq Abd Malek" (1553601280)
+00:35:12.799 --> 00:35:33.449
+MS is slightly lower. You're welcome to ask the question. So here we already said for the average supply, average of cost to Omega T is zero, so that's why we have that. We already did that in the analysis just now.
+
+122 "Mohd Fareq Abd Malek" (1553601280)
+00:35:33.449 --> 00:35:54.829
+The average power delivered by the EC sauce is just the 1st term since the average value of a co signed is zero, even though it's either cost omega T or cost two omega T or cost four omega T, the average value is still.
+
+123 "Mohd Fareq Abd Malek" (1553601280)
+00:35:54.829 --> 00:36:15.329
+Zero. So it doesn't matter if it is, this one, average value top, and bottom, top, and bottom cancel out or if it's the frequency is.
+
+124 "Mohd Fareq Abd Malek" (1553601280)
+00:36:15.329 --> 00:36:35.159
+This, the average value top, and bottom top and bottom cancels top, and bottom, bottom and top cancels. Average value is still zero, ok?
+
+125 "Mohd Fareq Abd Malek" (1553601280)
+00:36:35.159 --> 00:36:52.079
+So this one, this one squared root of two is equals to zero point, if you use your calculator, it's 0.07707.
+
+126 "Mohd Fareq Abd Malek" (1553601280)
+00:36:52.079 --> 00:37:11.609
+Okay, so we can, so I just draw it so that to avoid confusion callousness and confusion, the highest is I pick slightly low to that.
+
+127 "Mohd Fareq Abd Malek" (1553601280)
+00:37:11.609 --> 00:37:29.159
+It's IRMS, and this means IRMS, so RMS is effect also I effectively. RMS.
+
+128 "Mohd Fareq Abd Malek" (1553601280)
+00:37:29.159 --> 00:37:44.399
+It's another name for it is effective. Root mean square or effective is IP divided by squared of two? So you can also.
+
+129 "Mohd Fareq Abd Malek" (1553601280)
+00:37:44.399 --> 00:38:05.449
+You can, if you want, if you know IRMS, so I pick a square root of two, divide that by IRMS, ok? So it's inter.
+
+130 "Mohd Fareq Abd Malek" (1553601280)
+00:38:05.449 --> 00:38:12.540
+An interchangeable, interchangeable.
+
+131 "Mohd Fareq Abd Malek" (1553601280)
+00:38:12.540 --> 00:38:30.090
+Okay, so that is the relationship between the peak value and the effective value. So in terms of mathematics.
+
+132 "Mohd Fareq Abd Malek" (1553601280)
+00:38:30.090 --> 00:38:45.630
+Root in square. So IRMS root, root, means average.
+
+133 "Mohd Fareq Abd Malek" (1553601280)
+00:38:45.630 --> 00:39:01.410
+Divided by T, square, square. Okay, in mathematics is root.
+
+134 "Mohd Fareq Abd Malek" (1553601280)
+00:39:01.410 --> 00:39:18.060
+Mean is divided by all the measurement time. So if we measure from here to here, so the, this is the time, ok? This is the time. Then integrate.
+
+135 "Mohd Fareq Abd Malek" (1553601280)
+00:39:18.060 --> 00:39:34.110
+This let's say this is I or this integrate I square divided by the time and then square root it. But this is mathematical analysis which I will not.
+
+136 "Mohd Fareq Abd Malek" (1553601280)
+00:39:34.110 --> 00:39:53.820
+I will not ask you, ok? I will not ask you. So we just accept, we just in ENGG 14104 or in engineering, I'm more interested in application, how you understand it rather than proving the mathematical.
+
+137 "Mohd Fareq Abd Malek" (1553601280)
+00:39:53.820 --> 00:40:11.250
+Of that, so remember just now we did one quiz, one quiz here, where we did the average.
+
+138 "Mohd Fareq Abd Malek" (1553601280)
+00:40:11.250 --> 00:40:26.820
+Can I ask you to do this quiz? So instead of average I want to find the So remember.
+
+139 "Mohd Fareq Abd Malek" (1553601280)
+00:40:26.820 --> 00:40:42.210
+Root, bean square. Okay, let's look, let's look here. Analyze this 1st, ok?
+
+140 "Mohd Fareq Abd Malek" (1553601280)
+00:40:42.210 --> 00:41:00.420
+Square, so minus M square, ok? Mean.
+
+141 "Mohd Fareq Abd Malek" (1553601280)
+00:41:00.420 --> 00:41:18.668
+It meant divided by, this is two, right? Zero two. Divided by 2 s, ok?
+
+142 "Rana" (192336640)
+00:41:18.668 --> 00:41:21.802
+Why is it not minus two? Because of.
+
+143 "Mohd Fareq Abd Malek" (1553601280)
+00:41:21.802 --> 00:41:23.019
+Sorry?
+
+144 "Rana" (192336640)
+00:41:23.019 --> 00:41:26.824
+Why is it not binus?
+
+145 "Mohd Fareq Abd Malek" (1553601280)
+00:41:26.824 --> 00:41:40.590
+Chinese minus, see minus ten, and Hopefully you agree?
+
+146 "Mohd Fareq Abd Malek" (1553601280)
+00:41:40.590 --> 00:42:01.660
+I already put the minus here, but here is, we, we don't want to find the average, but we want to find the root wind square. So a square means the voltage, the voltage still minus, but square each, ok?
+
+147 "Rana" (192336640)
+00:42:01.660 --> 00:42:04.361
+Okay. So I just.
+
+148 "Mohd Fareq Abd Malek" (1553601280)
+00:42:04.361 --> 00:42:11.819
+I just, Sam, ok.
+
+149 "Rana" (192336640)
+00:42:11.819 --> 00:42:14.280
+I don't know.
+
+150 "Mohd Fareq Abd Malek" (1553601280)
+00:42:14.280 --> 00:42:25.180
+Rona? This can I can we I cannot hear your voice. Can you Can you type it?
+
+151 "Rana" (192336640)
+00:42:25.180 --> 00:42:28.580
+No, there's NO problem, I just forgot to meet my mic.
+
+152 "Mohd Fareq Abd Malek" (1553601280)
+00:42:28.580 --> 00:42:45.930
+Okay. So, meant, meant is when we do everything when we do everything we take the meant, which is the cycle from here.
+
+153 "Mohd Fareq Abd Malek" (1553601280)
+00:42:45.930 --> 00:43:01.770
+The full cycle is 10 s, ok? And square. This means this one minus ten.
+
+154 "Mohd Fareq Abd Malek" (1553601280)
+00:43:01.770 --> 00:43:19.320
+Square, ok? But we are only observing from here to here. After that we will observe from here to here. So from here to here, it's two, 2 s.
+
+155 "Mohd Fareq Abd Malek" (1553601280)
+00:43:19.320 --> 00:43:36.120
+Okay, so now I think better put different color, let's say now we observe this region. So when we observe that.
+
+156 "Mohd Fareq Abd Malek" (1553601280)
+00:43:36.120 --> 00:43:52.890
+This is 4 v. But remember, not average route means squared square each, then from here to here.
+
+157 "Mohd Fareq Abd Malek" (1553601280)
+00:43:52.890 --> 00:44:09.090
+2 s. You will con you will continue by observing this. I think you know this is zero, and then.
+
+158 "Mohd Fareq Abd Malek" (1553601280)
+00:44:09.090 --> 00:44:28.620
+By observing this, you know, and then by observing this, I think you know this is zero, and that's why I pass.
+
+159 "Mohd Fareq Abd Malek" (1553601280)
+00:44:28.620 --> 00:44:49.730
+This plus and so forth.
+
+160 "Mohd Fareq Abd Malek" (1553601280)
+00:44:49.730 --> 00:45:07.800
+Okay, I.
+
+161 "Mohd Fareq Abd Malek" (1553601280)
+00:45:25.990 --> 00:45:32.520
+Yeah. Okay, so I repeat.
+
+162 "Mohd Fareq Abd Malek" (1553601280)
+00:45:32.520 --> 00:45:49.770
+We are not taking the average, we are, we are asked to find the RMS route means square. So I now analyze, we now analyze the blue, the orange, the green, and the rest. What does it mean by.
+
+163 "Mohd Fareq Abd Malek" (1553601280)
+00:45:49.770 --> 00:46:05.310
+Root means square. So here we analyze here, so minus ten is minus right? Minus ten, but don't forget to square because root means square. So we.
+
+164 "Mohd Fareq Abd Malek" (1553601280)
+00:46:05.310 --> 00:46:24.030
+And this part, time is 2 s. Now plus, let's analyze this orange part. The voltage is four, but don't forget because root means square is square.
+
+165 "Mohd Fareq Abd Malek" (1553601280)
+00:46:24.030 --> 00:46:40.920
+For this orange box, time is 2 s to obviously this is zero, so you can do for this one, don't forget to square and obviously this is zero.
+
+166 "Mohd Fareq Abd Malek" (1553601280)
+00:46:40.920 --> 00:46:57.960
+Plus plus and so forth and divided by ten because this is mean. The mean, we measure it.
+
+167 "Mohd Fareq Abd Malek" (1553601280)
+00:46:57.960 --> 00:47:15.270
+In 10 s. And last but not least, root square root, square root, everything, ok? So with that, I hope you can.
+
+168 "Mohd Fareq Abd Malek" (1553601280)
+00:47:15.270 --> 00:47:35.270
+Answer the next quiz, next quiz. You will have 100 s to answer this quiz.
+
+169 "Mohd Fareq Abd Malek" (1553601280)
+00:47:35.270 --> 00:47:47.310
+Okay, uh.
+
+170 "Mohd Fareq Abd Malek" (1553601280)
+00:48:02.280 --> 00:48:22.280
+Okay, uh.
+
+171 "Mohd Fareq Abd Malek" (1553601280)
+00:48:22.280 --> 00:48:36.690
+Okay Let me see your answer.
+
+172 "Mohd Fareq Abd Malek" (1553601280)
+00:48:36.690 --> 00:48:56.690
+32 students enrolled at the moment. 32 students, another 20 s, let's wait for a while, for 20 more seconds.
+
+173 "Mohd Fareq Abd Malek" (1553601280)
+00:48:56.690 --> 00:49:16.690
+Okay, uh.
+
+174 "Mohd Fareq Abd Malek" (1553601280)
+00:49:16.690 --> 00:49:36.690
+Okay, uh.
+
+175 "Mohd Fareq Abd Malek" (1553601280)
+00:49:36.690 --> 00:49:56.400
+Okay, I think, let's see the timer, the timer is finished, it's completed. Well done to 21, but the rest please try again. Just try, and here is the answer.
+
+176 "Mohd Fareq Abd Malek" (1553601280)
+00:49:56.400 --> 00:50:12.630
+So that minus ten square is 100. Multiply by two, four square is 16, multiply by 2 s. Here is zero, then here is minus two square is four.
+
+177 "Mohd Fareq Abd Malek" (1553601280)
+00:50:12.630 --> 00:50:28.260
+Multiply by 2 s, here is zero divided by 10th. The answer is squared root of 24 or if you can use your calculator further. So this graph on the left can be.
+
+178 "Mohd Fareq Abd Malek" (1553601280)
+00:50:28.260 --> 00:50:45.630
+Can be drawn here is a form of square, because ten square is ten minus ten square is 104 square is 16th and minus two square is four.
+
+179 "Mohd Fareq Abd Malek" (1553601280)
+00:50:45.630 --> 00:51:05.630
+So this is like the squared way form of this figure. This figure is squared, it looks like this and then so you don't need to write this, you, you don't need to draw this figure, you can, you can use it directly. You you can calculate it directly as have shown we have shown here.
+
+180 "Mohd Fareq Abd Malek" (1553601280)
+00:51:05.630 --> 00:51:12.870
+Okay.
+
+181 "Mohd Fareq Abd Malek" (1553601280)
+00:51:12.870 --> 00:51:29.610
+Okay, so this means the RMS value is not just forder or signed or co sign but RMS value can also be used for.
+
+182 "Mohd Fareq Abd Malek" (1553601280)
+00:51:29.610 --> 00:51:47.610
+Like square wave or any or triangular waves. So, let me check whether we.
+
+183 "Mohd Fareq Abd Malek" (1553601280)
+00:51:47.610 --> 00:52:06.840
+Okay, so I will.
+
+184 "Mohd Fareq Abd Malek" (1553601280)
+00:52:06.840 --> 00:52:25.470
+Some mathematics because now previously in the 1st seven weeks, we have a fixed voltage and then we have maybe a register.
+
+185 "Mohd Fareq Abd Malek" (1553601280)
+00:52:25.470 --> 00:52:43.860
+Maybe a capacitor and maybe an inductor. So, you know from if this is we So R, yeah? So R is.
+
+186 "Mohd Fareq Abd Malek" (1553601280)
+00:52:43.860 --> 00:53:02.490
+B, over I, e.g.. But nowadays, from now onwards, the V is normal, is not fixed with it is alternative alternatives. So this means.
+
+187 "Mohd Fareq Abd Malek" (1553601280)
+00:53:02.490 --> 00:53:18.510
+If we want to get the R, so the R is of course still on slow, but be over eye.
+
+188 "Mohd Fareq Abd Malek" (1553601280)
+00:53:18.510 --> 00:53:37.170
+So the V is not like easy like last time because it's here's 10 v, so it's just ten over something, but now we have ten side omega T, e.g.. So this means when we want to solve a circuit issue, circuit problem.
+
+189 "Mohd Fareq Abd Malek" (1553601280)
+00:53:37.170 --> 00:53:55.830
+With sinosodial sauce, we will have to do so we have to learn we have to take into consideration, ok? Okay.
+
+190 "Mohd Fareq Abd Malek" (1553601280)
+00:53:57.330 --> 00:54:16.380
+Before we lend that, let's revise mathematics, ok? Mathematics. What does it mean by derivative? So if we have a side wave, the derivative is the slope, right? So if we have this, the slope.
+
+191 "Mohd Fareq Abd Malek" (1553601280)
+00:54:16.380 --> 00:54:31.470
+Is flat, so at this point, The is zero. At this point, the slope is quite large. This means if we measure.
+
+192 "Mohd Fareq Abd Malek" (1553601280)
+00:54:31.470 --> 00:54:49.740
+The dxbodity is going to be large value. If we measure the xbodity at the peaks, it will be zero because the slope is flat line. This is some mathematics revision?
+
+193 "Mohd Fareq Abd Malek" (1553601280)
+00:54:49.740 --> 00:55:05.130
+So the greatest change, that means the slope, the greatest slope change occurs at zero degrees, this is zero degrees.
+
+194 "Mohd Fareq Abd Malek" (1553601280)
+00:55:05.130 --> 00:55:21.540
+100 8360, ok? And remember, the relative of sign.
+
+195 "Mohd Fareq Abd Malek" (1553601280)
+00:55:21.540 --> 00:55:39.090
+So the derivative of sign, that is.
+
+196 "Mohd Fareq Abd Malek" (1553601280)
+00:55:39.090 --> 00:55:58.170
+Cosign. Okay, this is some revision of derivative, ok?
+
+197 "Mohd Fareq Abd Malek" (1553601280)
+00:55:58.170 --> 00:56:13.380
+So here is the peak, so if we, if we measure X, X and P.
+
+198 "Mohd Fareq Abd Malek" (1553601280)
+00:56:19.530 --> 00:56:38.100
+So, so the slope slope is zero here and the slope is maximum here and maximum here and maximum here. So instead of this, we can.
+
+199 "Mohd Fareq Abd Malek" (1553601280)
+00:56:38.100 --> 00:56:53.580
+If you want to draw, you would, if you want to draw instead of X, we plot the X by the T with spec two.
+
+200 "Mohd Fareq Abd Malek" (1553601280)
+00:56:53.580 --> 00:57:08.700
+Omega D So here, it's zero. So instead of maximum here, slope is zero, right?
+
+201 "Mohd Fareq Abd Malek" (1553601280)
+00:57:08.700 --> 00:57:25.500
+So instead of, this one is maximum, so the maximum is here. So this means if this is signed, if this is a signed, this, because we know to.
+
+202 "Mohd Fareq Abd Malek" (1553601280)
+00:57:25.500 --> 00:57:40.770
+To the differentiation of sign is cosine, so in effect, withdraw dxbodity we are drawing a cosine wave, ok? We are drawing a coside wave. So that's just a revision of.
+
+203 "Mohd Fareq Abd Malek" (1553601280)
+00:57:40.770 --> 00:57:57.420
+The expedited or derivative. So as I mentioned just now is still valid. The only issue is I equals to VR, but.
+
+204 "Mohd Fareq Abd Malek" (1553601280)
+00:57:57.420 --> 00:58:14.550
+Now we have to take into consideration that this is V is normal fixed V isidle, so VM signed omega T So this is still, I M V M O R is I M.
+
+205 "Mohd Fareq Abd Malek" (1553601280)
+00:58:14.550 --> 00:58:34.550
+Signed Omega team, ok? So what we can say is, if we have a circuit with only register, with only register in it and with.
+
+206 "Mohd Fareq Abd Malek" (1553601280)
+00:58:34.550 --> 00:58:52.530
+And this means the voltage and the current are in phase, because if this is VM.
+
+207 "Mohd Fareq Abd Malek" (1553601280)
+00:58:54.720 --> 00:59:14.640
+A signed omega D, the current is I am signed Omega T So in in fact.
+
+208 "Mohd Fareq Abd Malek" (1553601280)
+00:59:14.640 --> 00:59:33.630
+There is NO there's NO face, right? Because they are the same. This means we can say, we can say that when we have a circuit with only register.
+
+209 "Mohd Fareq Abd Malek" (1553601280)
+00:59:33.630 --> 00:59:52.050
+The current is in face, which means NO face difference, we call it in phase, in phase. In other words.
+
+210 "Mohd Fareq Abd Malek" (1553601280)
+00:59:52.050 --> 01:00:08.130
+The current, in a register circuit, in a circuit with registers only are the same face or in face, in face, with the.
+
+211 "Mohd Fareq Abd Malek" (1553601280)
+01:00:08.130 --> 01:00:25.020
+Voltage. So, and you agree with me, in face means there's NO face difference. And in terms of amplitude, NO problem. They have different amplitude, but the more important, more interesting and more crucial is.
+
+212 "Mohd Fareq Abd Malek" (1553601280)
+01:00:25.020 --> 01:00:42.930
+They are current and voltage are in face, put it in phase, ok? So.
+
+213 "Mohd Fareq Abd Malek" (1553601280)
+01:00:45.150 --> 01:01:05.150
+I think I will stop here. Congratulations for attending because I think it's too, a lot of things to absorb before we go into inductors and visit circuit with inductors and capacitors. So on Wednesday.
+
+214 "Mohd Fareq Abd Malek" (1553601280)
+01:01:05.150 --> 01:01:22.020
+Or on Thursday, I will see you again. So revise for today's because today is the fundamental is very important. What you learn today will be used extensively from week eight nine.
+
+215 "Mohd Fareq Abd Malek" (1553601280)
+01:01:22.020 --> 01:01:29.136
+Ten and so forth. Any questions?
