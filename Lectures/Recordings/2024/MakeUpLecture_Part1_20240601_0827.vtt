@@ -1,0 +1,937 @@
+WEBVTT
+
+1 "Mohd Fareq Abd Malek" (1553601280)
+00:03:50.332 --> 00:04:14.100
+Very much for coming and so today we are going to do a makeup class because of the holiday in in week ten. So, thank you for coming and today we are we have a lecture eight.
+
+2 "Mohd Fareq Abd Malek" (1553601280)
+00:04:14.100 --> 00:04:31.139
+Lecture eight is only 27 pages. So, after we finish lecture eight, we will start, we will start lecturen.
+
+3 "Mohd Fareq Abd Malek" (1553601280)
+00:04:31.139 --> 00:04:48.119
+99/dash ten. As you can see in the, in the moodle, you can observe that, there is lecture eight, then there is lecture nine and ten.
+
+4 "Mohd Fareq Abd Malek" (1553601280)
+00:04:48.119 --> 00:05:07.619
+So lecture eight, is 27 pages, so I believe we we will be able to finish it and then we will start a little bit today on lectures, lectures nine and ten as can be also viewed in.
+
+5 "Mohd Fareq Abd Malek" (1553601280)
+00:05:07.619 --> 00:05:27.619
+It is already also shown in model. So let us start with lecture H So, so far, we have from week one until until week seven, we have learned.
+
+6 "Mohd Fareq Abd Malek" (1553601280)
+00:05:27.619 --> 00:05:46.499
+And Cons DC signals. This means the signals that are constant, let's say it's zero and some, some numbers. So from now onwards we are going to analyze.
+
+7 "Mohd Fareq Abd Malek" (1553601280)
+00:05:46.499 --> 00:06:01.529
+Sinoidal signal or alternating, alternating current signal. This means it's not just fixed but it has, it is sinosoidle.
+
+8 "Mohd Fareq Abd Malek" (1553601280)
+00:06:01.529 --> 00:06:17.069
+So, so we are going to learn cynosoidal alternating waveforms and face relationships because, this is our benchmark.
+
+9 "Mohd Fareq Abd Malek" (1553601280)
+00:06:17.069 --> 00:06:33.689
+That's, so if we have, another, another waveform, if we have another waveform, you know, obviously we can say.
+
+10 "Mohd Fareq Abd Malek" (1553601280)
+00:06:33.689 --> 00:06:49.379
+That there is, there is a face, a face difference of five between the our benchmark red curve and the blue red curve.
+
+11 "Mohd Fareq Abd Malek" (1553601280)
+00:06:49.379 --> 00:07:04.559
+So we are going to learn about face relationships between, between different waveforms. So if we, if the green one is, the green waveform is here.
+
+12 "Mohd Fareq Abd Malek" (1553601280)
+00:07:04.559 --> 00:07:24.689
+So if the green reform is here, so obviously the face difference between the green and the red is zero degrees cause there is NO, there is No, the green is.
+
+13 "Mohd Fareq Abd Malek" (1553601280)
+00:07:24.689 --> 00:07:44.429
+In in this and the rate is also this so there is NO face difference. So face difference between the green and the red is equals to zero degrees. So, ok, of course we are going to learn in more detail, ok?
+
+14 "Mohd Fareq Abd Malek" (1553601280)
+00:07:44.429 --> 00:08:05.939
+So alternating waveforms, alternating waveforms previously we learned about fixed waveforms or e.g. if the battery is written 10 v.
+
+15 "Mohd Fareq Abd Malek" (1553601280)
+00:08:05.939 --> 00:08:21.629
+Then you can, you have ten votes constant. But, now from now onwards, if it is, as other way form, the symbol instead of this.
+
+16 "Mohd Fareq Abd Malek" (1553601280)
+00:08:21.629 --> 00:08:36.989
+Instead of this, usually usually the symbol, is this written here 10 v. So this means.
+
+17 "Mohd Fareq Abd Malek" (1553601280)
+00:08:36.989 --> 00:08:55.319
+The average, this means ten votes, but it is alternating it is alternating. So, batteries like mobile phones, laptop batteries.
+
+18 "Mohd Fareq Abd Malek" (1553601280)
+00:08:55.319 --> 00:09:10.409
+10 v direct current or fixed but our home appliances like television, microwave.
+
+19 "Mohd Fareq Abd Malek" (1553601280)
+00:09:10.409 --> 00:09:27.599
+Refrigerators, they operate on alternating waveforms or alternating currents. So, so that is the the the difference that's the difference. So alternating waveforms can be sinosoidle.
+
+20 "Mohd Fareq Abd Malek" (1553601280)
+00:09:27.599 --> 00:09:45.449
+So, but, of, of course in electricity is sinosoidol but these are also alternating waveforms and square Wave is alternating waveforms and triangular wave is also alternating waveforms.
+
+21 "Mohd Fareq Abd Malek" (1553601280)
+00:09:45.449 --> 00:10:13.339
+Okay, so alternating current AC, alternating current AC, here we have, e.g., a generator will produce an alternating waveform, these are generators. So if you have a wind.
+
+22 "Mohd Fareq Abd Malek" (1553601280)
+00:10:13.339 --> 00:10:30.089
+Time for, to get energy from the wind renewable energy, the output is alternating wayform. If you have a solar panel on top of your house roof, the roof of your villa.
+
+23 "Mohd Fareq Abd Malek" (1553601280)
+00:10:30.089 --> 00:10:49.259
+And the solar panel is actually straight or direct current, but due to our app home appliances users alternating so there is an inverter to convert the direct.
+
+24 "Mohd Fareq Abd Malek" (1553601280)
+00:10:49.259 --> 00:11:06.059
+The direct waveform to an alternating waveform. So in the laboratories, in the laboratories, you can, in the laboratories you can, you can.
+
+25 "Mohd Fareq Abd Malek" (1553601280)
+00:11:06.059 --> 00:11:26.059
+You can see that there is a function generator that can produce an alternating waveform, so sinosoidle.
+
+26 "Mohd Fareq Abd Malek" (1553601280)
+00:11:26.059 --> 00:11:29.819
+Threating current voltage.
+
+27 "Mohd Fareq Abd Malek" (1553601280)
+00:11:29.819 --> 00:11:49.819
+From for the generation NAC generator or alternator powered by water power, gas or nuclear fusion, is the primary component in the energy conversion process. The energy sources, the energy source turns a rotter inside a set of windings.
+
+28 "Mohd Fareq Abd Malek" (1553601280)
+00:11:49.819 --> 00:12:10.649
+House in the statoe and will induce voltage across the winding of the statoe. So this voltage will be induced and this there is a windings, a windings is number of turns or number of windings.
+
+29 "Mohd Fareq Abd Malek" (1553601280)
+00:12:10.649 --> 00:12:27.599
+And this will, because of the change of trucks over time, this will create, this will induce or create a voltage. And this voltage.
+
+30 "Mohd Fareq Abd Malek" (1553601280)
+00:12:27.599 --> 00:12:43.739
+Yeah, and this voltage is the alternating alternating current or alternating voltage, ok. Alternative voltage.
+
+31 "Mohd Fareq Abd Malek" (1553601280)
+00:12:43.739 --> 00:13:03.739
+So, so when power producers generate generates electricity, solar power also generates electricity. How, how can it work? Cause the light energy from the sun.
+
+32 "Mohd Fareq Abd Malek" (1553601280)
+00:13:03.739 --> 00:13:28.049
+A form of photons and absorbed by the solar cells. Solar cells produce a direct current, which I have mentioned previously here the solar cells produce direct current, so we need an inverter to convert the direct or fix to alternating.
+
+33 "Mohd Fareq Abd Malek" (1553601280)
+00:13:28.049 --> 00:13:46.769
+So, but the others the others producers alternating current, immediately, NO need to, NO need inverter, ok? No need inverter. So now we, we.
+
+34 "Mohd Fareq Abd Malek" (1553601280)
+00:13:46.769 --> 00:14:02.129
+Now from this week onwards or this lecture onwards, we are going to analyze, and study in more detail the alternating current or this is a signed wave. So previous seven weeks, it's.
+
+35 "Mohd Fareq Abd Malek" (1553601280)
+00:14:02.129 --> 00:14:22.129
+Based on the fix on the direct current or fix. So but when we analyze the sign wave, we can see a sign wave here so that we can see a maximum and we can see the period, the wavelength. So let us analyze the.
+
+36 "Mohd Fareq Abd Malek" (1553601280)
+00:14:22.129 --> 00:14:38.759
+Eh, different parameters, different important parameters in a sign wave. So, this is called maximum, and this is called pick to pick.
+
+37 "Mohd Fareq Abd Malek" (1553601280)
+00:14:38.759 --> 00:14:58.759
+A Pick, pick two pick because this is the one peak and then this is another peak. So this is called a maximum or peak.
+
+38 "Mohd Fareq Abd Malek" (1553601280)
+00:14:58.759 --> 00:15:00.269
+Okay.
+
+39 "Mohd Fareq Abd Malek" (1553601280)
+00:15:00.269 --> 00:15:20.269
+And this is another maximum or peak, so this is the waveform is the path trace by a quantity so we can have a voltage or current.
+
+40 "Mohd Fareq Abd Malek" (1553601280)
+00:15:20.269 --> 00:15:40.789
+That is like this, current waveform or voltage waveform, and plotted so this the amplitudes of the voltage or the current usually plotted over time, tea. But sometimes you will also see a plotted against other parameters.
+
+41 "Mohd Fareq Abd Malek" (1553601280)
+00:15:40.789 --> 00:16:00.449
+This such as, face and so forth, ok? So when we, when you say ok what is the amplitude at here? Or what is the amplitude at here? So we are finding.
+
+42 "Mohd Fareq Abd Malek" (1553601280)
+00:16:00.449 --> 00:16:18.779
+The instantaneous, we call it instant, taneous instantaneous amplitude. We are, we want to find the inter instantaneous value.
+
+43 "Mohd Fareq Abd Malek" (1553601280)
+00:16:18.779 --> 00:16:39.919
+Okay, the peak amplitude is the maximum value of the waveform as measured from its average. So this is the peak and this is the peak, ok?
+
+44 "Mohd Fareq Abd Malek" (1553601280)
+00:16:39.919 --> 00:17:02.039
+So the peak value is the maximum instantaneous value of a function as measured from the 0 v level. So if we, this is 0 v, so let's say this is ten and this is minus ten. So the peak, the peak, the maximum is.
+
+45 "Mohd Fareq Abd Malek" (1553601280)
+00:17:02.039 --> 00:17:21.689
+Equals to 10 v. It may it is measured from the zero level up to that point, up to that point. Peak to peak value is denoted by E VPP or VPP is the full voltage between the positive and negative peaks.
+
+46 "Mohd Fareq Abd Malek" (1553601280)
+00:17:21.689 --> 00:17:37.709
+So if we have 10 v and -10 v, this means the peak to peak value is equals to 20 v, ok? It's 20 v. And.
+
+47 "Mohd Fareq Abd Malek" (1553601280)
+00:17:37.709 --> 00:17:57.709
+So this is a periodic waveform because, a waveform periodic means a waveform that continuously repeats itself after the same time interval. So an example 8 v peak and.
+
+48 "Mohd Fareq Abd Malek" (1553601280)
+00:17:57.709 --> 00:18:05.219
+As it would speak, and this on the x axis is time in seconds.
+
+49 "Mohd Fareq Abd Malek" (1553601280)
+00:18:05.219 --> 00:18:21.329
+So we can see here, I've already informed peak to peak, you can see in 16 peak is 8 v. So the period period is.
+
+50 "Mohd Fareq Abd Malek" (1553601280)
+00:18:21.329 --> 00:18:36.689
+From one cycle. So this, before it repeats itself, because this is one cycle before it repeats again. So that is the period, therefore, the period.
+
+51 "Mohd Fareq Abd Malek" (1553601280)
+00:18:36.689 --> 00:18:54.059
+In is 0.4 s. So period to you you can start from here to here or you can start, from here to here as long as.
+
+52 "Mohd Fareq Abd Malek" (1553601280)
+00:18:54.059 --> 00:19:09.749
+The start and then it the next repeat repetition, so that is also a periods, ok? Yes, a single we cannot say.
+
+53 "Mohd Fareq Abd Malek" (1553601280)
+00:19:09.749 --> 00:19:24.959
+We a period is must be a full wave, ok? So this means one period is, a full wave, sorry.
+
+54 "Mohd Fareq Abd Malek" (1553601280)
+00:19:24.959 --> 00:19:41.609
+One period is a full wave, and so half a period, half half of a period is halfway. So this full wave, and.
+
+55 "Mohd Fareq Abd Malek" (1553601280)
+00:19:41.609 --> 00:19:59.609
+Halfway, ok. So full full wave is a one period and half wave. So maybe, yes yes. One full period is, this is one full wave is one full period.
+
+56 "Mohd Fareq Abd Malek" (1553601280)
+00:19:59.609 --> 00:20:16.679
+So you can start from here to here or from here to here, it says a full, a full one full wave. So I hope you answer the questions and.
+
+57 "Mohd Fareq Abd Malek" (1553601280)
+00:20:16.679 --> 00:20:35.339
+And the definition of frequency is a one over period. So if the frequency if the period is zero or zero four, it's 0.4 so frequency is one over 0.4.
+
+58 "Mohd Fareq Abd Malek" (1553601280)
+00:20:35.339 --> 00:20:55.339
+So, can you use your calculator one over 0.4 is, I believe it is 2.5 or something, 2.5 hz.
+
+59 "Mohd Fareq Abd Malek" (1553601280)
+00:20:55.339 --> 00:21:13.199
+Okay, so in terms of.
+
+60 "Mohd Fareq Abd Malek" (1553601280)
+00:21:13.199 --> 00:21:32.339
+Relationship between the side waved, and our circle, ok? So when it is zero degrees, so I will, Right here, so when it's zero degrees, the angle, the X axis.
+
+61 "Mohd Fareq Abd Malek" (1553601280)
+00:21:32.339 --> 00:21:48.479
+The X axis is, this is the x axis, so we, if it is zero, then there is NO angle. If it is ten degrees or 15, so, the angle is.
+
+62 "Mohd Fareq Abd Malek" (1553601280)
+00:21:48.479 --> 00:22:05.999
+Yeah, if it's 90 degrees, then it goes to here. So if it is, 125, it is, that means it always starts on the.
+
+63 "Mohd Fareq Abd Malek" (1553601280)
+00:22:05.999 --> 00:22:24.809
+I don't know why, I don't know. Okay, it always starts at starting from zero and towards the right and this means if it's zero, it's here, if 45.
+
+64 "Mohd Fareq Abd Malek" (1553601280)
+00:22:24.809 --> 00:22:43.169
+It is here. It's 90, it is here. Hundred, 35, it's here. Hundred 80, it's here, 270.
+
+65 "Mohd Fareq Abd Malek" (1553601280)
+00:22:43.169 --> 00:23:06.539
+Yeah, it is here. And last but not least, 360 back to, back to, this position back to this position. So if you can see here, when.
+
+66 "Mohd Fareq Abd Malek" (1553601280)
+00:23:06.539 --> 00:23:23.819
+It is at zero, it will start. It it is zero, it is nothing, but then let's say it start increase the angle in a circle, in a circular way.
+
+67 "Mohd Fareq Abd Malek" (1553601280)
+00:23:23.819 --> 00:23:43.049
+Counter plot wise, so as I mentioned it's here and here week zero to 45 degrees, and then it increased to 90. So when we draw the cynosoidle it increased to 90.
+
+68 "Mohd Fareq Abd Malek" (1553601280)
+00:23:43.049 --> 00:23:59.039
+And then when we go to hundred 25, so back to here, and when we go to one 80 back to here, when did we go to 225?
+
+69 "Mohd Fareq Abd Malek" (1553601280)
+00:23:59.039 --> 00:24:16.139
+Going down, when we go to two 70, going to the minimum, then we go up again. We are going upwards again from the minimum going up and we are back to the original position.
+
+70 "Mohd Fareq Abd Malek" (1553601280)
+00:24:16.139 --> 00:24:31.169
+It's 360. So this is the relationship, between a signed why why is it a signed waved and a circle. It is like a.
+
+71 "Mohd Fareq Abd Malek" (1553601280)
+00:24:31.169 --> 00:24:47.969
+Revolution revolution in a 2nd in 1 s. Okay I just If you want to know the fundamental why the.
+
+72 "Mohd Fareq Abd Malek" (1553601280)
+00:24:47.969 --> 00:25:07.969
+This is sidewave is acting in this way, that means we are revolu revoluting or rotating in one circle.
+
+73 "Mohd Fareq Abd Malek" (1553601280)
+00:25:07.969 --> 00:25:22.499
+Okay, so let's.
+
+74 "Mohd Fareq Abd Malek" (1553601280)
+00:25:22.499 --> 00:25:38.729
+So we can see here that, previously from the past seven weeks, it is a fixed voltage or fixed current fixed voltage. So we draw.
+
+75 "Mohd Fareq Abd Malek" (1553601280)
+00:25:38.729 --> 00:25:55.079
+Symbol voltage source, but now because to indicate better the symbol is not if it is alternating, alternating current or AC, this means.
+
+76 "Mohd Fareq Abd Malek" (1553601280)
+00:25:55.079 --> 00:26:14.009
+The symbol shouldn't be just this symbol but this symbol, ok? To show that the source produces alternating sinosadal waveform, ok? Sinosoidle waveform. So let me let me decrease this, I don't know.
+
+77 "Mohd Fareq Abd Malek" (1553601280)
+00:26:14.009 --> 00:26:32.489
+It becomes ang, the rejected, and hold on, ang.
+
+78 "Mohd Fareq Abd Malek" (1553601280)
+00:26:32.489 --> 00:26:52.489
+Okay, I don't know why. Just 1 s, it doesn't want to, change. Let me check.
+
+79 "Mohd Fareq Abd Malek" (1553601280)
+00:26:52.489 --> 00:27:04.221
+So I hope you can see the slideshow. You can still see the slideshow.
+
+80 "Shayaan" (804382464)
+00:27:04.221 --> 00:27:07.042
+Yes yes yes. Okay.
+
+81 "Mohd Fareq Abd Malek" (1553601280)
+00:27:07.042 --> 00:27:31.739
+Okay, so, thank you and and ok so in this in the figure a lowercase letter is employed for polarity and current direction to indicate that the quantity is time dependent and the magnitudes will change with time.
+
+82 "Mohd Fareq Abd Malek" (1553601280)
+00:27:31.739 --> 00:27:49.019
+So we usually use a small lowercase, not capital E, because to differentiate. If you remember, I don't know why. If you remember in.
+
+83 "Mohd Fareq Abd Malek" (1553601280)
+00:27:49.019 --> 00:28:09.019
+The past seven weeks, usually we write capital E, right? Or capital V now to, to differentiate, of course this is already differentiating because it's a different symbol, but we we usually write V.
+
+84 "Mohd Fareq Abd Malek" (1553601280)
+00:28:09.019 --> 00:28:30.659
+Or or small V, ok? So that is, that it is sinocidal, ok? And sinocidal and time dependent, ok? Time dependent, so.
+
+85 "Mohd Fareq Abd Malek" (1553601280)
+00:28:30.659 --> 00:28:46.199
+The soidle waveform can be derived from the length of the vertical projection of a radius vector rotating in a uniform circular motion about the fixed point. So here, it's circular motion.
+
+86 "Mohd Fareq Abd Malek" (1553601280)
+00:28:46.199 --> 00:29:06.179
+The Circular motion and back to 360 degrees. The velocity with which the radius vector rotates about the center, which this is called the angular velocity because when we.
+
+87 "Mohd Fareq Abd Malek" (1553601280)
+00:29:06.179 --> 00:29:23.489
+I have this, so we have, we start from here for zero degrees, then we increase 45 degrees, 90 degrees, hundred 35.
+
+88 "Mohd Fareq Abd Malek" (1553601280)
+00:29:23.489 --> 00:29:41.219
+Hundred 821-21-5270 and back to here. But we want the the speed, the speed of this.
+
+89 "Mohd Fareq Abd Malek" (1553601280)
+00:29:41.219 --> 00:29:59.699
+Factor that is rotating, that is rotating, and it's called the angular. Angular means yes, cause it's rotating in the circle can be determined from the following equation.
+
+90 "Mohd Fareq Abd Malek" (1553601280)
+00:29:59.699 --> 00:30:14.879
+So, the angular velocity is, the distance or the degrees per seconds, ok? So e.g..
+
+91 "Mohd Fareq Abd Malek" (1553601280)
+00:30:14.879 --> 00:30:34.879
+Does how fast it, how many degrees it will, it will travel in for each 2nd? Is it if it's fast, then it it's seculating fast. If it's slow, it's slow. So angular velocity.
+
+92 "Mohd Fareq Abd Malek" (1553601280)
+00:30:34.879 --> 00:30:53.999
+It is the distance travel in degrees. So let's say 1 s, after 1 s, it has reached 45 degrees. This means 45 degrees per sec per 2nd.
+
+93 "Mohd Fareq Abd Malek" (1553601280)
+00:30:53.999 --> 00:31:10.049
+And degrees already. So in your calculator, you have the choice to choose degrees. So e.g. 45 degrees and.
+
+94 "Mohd Fareq Abd Malek" (1553601280)
+00:31:10.049 --> 00:31:28.379
+The sub the equivalent number in radiance, so R means radiants. So, so 100. So let's see what is the relationship.
+
+95 "Mohd Fareq Abd Malek" (1553601280)
+00:31:28.379 --> 00:31:50.179
+Yeah, what is the relationship between degrees, 45 degrees and 40 n radiants? So I just write here 45 example, 45 degree, so what is.
+
+96 "Mohd Fareq Abd Malek" (1553601280)
+00:31:50.179 --> 00:32:06.359
+The, what is the number, what is the number of in radians? In radiance. In the next two slides you you will see it, ok?
+
+97 "Mohd Fareq Abd Malek" (1553601280)
+00:32:06.359 --> 00:32:25.469
+So, the angular velocity comes in physics and others velocity is CV, right? Or if you want speed of light, C C usually is denoted as speed of light.
+
+98 "Mohd Fareq Abd Malek" (1553601280)
+00:32:25.469 --> 00:32:43.829
+But here we we did not recall omega, because this is going in circle and this omega is a special type of velocity which is the angular velocity. So it's not V.
+
+99 "Mohd Fareq Abd Malek" (1553601280)
+00:32:43.829 --> 00:32:59.429
+Or it's not C So we call it Omega and Omega is the distance traveled on the circle over time, ok?
+
+100 "Mohd Fareq Abd Malek" (1553601280)
+00:32:59.429 --> 00:33:17.369
+And for a full revolution for a full revolution, this means for full revolution means start from here, start from here.
+
+101 "Mohd Fareq Abd Malek" (1553601280)
+00:33:17.369 --> 00:33:35.489
+Back to the original place is one full revolution or one complete period because as we know, if we convert into this into into signed.
+
+102 "Mohd Fareq Abd Malek" (1553601280)
+00:33:35.489 --> 00:33:55.489
+A full revolution is from here, back to here, ok? And the time required to complete one revolution is equal to the period, so it's equal to the period of the.
+
+103 "Mohd Fareq Abd Malek" (1553601280)
+00:33:55.489 --> 00:33:58.679
+Sign a soilder waveform.
+
+104 "Mohd Fareq Abd Malek" (1553601280)
+00:33:58.679 --> 00:34:18.509
+The radiants subtended in this time interval from from here in one revolution back, back to the origin is called two pie. So two piece radians, two pie radians.
+
+105 "Mohd Fareq Abd Malek" (1553601280)
+00:34:18.509 --> 00:34:33.809
+Divided, by time. Okay, two pie radiants divided by time. So, we will then we will see the next slide, what does it mean by these two pie and the relationship with the.
+
+106 "Mohd Fareq Abd Malek" (1553601280)
+00:34:33.809 --> 00:34:50.999
+Revolution. So Omega, the angular velocity is two pie over time, the radians, two pie in radians, and therefore Omega is two pie F because we have learned in the previous.
+
+107 "Mohd Fareq Abd Malek" (1553601280)
+00:34:50.999 --> 00:35:07.349
+10 min that the time is one over frequency, time is one over frequency, therefore, this one is, can be replaced by one over frequency.
+
+108 "Mohd Fareq Abd Malek" (1553601280)
+00:35:07.349 --> 00:35:23.009
+So when we replace two pipe divided by one over frequency, we are just getting the Omega is two pie F So we can write two piece over time.
+
+109 "Mohd Fareq Abd Malek" (1553601280)
+00:35:23.009 --> 00:35:41.309
+Omega is too pie over time or you can write Omega is too pie F, ok? So, so this is, a complete start from here.
+
+110 "Mohd Fareq Abd Malek" (1553601280)
+00:35:41.309 --> 00:35:59.249
+I'll start from here, go travel and back to the back to the origin. So this is one radiance from here to here 1 rad, two radiants, three.
+
+111 "Mohd Fareq Abd Malek" (1553601280)
+00:35:59.249 --> 00:36:14.519
+One radiance, another radians. So in here, six, according to scientists or mathematicians, to get back to the origin.
+
+112 "Mohd Fareq Abd Malek" (1553601280)
+00:36:14.519 --> 00:36:30.299
+Is 6.2 radi to eight or two pie. So this means pie pie radiance pie radiance is 180 degrees.
+
+113 "Mohd Fareq Abd Malek" (1553601280)
+00:36:30.299 --> 00:36:45.689
+Cause this from here, she has 9090, and here is another 90, so this is pyradians. And two pyradians.
+
+114 "Mohd Fareq Abd Malek" (1553601280)
+00:36:45.689 --> 00:37:05.689
+Two pine radiants is 360 degrees. One one full revolution, one full revolution. So if you have.
+
+115 "Mohd Fareq Abd Malek" (1553601280)
+00:37:05.689 --> 00:37:23.819
+If you have a high a large value of omega, cause Omega is two by F, Omega is two by F Therefore, you are, you are fast, you are.
+
+116 "Mohd Fareq Abd Malek" (1553601280)
+00:37:23.819 --> 00:37:38.849
+Traveling very fast to make one revolution. This means in terms of the, the time the time is, the time.
+
+117 "Mohd Fareq Abd Malek" (1553601280)
+00:37:38.849 --> 00:37:55.499
+It's takes a short time to complete one revolution, shorter time compared to here. It's 100 radiants, so it takes a while to complete one revolution, but if you are traveling fast.
+
+118 "Mohd Fareq Abd Malek" (1553601280)
+00:37:55.499 --> 00:38:11.040
+500 rad for each 2nd, so you are having, you are traveling very fast and high angular frequency, high frequency, high omega. This is low omega.
+
+119 "Mohd Fareq Abd Malek" (1553601280)
+00:38:11.040 --> 00:38:27.660
+Okay, so, and of course you know that this is one period, one period, so you know that frequency is one over period, so if.
+
+120 "Mohd Fareq Abd Malek" (1553601280)
+00:38:27.660 --> 00:38:43.230
+The period is low, here, here the period, the time is lower than this, so if the period is low, the frequency is high, high frequency, it's been 500 rad.
+
+121 "Mohd Fareq Abd Malek" (1553601280)
+00:38:43.230 --> 00:38:59.310
+If the period, if the time is that large, like here time is large compared this one, the period is large. So here we can see, we can see.
+
+122 "Mohd Fareq Abd Malek" (1553601280)
+00:38:59.310 --> 00:39:16.890
+It's large when the time is large or the period is large, the frequency, the frequency is lower. So this is space, is more space out. This is.
+
+123 "Mohd Fareq Abd Malek" (1553601280)
+00:39:16.890 --> 00:39:33.420
+A more space out is frequency is lower compared to this a very high frequency. So it is a complimentary compliment relationship. High frequency, low period. Low frequency.
+
+124 "Mohd Fareq Abd Malek" (1553601280)
+00:39:33.420 --> 00:39:49.350
+High period, ok? So that is the, the, the reasoning behind and the relationship between time frequency and omega. Okay. Omega is angular frequency.
+
+125 "Mohd Fareq Abd Malek" (1553601280)
+00:39:49.350 --> 00:40:14.210
+Okay. So I hope, maybe perhaps it's also a revision, right? It's a revision from mathematics of visits in the 1st year, 1st year subjects, ok? It's just like a recall and, some form of revision. Any questions you can type in.
+
+126 "Mohd Fareq Abd Malek" (1553601280)
+00:40:14.210 --> 00:40:33.780
+In the chat. You're welcome. So what is the general format of the cytosordial voltage occurrent? Because, last time let let's in the previous seven weeks, we have, let's say 10 v. So we just say.
+
+127 "Mohd Fareq Abd Malek" (1553601280)
+00:40:33.780 --> 00:40:53.780
+Voltage is 10 v, but now we have a cynocidal, right? Sinocidal, the the symbol or sinocidal here. So we cannot just say ten votes because 10 v indicate.
+
+128 "Mohd Fareq Abd Malek" (1553601280)
+00:40:53.780 --> 00:41:12.840
+Like a fixed or constant because what we have here is zero, what we have here is like an average of ten. So we must say 10 v.
+
+129 "Mohd Fareq Abd Malek" (1553601280)
+00:41:12.840 --> 00:41:32.840
+Something must be in the form of signed signed something, signed omega D, ok? So to indicate that this has an amplitude, this has this has some form of amplitude, we will learn more how to inc to indicate.
+
+130 "Mohd Fareq Abd Malek" (1553601280)
+00:41:32.840 --> 00:41:49.230
+Which whether it is to take the average or we take the the peak for the 10 v so that is another slides to discuss, but the format, when it is sinusoidal voltage, it is.
+
+131 "Mohd Fareq Abd Malek" (1553601280)
+00:41:49.230 --> 00:42:04.440
+Written as some form of amplitude in this example 10 v signed omega T, sign omega T So, and the amplitude.
+
+132 "Mohd Fareq Abd Malek" (1553601280)
+00:42:04.440 --> 00:42:21.390
+Is A AM, assigned Omega T let's look at the next slides. Let's look at the next slides. So if it is current.
+
+133 "Mohd Fareq Abd Malek" (1553601280)
+00:42:21.390 --> 00:42:38.910
+It's I M signed Omegati to show that this is the peak the capital letters with the subscript M represent the amplitude, the amplitude.
+
+134 "Mohd Fareq Abd Malek" (1553601280)
+00:42:38.910 --> 00:42:56.250
+Of the current and the amplitude of the voltage. That's why we perform a best practice. This means we write a small letter I, a small letter I.
+
+135 "Mohd Fareq Abd Malek" (1553601280)
+00:42:56.250 --> 00:43:15.060
+To to indicate the instantaneous value of the current and small letter E will indicate the instantaneous value of the voltage, ok? Because we had, we can see here, let's say this.
+
+136 "Mohd Fareq Abd Malek" (1553601280)
+00:43:15.060 --> 00:43:30.780
+Sign so sorry for the drawing this one. So, this one and we want this is called the picked.
+
+137 "Mohd Fareq Abd Malek" (1553601280)
+00:43:30.780 --> 00:43:50.780
+So I, this one I am, and if we want any point, let's say what is the magnitude here? What is the instantaneous value here? So we write that point.
+
+138 "Mohd Fareq Abd Malek" (1553601280)
+00:43:50.780 --> 00:44:07.380
+Is I multiply it is equals to the I M signed signed omega T, ok? Signed omega T So we must this we should.
+
+139 "Mohd Fareq Abd Malek" (1553601280)
+00:44:07.380 --> 00:44:23.370
+Perform a best practice to to indicate that I is instantaneous value is small letter. I M is the ampli the big amplitudes and then multiply by sign omega T.
+
+140 "Mohd Fareq Abd Malek" (1553601280)
+00:44:23.370 --> 00:44:43.380
+So now is the face relations face relations, ok? And if the waveform is shifted to the right or left by zero degrees by some degrees.
+
+141 "Mohd Fareq Abd Malek" (1553601280)
+00:44:43.380 --> 00:45:02.340
+Okay, the left of zero degrees, but here it's zero degrees. It start from zero, right? The the rate curve, this point is zero. So as I mentioned, the rate curve is the, our reference signed curve. So if we have the blue curve.
+
+142 "Mohd Fareq Abd Malek" (1553601280)
+00:45:02.340 --> 00:45:20.520
+This means the blue curve is shifted to the right of the red curve. If we have the green curve, the green curve is shifted to the left of the red curve. So this, this means they they have.
+
+143 "Mohd Fareq Abd Malek" (1553601280)
+00:45:20.520 --> 00:45:35.700
+Face difference. The green has a different face to the red and the blue has the different face to the rate, ok? So now let us.
+
+144 "Mohd Fareq Abd Malek" (1553601280)
+00:45:35.700 --> 00:45:55.700
+Investigate or analyze. So if there is NO face difference, this means zero degrees. So let's say we have another color, let's say orange.
+
+145 "Mohd Fareq Abd Malek" (1553601280)
+00:45:55.700 --> 00:45:57.690
+Which.
+
+146 "Mohd Fareq Abd Malek" (1553601280)
+00:45:57.690 --> 00:46:17.070
+Orange. So if there is orange, which is very similar to the, there is NO difference of face, so this is zero degrees. So zero degrees means.
+
+147 "Mohd Fareq Abd Malek" (1553601280)
+00:46:17.070 --> 00:46:32.670
+And the orange, the orange is still signed omega T plus zero signed omega T only. Okay, but now we want to know.
+
+148 "Mohd Fareq Abd Malek" (1553601280)
+00:46:32.670 --> 00:46:47.850
+The, the green is sign omegaty plus or minus the face. The blue is AM sign omegaty plus or minus the face.
+
+149 "Mohd Fareq Abd Malek" (1553601280)
+00:46:47.850 --> 00:47:08.250
+Okay, before I before we before I continue, I would just like to ask from your guests guessing, can I ask you, the rate the rate is the benchmark, right?
+
+150 "Mohd Fareq Abd Malek" (1553601280)
+00:47:08.250 --> 00:47:38.648
+The rate is the benchmark, so I think the orange I will delete. Can I know, the, the green and the rate? The green is leading or the the green is leading the the rate or the, the green is lagging, lagging the rate. What's your guess?
+
+151 "Jia" (1252077824)
+00:47:38.648 --> 00:47:41.487
+Leading? Leading.
+
+152 "Mohd Fareq Abd Malek" (1553601280)
+00:47:41.487 --> 00:47:56.250
+Yes, that's the right guess because, it is because.
+
+153 "Mohd Fareq Abd Malek" (1553601280)
+00:47:56.250 --> 00:48:13.770
+The green appear 1st on the x, on the time on the x axis. This means the green is leading 1st. It's leading in term of face, it's leading the rate. So when you have the leading.
+
+154 "Mohd Fareq Abd Malek" (1553601280)
+00:48:13.770 --> 00:48:30.120
+Bleeding means plus, ok? So whatever the face is, maybe 20 degrees. So if let's say it's this data is 20 degrees, so this means, so this is green, right?
+
+155 "Mohd Fareq Abd Malek" (1553601280)
+00:48:30.120 --> 00:48:48.840
+So the green is to be written in the form of sign omegaty plus let's say 30 degrees. This means what does this say that the green is.
+
+156 "Mohd Fareq Abd Malek" (1553601280)
+00:48:48.840 --> 00:49:03.990
+30 degrees, leading, leading the benchmark the rate, leading the rate by 30 degrees. And I think you agree now that the blue.
+
+157 "Mohd Fareq Abd Malek" (1553601280)
+00:49:03.990 --> 00:49:23.990
+It's lagging, lagging the rate by some degrees. This means the rate is earlier, right? The the rate is leading the blue or the blue, this means the blue appear a bit later at on the x axis compared to the rates. So when you say it's.
+
+158 "Mohd Fareq Abd Malek" (1553601280)
+00:49:23.990 --> 00:49:42.540
+Lagging, it is minus. So if it is the degree of data or the facetia is 30 degrees, so the blue, you can write as AM.
+
+159 "Mohd Fareq Abd Malek" (1553601280)
+00:49:42.540 --> 00:49:58.380
+Signed, omega T -30 degrees. So that is the best strategy or the best tips is look at the X axis.
+
+160 "Mohd Fareq Abd Malek" (1553601280)
+00:49:58.380 --> 00:50:13.770
+Which one appear 1st of from the left hand side? So from looking from the left, the green appears earlier than the red, so the green is plus plus the face, and.
+
+161 "Mohd Fareq Abd Malek" (1553601280)
+00:50:13.770 --> 00:50:33.770
+The blue appears later than the rate, so the, the blue is minus. Minus means it's lagging. The face is lagging, ok? So I hope that's the best tips look at the X axis for you, ok?
+
+162 "Mohd Fareq Abd Malek" (1553601280)
+00:50:33.770 --> 00:50:52.440
+So this means the terms leading and lagging are used, the terms lead and lag are used to indicate the relationship between two waveforms of the same frequency, same frequency plotted on the same set of axis.
+
+163 "Mohd Fareq Abd Malek" (1553601280)
+00:50:52.440 --> 00:51:07.740
+So if we plot on the same axis, it's better to it's it's easier to see. Okay it's it's obvious to see that e.g. here the red and the green, we plot on the same axis. Okay.
+
+164 "Mohd Fareq Abd Malek" (1553601280)
+00:51:07.740 --> 00:51:27.090
+So, by, by having that tips and strategy, I think I just revised with you that this is a sign, and I think for the revisions.
+
+165 "Mohd Fareq Abd Malek" (1553601280)
+00:51:27.090 --> 00:51:46.950
+I think you agree with me that cosign look like this, right? So this is a co sign and this is a sign.
+
+166 "Mohd Fareq Abd Malek" (1553601280)
+00:51:46.950 --> 00:52:06.950
+So if we superimpose to get on the same axis sign and co sign, so this is a sign and the green is a co sign. But if we keep continuing continuing the co sign because con co sign is continuous, right? If we continue continue and also.
+
+167 "Mohd Fareq Abd Malek" (1553601280)
+00:52:06.950 --> 00:52:22.890
+Of course, sign can be continuous as well. So is this one yeah sorry this one yes, it's continuous. So what can we see here?
+
+168 "Mohd Fareq Abd Malek" (1553601280)
+00:52:22.890 --> 00:52:42.890
+The co signed, based on the tips that I gave you just now, if we look at the X axis, you agree with me. I think you agree with me that the green, the co sign is leading, leading the sign, right? So the co sign appear for.
+
+169 "Mohd Fareq Abd Malek" (1553601280)
+00:52:42.890 --> 00:52:46.020
+On the x axis.
+
+170 "Mohd Fareq Abd Malek" (1553601280)
+00:52:46.020 --> 00:53:03.600
+And here and the signed appear a bit later, ok? So we can we can agree now that the co signed is leading the signed and leading by how much, 90 degrees.
+
+171 "Mohd Fareq Abd Malek" (1553601280)
+00:53:03.600 --> 00:53:23.520
+So that's a special, that's because that's a special, that's a different sign and co sign is 90 degrees, ok? 90 degrees. Or if you want to say about the opposite, you can say that the signed curve, the red curve, is lagging.
+
+172 "Mohd Fareq Abd Malek" (1553601280)
+00:53:23.520 --> 00:53:43.520
+The co signed curve by 90 degrees. So I hope any questions so far? So the concept fundamental, if you graphs it, then from here it's going to be easy, easy for, for.
+
+173 "Mohd Fareq Abd Malek" (1553601280)
+00:53:43.520 --> 00:53:58.920
+For the next, four, four more analysis, for the next analysis.
+
+174 "Mohd Fareq Abd Malek" (1553601280)
+00:53:58.920 --> 00:54:16.020
+So, so just now I have already give given the strategy and tips, so even previously it's signed and co signed, but if we have any comparison between any sanosaudio wave.
+
+175 "Mohd Fareq Abd Malek" (1553601280)
+00:54:16.020 --> 00:54:32.760
+So, always take the benchmark, benchmark of sign, which always start at zero. So if you have any of your curve.
+
+176 "Mohd Fareq Abd Malek" (1553601280)
+00:54:32.760 --> 00:54:48.120
+Let's say this is the blue curve R you can see this blue curve and it is at here, which is earlier in terms of X axis is going 1st compared to the.
+
+177 "Mohd Fareq Abd Malek" (1553601280)
+00:54:48.120 --> 00:55:05.820
+To the benchmark signed, so we now say that it is, our, our blue curve is a M signed Omega data last s last last degrees.
+
+178 "Mohd Fareq Abd Malek" (1553601280)
+00:55:05.820 --> 00:55:22.110
+Okay, so this order wave AM signed this one is said to be leading the cycles order wave of this one.
+
+179 "Mohd Fareq Abd Malek" (1553601280)
+00:55:22.110 --> 00:55:38.340
+Of the benchmark. If we have a curve which is, this blue curve and it interrupts or I mean, cross the X axis.
+
+180 "Mohd Fareq Abd Malek" (1553601280)
+00:55:38.340 --> 00:55:54.810
+And a bit later than zero degrees like on on here zero degrees of the X axis is here Tita. So we know that the blue curve is lagging the benchmark. Our benchmark.
+
+181 "Mohd Fareq Abd Malek" (1553601280)
+00:55:54.810 --> 00:56:13.860
+A signed curve. So, that, therefore this is this cytocidical curve is lagging our benchmark. So when it's lagging, you write negative.
+
+182 "Mohd Fareq Abd Malek" (1553601280)
+00:56:13.860 --> 00:56:33.060
+A minus detail minus data, ok? So I think a lot of interesting and important, important concepts in, in this, this morning, ok, for this morning.
+
+183 "Mohd Fareq Abd Malek" (1553601280)
+00:56:33.060 --> 00:56:48.870
+So now with that, so it's better to, to draw in order to avoid carelessness and mistakes for each of these questions. So what is the face relationship between the Sonia waveforms?
+
+184 "Mohd Fareq Abd Malek" (1553601280)
+00:56:48.870 --> 00:57:04.530
+Of each of the following sets, ok? So, if we have a V So, so the main thing is to see the side. Here is the amplitude. Amplitude of V is ten.
+
+185 "Mohd Fareq Abd Malek" (1553601280)
+00:57:04.530 --> 00:57:20.040
+And amplitude F I is five, so that is not so much, we are we are now analyzing the face difference, not the amplitude difference, ok? So V is this one, signed omiguity.
+
+186 "Mohd Fareq Abd Malek" (1553601280)
+00:57:20.040 --> 00:57:35.250
+Plus 30, and I is sign of T plus 70. So, let's say this is orange sorry.
+
+187 "Mohd Fareq Abd Malek" (1553601280)
+00:57:35.250 --> 00:57:51.690
+Leave the orange. This is what I draw it here, cannot be seen clearly orange. So I better draw it in blue, this.
+
+188 "Mohd Fareq Abd Malek" (1553601280)
+00:57:51.690 --> 00:58:07.650
+So this is the blue, and this is the rate. So how can I manage, how can you manage to draw a sign omega T plus the T?
+
+189 "Mohd Fareq Abd Malek" (1553601280)
+00:58:07.650 --> 00:58:24.930
+As the blue and you know it at -30 because you know that plus means leading it, leading. So you, you look at here, plus means leading. Leading means it is early.
+
+190 "Mohd Fareq Abd Malek" (1553601280)
+00:58:24.930 --> 00:58:42.360
+It will appear it will cross the X axis compared to the benchmark of zero and it will cross here by earlier phase of -30 degrees, so the zero -30.
+
+191 "Mohd Fareq Abd Malek" (1553601280)
+00:58:42.360 --> 00:58:58.830
+And how do I know that sign omega T plus 70 I will start it at -70 because it's plus means it's on the left hand side because it crossed the X axis earlier from the benchmark and it is.
+
+192 "Mohd Fareq Abd Malek" (1553601280)
+00:58:58.830 --> 00:59:15.120
+-70 means, here, ok? Seven -70 towards zero. So here -70, towards zero, and.
+
+193 "Mohd Fareq Abd Malek" (1553601280)
+00:59:15.120 --> 00:59:32.580
+The blue ones -30, from here towards zero, therefore, the difference, the difference between.
+
+194 "Mohd Fareq Abd Malek" (1553601280)
+00:59:32.580 --> 00:59:51.270
+The voltage VNI is 40 degrees. So the answer here is 40 degrees. So I can, some of you, some students already can see.
+
+195 "Mohd Fareq Abd Malek" (1553601280)
+00:59:51.270 --> 01:00:11.270
+From doing their, doing just brain I mean their mind juggling but some might you might in the beginning you might just draw to avoid carelessness and, to see it clearly in a vis vis a visual way or then you, you know that.
+
+196 "Mohd Fareq Abd Malek" (1553601280)
+01:00:11.270 --> 01:00:30.930
+The difference between the rate and the blue is 40 degrees, ok? So any questions so far for the 1st question? Part A Okay part A should be ok. So part B is.
+
+197 "Mohd Fareq Abd Malek" (1553601280)
+01:00:30.930 --> 01:00:50.250
+Current is signed omega T plus 60 and voltage is signed omega T -20. So, so the orange, orange.
+
+198 "Mohd Fareq Abd Malek" (1553601280)
+01:00:50.250 --> 01:01:07.740
+So 1st you strategy is plus Plus it must be leading and leading by 60 degrees. So draw it -60 is leading, ok?
+
+199 "Mohd Fareq Abd Malek" (1553601280)
+01:01:07.740 --> 01:01:25.500
+The blue, the next one voltage minus minus means lagging. Lagging by how much? 20 degrees. So the blue must appear a bit later. Plus 20 here.
+
+200 "Mohd Fareq Abd Malek" (1553601280)
+01:01:25.500 --> 01:01:41.130
+In this position. So what's the difference between the orange and the blue? Obviously, you can see 60 plus 20, so the difference between the orange and the blue is.
+
+201 "Mohd Fareq Abd Malek" (1553601280)
+01:01:41.130 --> 01:02:00.630
+The right answer is 80 degrees, ok? Okay nevermind, that's one question. Why, why does sign changes in the waves? It's a good question. So, why the sign changes in the waves? So here.
+
+202 "Mohd Fareq Abd Malek" (1553601280)
+01:02:00.630 --> 01:02:18.030
+Sign omegative plus. So when you see plus have it in engrave it and have it in your mind, the plus means leading. The the leading.
+
+203 "Mohd Fareq Abd Malek" (1553601280)
+01:02:18.030 --> 01:02:35.040
+Leading the face. Leading means it appears, 1st it costs earlier, it costs the x axis 1st compared to the benchmark of zero degrees.
+
+204 "Mohd Fareq Abd Malek" (1553601280)
+01:02:35.040 --> 01:02:50.190
+So when it cross, when it crosses the X axis, it crosses at -60 degrees and this indicates that -60 is leading.
+
+205 "Mohd Fareq Abd Malek" (1553601280)
+01:02:50.190 --> 01:03:05.820
+The green, the benchmark, the greens benchmark by 60 degrees, ok? And, these are the questions, ok. No problem, you can ask again.
+
+206 "Mohd Fareq Abd Malek" (1553601280)
+01:03:05.820 --> 01:03:22.020
+This is the, you can ask again for future for after this. And, so after we complete part C we will take 5 min breaks because we have a.
+
+207 "Mohd Fareq Abd Malek" (1553601280)
+01:03:22.020 --> 01:03:40.170
+We have got number now, we have learned for 1 h. So now that is number C is, number C is a bit slightly interesting and slightly.
+
+208 "Mohd Fareq Abd Malek" (1553601280)
+01:03:40.170 --> 01:03:56.640
+Interesting but not so much difficult. So you can see here, we are, what is the face relationship between I and V? But we cannot compare.
+
+209 "Mohd Fareq Abd Malek" (1553601280)
+01:03:56.640 --> 01:04:12.750
+We must compare Apple to apple, ok? We must compare the same thing. So cosigned is wouldn't be compared with signed, like this. So we must convert.
+
+210 "Mohd Fareq Abd Malek" (1553601280)
+01:04:12.750 --> 01:04:30.300
+Usually we like to work in sign as a benchmark, usually. Usually we like to work, I mean we like to analyze a sign. So we let's convert cosign. Okay, let's convert cosign.
+
+211 "Mohd Fareq Abd Malek" (1553601280)
+01:04:30.300 --> 01:04:48.270
+And con convert cosign to sign, then only we can compare what is the difference between I and V in terms of face. So if we convert cosign to sign, so I will refer back to the.
+
+212 "Mohd Fareq Abd Malek" (1553601280)
+01:04:48.270 --> 01:05:07.410
+To the previous one, one of the important slides. Let me check here ok the relationship between.
+
+213 "Mohd Fareq Abd Malek" (1553601280)
+01:05:07.410 --> 01:05:23.880
+Sign and to sign ok here in this slide, we have proven.
+
+214 "Mohd Fareq Abd Malek" (1553601280)
+01:05:23.880 --> 01:05:39.030
+That we have shown from the this analysis that this is signed, right? The red curve is signed, the green curve is co signed, and we can see.
+
+215 "Mohd Fareq Abd Malek" (1553601280)
+01:05:39.030 --> 01:05:54.990
+That if we extend the cosine, we can see that the cosine is leading the signed by 90 degrees. So, have it in your, in your mind cause.
+
+216 "Mohd Fareq Abd Malek" (1553601280)
+01:05:54.990 --> 01:06:11.160
+Costs leads sign. So that is like a 2nd nature to you. Costs leads sign or you can write, you can remember either one of them.
+
+217 "Mohd Fareq Abd Malek" (1553601280)
+01:06:11.160 --> 01:06:26.910
+A design, legs costs, so just it's like a easy memorization, a co sign lead sign or sign.
+
+218 "Mohd Fareq Abd Malek" (1553601280)
+01:06:26.910 --> 01:06:43.380
+Legs costs. If we come back to our question, so we can say this is red color, it's more appropriate for using the red color. So we can say.
+
+219 "Mohd Fareq Abd Malek" (1553601280)
+01:06:43.380 --> 01:07:03.360
+Yeah Sign, because what I mentioned if you want to compare, we must compare the same thing Apple to apple. Cosign cannot be easily compared with signs, so we convert.
+
+220 "Mohd Fareq Abd Malek" (1553601280)
+01:07:03.360 --> 01:07:21.480
+Cosign to sign and I already said to memorize easily cosign leads, leads sign.
+
+221 "Mohd Fareq Abd Malek" (1553601280)
+01:07:21.480 --> 01:07:37.110
+Or sign, legs cosine. So if we want to write to convert the co sign to.
+
+222 "Mohd Fareq Abd Malek" (1553601280)
+01:07:37.110 --> 01:07:52.140
+Sign, this means we must write omega T the the everything in the bracket which is omega T plus ten, ok? Leads cosigned.
+
+223 "Mohd Fareq Abd Malek" (1553601280)
+01:07:52.140 --> 01:08:09.390
+Leads, so if you convert leads plus 90, ok? I hope I go slowly, I hope I go slowly and step by step.
+
+224 "Mohd Fareq Abd Malek" (1553601280)
+01:08:09.390 --> 01:08:26.220
+Okay, so this means, so the whole thing is, is omega plus T plus ten, but now why I write plus 90 because cosine.
+
+225 "Mohd Fareq Abd Malek" (1553601280)
+01:08:26.220 --> 01:08:46.220
+Leads signed by 90 degrees plus means sorry yes plus means litz Plus means leads. So this means this can be returned as two side obegative plus one.
+
+226 "Mohd Fareq Abd Malek" (1553601280)
+01:08:46.220 --> 01:08:47.070
+Hundred.
+
+227 "Mohd Fareq Abd Malek" (1553601280)
+01:08:47.070 --> 01:09:06.600
+So when you have two signed omega T plus 100, now you can compare with the voltage three signed omega T because both are now signed.
+
+228 "Mohd Fareq Abd Malek" (1553601280)
+01:09:06.600 --> 01:09:21.660
+So now you can draw if you want, if you want to draw it. So plus plus right plus is leading by 100.
+
+229 "Mohd Fareq Abd Malek" (1553601280)
+01:09:21.660 --> 01:09:41.640
+Leading by, it means it appear 1st on the left hand side of the xxs. X axis by 100 degrees, ok? And the blue one.
+
+230 "Mohd Fareq Abd Malek" (1553601280)
+01:09:41.640 --> 01:09:59.100
+The blue one is signed obigaty minus ten minus late lagging, lagging, lagging, the bench is zero.
+
+231 "Mohd Fareq Abd Malek" (1553601280)
+01:09:59.100 --> 01:10:16.890
+So sorry yeah Drawing not so the benchmark is zero degrees, lagging, by minus lagging by ten degrees.
+
+232 "Mohd Fareq Abd Malek" (1553601280)
+01:10:16.890 --> 01:10:34.680
+And compare it with leading, this one is leading by hundreds, so as an overall, the answer is hundred and ten.
+
+233 "Mohd Fareq Abd Malek" (1553601280)
+01:10:37.620 --> 01:10:57.620
+The right answer is 110. So if you compare I, we want to do between this I and this V, there is a 100 and T 110 degrees face difference between them, ok? Between them.
+
+234 "Mohd Fareq Abd Malek" (1553601280)
+01:10:57.620 --> 01:11:17.088
+Okay, so any questions? So thank you. See you in 5 min after the breaks. Thank you very much.
