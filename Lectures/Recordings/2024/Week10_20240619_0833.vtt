@@ -1,0 +1,1253 @@
+WEBVTT
+
+1 "Mohd Fareq Abd Malek" (449880064)
+00:00:52.740 --> 00:01:12.740
+All of you and just so that, and then I will give the revision for the let's.
+
+2 "Mohd Fareq Abd Malek" (449880064)
+00:01:12.740 --> 00:01:31.050
+It will not be, it's just for reading and it will not be in the final exam, any of the lecture 13, in any of the lecture 13. I will just make a video recording and I will just upload it for your.
+
+3 "Mohd Fareq Abd Malek" (449880064)
+00:01:31.050 --> 00:01:47.190
+For your interests but in the revision today you will see that will not be in the final exam. In terms of the final exam.
+
+4 "Mohd Fareq Abd Malek" (449880064)
+00:01:47.190 --> 00:02:03.570
+They should announce it today or tomorrow, but this is almost 90 % sure 90 %, which is the ENGG, 104 will be on 1 July.
+
+5 "Mohd Fareq Abd Malek" (449880064)
+00:02:03.570 --> 00:02:22.320
+09:00. It is a 2 h exam. So let us complete our materials and then we can go for our revision.
+
+6 "Mohd Fareq Abd Malek" (449880064)
+00:02:22.320 --> 00:02:39.540
+So I, I believe we stop at all AC circuits and 1st of all, when we have in series.
+
+7 "Mohd Fareq Abd Malek" (449880064)
+00:02:39.540 --> 00:02:58.050
+It is, we add them, we add in series. Let's say we have, this Z1Z2.
+
+8 "Mohd Fareq Abd Malek" (449880064)
+00:02:58.050 --> 00:03:16.800
+Z three and so forth, when we, when we want to find the total, so let's say this one, when we want to find the total it's Z one.
+
+9 "Mohd Fareq Abd Malek" (449880064)
+00:03:16.800 --> 00:03:33.780
+Plus Z two plus Z two. So we defined what we call the admittance where admittance is one over Z. So admittance is very useful.
+
+10 "Mohd Fareq Abd Malek" (449880064)
+00:03:33.780 --> 00:03:52.050
+Because, uh, if we want to use impedance impotence is that does it does, is that and admittance.
+
+11 "Mohd Fareq Abd Malek" (449880064)
+00:03:52.050 --> 00:04:07.770
+Admittance is the symbol is Y, ok? The symbol is Y So, if you want to use the formula.
+
+12 "Mohd Fareq Abd Malek" (449880064)
+00:04:07.770 --> 00:04:23.370
+For impedance, you have to use one over Z total equals one over Z one plus one over Z two plus one over Z three. In the case of parallel elements, you still can do it, but.
+
+13 "Mohd Fareq Abd Malek" (449880064)
+00:04:23.370 --> 00:04:40.499
+It is, maybe it's a bit terious. So we we can use admittance. So admittance Y one equals admittance Y one equals to one over Z one.
+
+14 "Mohd Fareq Abd Malek" (449880064)
+00:04:40.499 --> 00:04:58.259
+Y two equals to one over Z2Y3 is equals to one over Z three and then Y total, Y total is, the elements in parallel are added together. So Y total?
+
+15 "Mohd Fareq Abd Malek" (449880064)
+00:04:58.259 --> 00:05:13.619
+Is aY1 plus aY2, plus Y three. And once you add all of them together, then let's say you want to.
+
+16 "Mohd Fareq Abd Malek" (449880064)
+00:05:13.619 --> 00:05:29.669
+Fine, you get that Y total so that total is simply one over Y total. So it makes it makes your calculation easier if you use admittance, Y total.
+
+17 "Mohd Fareq Abd Malek" (449880064)
+00:05:29.669 --> 00:05:45.209
+In for elements in paragraph. Of course for element in series, you can use impedance in total. So, so this means the symbol for.
+
+18 "Mohd Fareq Abd Malek" (449880064)
+00:05:45.209 --> 00:06:00.419
+This means if we have, that is evidence and of course if it is resistant, it's a symbol ZR, if it is in.
+
+19 "Mohd Fareq Abd Malek" (449880064)
+00:06:00.419 --> 00:06:18.689
+Inductor, impedance of inductor and if it is the, impedance of. So the admittance of the resistor, we, the symbol is.
+
+20 "Mohd Fareq Abd Malek" (449880064)
+00:06:18.689 --> 00:06:34.589
+G And also the word for that is conductance. Conductance, and the unit for the conductance is Ziemens S the impedance, the unit is in oms.
+
+21 "Mohd Fareq Abd Malek" (449880064)
+00:06:34.589 --> 00:06:51.269
+But if you perform 1 over, you get the conductors 1 over our, the unit is in so, for the for the impotence of inductor is J Omega M.
+
+22 "Mohd Fareq Abd Malek" (449880064)
+00:06:51.269 --> 00:07:07.889
+This means XL, the face angle of 90, but one over, one over XL, you can define it as a substance sub subsectance.
+
+23 "Mohd Fareq Abd Malek" (449880064)
+00:07:07.889 --> 00:07:24.899
+And this, the symbol is B of L And if you have the admittance of the is one over Z but Z itself is one overgacy.
+
+24 "Mohd Fareq Abd Malek" (449880064)
+00:07:24.899 --> 00:07:41.369
+So, this one over the is XC phase angle -90. So if you do one over XC, you get the susceptance.
+
+25 "Mohd Fareq Abd Malek" (449880064)
+00:07:41.369 --> 00:07:56.429
+And since this is zero degrees, so the zero minus -90 is plus 90. So for a capacitor the.
+
+26 "Mohd Fareq Abd Malek" (449880064)
+00:07:56.429 --> 00:08:12.659
+Substance is omega C, but inductor is one over Omega L So calculate the input impedance.
+
+27 "Mohd Fareq Abd Malek" (449880064)
+00:08:12.659 --> 00:08:28.079
+So here, it's better because these two are in parallel, so it is better to use admittance because in parallel we can just add them. So Y T.
+
+28 "Mohd Fareq Abd Malek" (449880064)
+00:08:28.079 --> 00:08:43.679
+Is equals 2 y1+Y 2, they can add them and we can do that. Um, we can.
+
+29 "Mohd Fareq Abd Malek" (449880064)
+00:08:43.679 --> 00:08:58.859
+Uhh, but if you want, you can also do the total because you know that this the short formula.
+
+30 "Mohd Fareq Abd Malek" (449880064)
+00:08:58.859 --> 00:09:14.549
+For the two elements in federal is Z one multiplied by Zach two divided by Zac one plus Zac two. So before this the short formula. So if you don't.
+
+31 "Mohd Fareq Abd Malek" (449880064)
+00:09:14.549 --> 00:09:30.659
+This is one way to get the, Z total, but if you don't want, you want to convert it into emittance one and then emittance two, you add them to get admittance total YT.
+
+32 "Mohd Fareq Abd Malek" (449880064)
+00:09:30.659 --> 00:09:47.669
+And to get back total is 1 over 1 over evidence, is that back to Zach total? But any steps you can see here, we use the special formula for the 2 elements in better.
+
+33 "Mohd Fareq Abd Malek" (449880064)
+00:09:47.669 --> 00:10:03.989
+So after using the special elements, a special formula for the two elements in parallel, so from here onwards from the past three weeks, you should know that ZR is 20 oms with a zero degrees.
+
+34 "Mohd Fareq Abd Malek" (449880064)
+00:10:03.989 --> 00:10:23.309
+That L is in the question is 10 hopes with 90 degrees, and you must practice using your calculator, the conversion between Paula from polar rectangular and vice versa to do the calculation.
+
+35 "Mohd Fareq Abd Malek" (449880064)
+00:10:23.309 --> 00:10:41.099
+And then you get the answer in polar and if you want to convert back to rectangular and then because in rectangular you can start drawing the impedance diagram cause here is for oms.
+
+36 "Mohd Fareq Abd Malek" (449880064)
+00:10:41.099 --> 00:11:01.099
+So four owns stop here and plus J 7.95 from here go to here stop, and this will be the final Z total Z total, so you.
+
+37 "Mohd Fareq Abd Malek" (449880064)
+00:11:01.099 --> 00:11:19.079
+Then, you can use the as I mentioned just now, you can use the in you can use the special formula for the two elements in parallel or you can use the admittance formula.
+
+38 "Mohd Fareq Abd Malek" (449880064)
+00:11:19.079 --> 00:11:35.519
+Because you, we already learned in the past 15 minutes that y1 evidence of the, our, plus the admittance of the impact. Uh, when you add them, you will get.
+
+39 "Mohd Fareq Abd Malek" (449880064)
+00:11:35.519 --> 00:11:52.859
+The, and this is what we are doing now so the attitudes of resistance, why are the evidence of the in doctor.
+
+40 "Mohd Fareq Abd Malek" (449880064)
+00:11:52.859 --> 00:12:12.209
+What am I with? The total is why? Op? Plus Y. L. in terms of the admittance diagram. So 0.05from here to here. 0.05stop.
+
+41 "Mohd Fareq Abd Malek" (449880064)
+00:12:12.209 --> 00:12:28.049
+Because it's minus -0.1 stop and this is the admittance y T Y total. And here is the angle -63.43.
+
+42 "Mohd Fareq Abd Malek" (449880064)
+00:12:32.999 --> 00:12:50.639
+So this is the same question, this the same same question. Oh NO, this is different question. So now we have another example where three elements in parallel. So I think now it's getting more tedious to, to use.
+
+43 "Mohd Fareq Abd Malek" (449880064)
+00:12:50.639 --> 00:13:05.849
+That because if you use three elements in parallel, if you remember is one over that total is one over that one plus one over Z two plus.
+
+44 "Mohd Fareq Abd Malek" (449880064)
+00:13:05.849 --> 00:13:21.029
+1, over so that 1, if 5 homes platforms with 0 degrees, that too is, uh, 8.
+
+45 "Mohd Fareq Abd Malek" (449880064)
+00:13:21.029 --> 00:13:39.179
+With 90 degrees and here is 20 oms with a -90 degrees. So that that you can do if you want to do, then you can do that.
+
+46 "Mohd Fareq Abd Malek" (449880064)
+00:13:39.179 --> 00:13:54.989
+Oh, so if you can do that, you can see here that that total is one over, one over ZR plus one over ZR plus one over Z And when you do that.
+
+47 "Mohd Fareq Abd Malek" (449880064)
+00:13:54.989 --> 00:14:11.609
+So from now onwards, please practice using your calculator, your conversion using polar, familiarized using your calculator using polar and using rectangular. So from here to here, all these are conversion how to.
+
+48 "Mohd Fareq Abd Malek" (449880064)
+00:14:11.609 --> 00:14:27.689
+How to add? So adding polo is not so so convenient. So you need to convert, uh, days to rectangular products or condition coordinates and add the real parts.
+
+49 "Mohd Fareq Abd Malek" (449880064)
+00:14:27.689 --> 00:14:44.009
+Together and add all the imaginary parts together and one over division to divide this is not so convenient, so then you convert back the rectangular to polar.
+
+50 "Mohd Fareq Abd Malek" (449880064)
+00:14:44.009 --> 00:14:59.429
+Cause now only you can divide it conveniently and then you get the answer. So if this I cannot, this all comes with practice especially using your calculator.
+
+51 "Mohd Fareq Abd Malek" (449880064)
+00:14:59.429 --> 00:15:14.879
+Using your calculator. So this means you have 4.68 fish angle 20.56. But if you want to draw the impedance diagram.
+
+52 "Mohd Fareq Abd Malek" (449880064)
+00:15:14.879 --> 00:15:33.569
+You need to convert to to to rectangular or partition coordinates. So you you can use your calculator to do it fast, but if you want to do it from the 1st principles.
+
+53 "Mohd Fareq Abd Malek" (449880064)
+00:15:33.569 --> 00:15:49.589
+And what you can do is 4.68 cost 20.56 plus J Sign 20.56. So this is this big bracket, so.
+
+54 "Mohd Fareq Abd Malek" (449880064)
+00:15:49.589 --> 00:16:05.039
+Then you can get 4.38 plus J 1.64. So you start from here, so 4.38 is here stop plus J means to go upwards, 1.64 stop.
+
+55 "Mohd Fareq Abd Malek" (449880064)
+00:16:05.039 --> 00:16:20.399
+So this is your resultant Zach total. So that total from here to here and the angle is 20.56 and the amplitude is 4.68.
+
+56 "Mohd Fareq Abd Malek" (449880064)
+00:16:20.399 --> 00:16:38.279
+Notes. So I hope this one will come in the final exam, ok? This one, page 48, what page is this? 48?
+
+57 "Mohd Fareq Abd Malek" (449880064)
+00:16:38.279 --> 00:16:58.279
+Uh, uh, page, 45, 40 page, 45 of page 48 will come in the final exam and you can see, it's not there is no model analysis or source information or.
+
+58 "Mohd Fareq Abd Malek" (449880064)
+00:16:58.279 --> 00:17:14.129
+Anything is just finding why total and Z total. So, so it's quite straightforward and easy for you, easy for you to score good marks in here. So.
+
+59 "Mohd Fareq Abd Malek" (449880064)
+00:17:14.129 --> 00:17:30.659
+Here it's using that total, but as I mentioned, this is a bit tedious because you have to do one over, so why not you, because these three are in parallel, so why total is Y one?
+
+60 "Mohd Fareq Abd Malek" (449880064)
+00:17:30.659 --> 00:17:46.439
+Um, plus Y2+Y 3 where y1 is 1 over 5 homes.
+
+61 "Mohd Fareq Abd Malek" (449880064)
+00:17:46.439 --> 00:18:03.779
+The angle of 0 is 1 over 8 bones with an angle of 90. why? 3 is 1 over 20 with an angle.
+
+62 "Mohd Fareq Abd Malek" (449880064)
+00:18:03.779 --> 00:18:22.379
+Of -90. So immediately you can get a Y total. So when you do that, you can add all y R plus y l plus YC to get a y total.
+
+63 "Mohd Fareq Abd Malek" (449880064)
+00:18:22.379 --> 00:18:37.409
+And then you, you can draw the admittance diagram. Cause here is 0.2so, start from 0, go to here. 0.2stop.
+
+64 "Mohd Fareq Abd Malek" (449880064)
+00:18:37.409 --> 00:18:53.819
+Cause it's - minus been downwards. Jay 0.04stop therefore, this is the Y total. Why total is this? 1.
+
+65 "Mohd Fareq Abd Malek" (449880064)
+00:18:53.819 --> 00:19:09.239
+And we can measure the angle as 25, 6 degrees. So, I, uh, uh, for your information.
+
+66 "Mohd Fareq Abd Malek" (449880064)
+00:19:09.239 --> 00:19:24.659
+Since, uh, and officially by almost 90% correct. Um, uh, 1:00:for example would be the 2nd day and at 9 o'clock. So 1st of July.
+
+67 "Mohd Fareq Abd Malek" (449880064)
+00:19:24.659 --> 00:19:42.899
+At at 09:00 in the morning, this is unofficial but 90 % going to be almost true. They will announce it today or tomorrow. So this means, rest assured since your paper is the 1st paper.
+
+68 "Mohd Fareq Abd Malek" (449880064)
+00:19:42.899 --> 00:20:02.899
+What I mentioned like after this about the revision, this means it will come because I do not want to overburden because it's the 1st paper. So you have a very restricted time. So what I mentioned in the revision study that 1st.
+
+69 "Mohd Fareq Abd Malek" (449880064)
+00:20:02.899 --> 00:20:21.749
+And of course if you have time to practice or enhance the understanding, ok? So, so we are going to, we are going to, because of the limited time that you have, ok? Limited time because this is the 1st paper. The 1st, the 1st paper.
+
+70 "Mohd Fareq Abd Malek" (449880064)
+00:20:21.749 --> 00:20:38.669
+At 9 o'clock in the morning. So now, um, let us continue with our examples here. So here, uh, why total how to find.
+
+71 "Mohd Fareq Abd Malek" (449880064)
+00:20:38.669 --> 00:20:55.499
+Y total or Z total in each one of them. And as an example, what Z total is 91 oms. Y total is one over 91 because admittance is one over.
+
+72 "Mohd Fareq Abd Malek" (449880064)
+00:20:55.499 --> 00:21:11.039
+A Y total is one of our impedance. So can I ask you, what is that total?
+
+73 "Mohd Fareq Abd Malek" (449880064)
+00:21:11.039 --> 00:21:27.509
+Okay, is that total for this circuit? Okay, is that total? So I hope I give you the hint. Later we will see later I will give you the hint when the ABCD.
+
+74 "Mohd Fareq Abd Malek" (449880064)
+00:21:27.509 --> 00:21:47.509
+Come up, come come up with the turn up the next question or 100 seconds is what is.
+
+75 "Mohd Fareq Abd Malek" (449880064)
+00:21:47.509 --> 00:21:50.939
+Why do we need a frequency value?
+
+76 "Mohd Fareq Abd Malek" (449880064)
+00:21:50.939 --> 00:22:09.959
+Oh, you choose A, ok? We need frequency value because we only have the value of the inductors, henries and the value of the capacitors for us.
+
+77 "Mohd Fareq Abd Malek" (449880064)
+00:22:09.959 --> 00:22:27.089
+This one is the previous one, and you choose A to get the full marks. But after this, this question will appear, ok, will appear. Just wait for a while for you to select that, that answer.
+
+78 "Mohd Fareq Abd Malek" (449880064)
+00:22:32.999 --> 00:22:50.759
+Just wait for a few seconds and maybe 40 s, ok? So in the revision.
+
+79 "Mohd Fareq Abd Malek" (449880064)
+00:22:50.759 --> 00:23:10.469
+This time I will mention a study, take home with this one this take home tutorial or take home this one. So, to, to guide you to have a more focused division because that type of question will be in the final exam.
+
+80 "Mohd Fareq Abd Malek" (449880064)
+00:23:10.469 --> 00:23:27.239
+So eleven 10th 8765210 0 s Zero seconds.
+
+81 "Mohd Fareq Abd Malek" (449880064)
+00:23:27.239 --> 00:23:42.869
+So, with that, um, getting results, so the next question, what is why, what is that total? So, what is that total.
+
+82 "Mohd Fareq Abd Malek" (449880064)
+00:23:42.869 --> 00:24:00.479
+That total is 200 angle, 200 angle 90 degrees, ok? Can you, you know that?
+
+83 "Mohd Fareq Abd Malek" (449880064)
+00:24:00.479 --> 00:24:15.839
+So that is the so now I would like to ask you what would be, uh, why total cross Y, total here is 1 over total.
+
+84 "Mohd Fareq Abd Malek" (449880064)
+00:24:15.839 --> 00:24:31.739
+If the Z total for the inductor is 200 olds, angle 90 degrees, so I hope you can, you can, you know how to divide.
+
+85 "Mohd Fareq Abd Malek" (449880064)
+00:24:31.739 --> 00:24:47.819
+Because one means actually want zero degrees. If you divide two phases, I hope you will be able to to do it, to do it easily or it's straightforward. With that.
+
+86 "Mohd Fareq Abd Malek" (449880064)
+00:24:47.819 --> 00:25:05.309
+I will continue so after after selecting in 30 s I will conduct the next question, what is the Y total.
+
+87 "Mohd Fareq Abd Malek" (449880064)
+00:25:05.309 --> 00:25:25.309
+In this case, why total because I mentioned that it's going to be in the final exam, the, this one so that you need to know that total and why total, ok? That total and.
+
+88 "Mohd Fareq Abd Malek" (449880064)
+00:25:25.309 --> 00:25:28.679
+Why token.
+
+89 "Mohd Fareq Abd Malek" (449880064)
+00:25:28.679 --> 00:25:48.679
+With that, please go to the next question. What is the Y total? So what is the select two correct answers. So you need to.
+
+90 "Mohd Fareq Abd Malek" (449880064)
+00:25:48.679 --> 00:25:53.189
+To identify, to, to convert in your mind.
+
+91 "Mohd Fareq Abd Malek" (449880064)
+00:25:53.189 --> 00:26:13.189
+One answer is, rectangular partition and the other answer is, ok?
+
+92 "Mohd Fareq Abd Malek" (449880064)
+00:26:13.189 --> 00:26:21.209
+Okay.
+
+93 "Mohd Fareq Abd Malek" (449880064)
+00:26:21.209 --> 00:26:36.599
+Because you have to work in, you know how to work in polar, so one over 200. So I bring here, so one over 200 is one of them and the angle.
+
+94 "Mohd Fareq Abd Malek" (449880064)
+00:26:36.599 --> 00:26:53.519
+It's -90. This is a polar form, but how do you want to convert into rectangular cution? This means this is the magnitude, but this is minus.
+
+95 "Mohd Fareq Abd Malek" (449880064)
+00:26:53.519 --> 00:27:09.539
+90. This means it is at this position, this position means zero minus one.
+
+96 "Mohd Fareq Abd Malek" (449880064)
+00:27:09.539 --> 00:27:28.709
+Over 200 K, one over 200 J So let us do the next one. If we have a capacitor, what will be the Z total looking at the capacitor?
+
+97 "Mohd Fareq Abd Malek" (449880064)
+00:27:28.709 --> 00:27:47.369
+Let's finish, today it's finished, it's completed, so let's go to the next one. What is the Z total for a capacitor? Select two correct answers, ok? Select two correct answers.
+
+98 "Mohd Fareq Abd Malek" (449880064)
+00:27:47.369 --> 00:28:02.849
+So I will write it here that total for a capacitor is 0.2 kilomes the two.
+
+99 "Mohd Fareq Abd Malek" (449880064)
+00:28:02.849 --> 00:28:19.289
+And it is -90, it is -90 new draw in this to find a rectangular connection 0.2 -90, it means.
+
+100 "Mohd Fareq Abd Malek" (449880064)
+00:28:19.289 --> 00:28:37.409
+It's moving here, it means zero minus J 0.2 K, so you have to.
+
+101 "Mohd Fareq Abd Malek" (449880064)
+00:28:37.409 --> 00:28:55.499
+Work both in, be able to work in bother and partition form. The next the next one is to to get the Y total for this capacitor.
+
+102 "Mohd Fareq Abd Malek" (449880064)
+00:28:55.499 --> 00:29:12.089
+So let's go into the next one if we have time is finished, so we have another 21 s. So this is the so.
+
+103 "Mohd Fareq Abd Malek" (449880064)
+00:29:12.089 --> 00:29:27.419
+A little bit more, just another 15 s, another 15 s so it's finished.
+
+104 "Mohd Fareq Abd Malek" (449880064)
+00:29:27.419 --> 00:29:47.129
+So, let's go to next question, uh, how to find why total for this 2nd, select 2 correct answers for this circuit.
+
+105 "Mohd Fareq Abd Malek" (449880064)
+00:30:21.209 --> 00:30:37.349
+Okay, I think almost there, two correct answers 52 s, ok? 52 s. Okay, then the next one, what is the Z total?
+
+106 "Mohd Fareq Abd Malek" (449880064)
+00:30:37.349 --> 00:30:52.379
+Or this circuit here. So these two, when, when we learn in the 1st six weeks, we know that if we have to resister in peritoral.
+
+107 "Mohd Fareq Abd Malek" (449880064)
+00:30:52.379 --> 00:31:08.969
+Uh, we use a special formula special formula, because only 2, we use, uh, to, uh, add 1+2. So, the same thing here.
+
+108 "Mohd Fareq Abd Malek" (449880064)
+00:31:08.969 --> 00:31:25.949
+We have two elements in so we use ten oms. R one is this the impedance of this ten oms with zero degrees because this ten.
+
+109 "Mohd Fareq Abd Malek" (449880064)
+00:31:25.949 --> 00:31:42.269
+Multiply by, 60 oms with how many degrees? How many degrees for inductor? 90 degrees.
+
+110 "Mohd Fareq Abd Malek" (449880064)
+00:31:42.269 --> 00:31:57.749
+Divided the ten oms with zero degrees plus the 60 oms with the 90 degrees. Then.
+
+111 "Mohd Fareq Abd Malek" (449880064)
+00:31:57.749 --> 00:32:17.099
+This will obtain us that total that total for this case. So that's why I said for the AC, it's more on, it's not not so much of the difficulty, but more on taking care of when you convert from polar to.
+
+112 "Mohd Fareq Abd Malek" (449880064)
+00:32:17.099 --> 00:32:37.099
+Rectangular and vice versa. Cause the and taking care of the angles, correct angles. So with that, let's continue with that question, find the Z total.
+
+113 "Mohd Fareq Abd Malek" (449880064)
+00:32:37.099 --> 00:32:42.539
+So, to find select 1, correct? So.
+
+114 "Mohd Fareq Abd Malek" (449880064)
+00:32:42.539 --> 00:33:01.379
+To find this, uh, Zach total in this case, find a sector in this case and you will see that. That's why we use why total the admittance because.
+
+115 "Mohd Fareq Abd Malek" (449880064)
+00:33:01.379 --> 00:33:17.279
+Y total is very good, very beneficial because Y total when we have two elements in parallel, it's just Y one plus Y two. We do not need to worry about all this multiplication.
+
+116 "Mohd Fareq Abd Malek" (449880064)
+00:33:17.279 --> 00:33:32.639
+All these division special formulas because Y total why total admittance is just Y one plus Y two. So Y one is one over set one and that one is can.
+
+117 "Mohd Fareq Abd Malek" (449880064)
+00:33:32.639 --> 00:33:48.929
+Angle 00:5:2 is 1 over 60, uh, angle 19 so you need to 1 0.
+
+118 "Mohd Fareq Abd Malek" (449880064)
+00:33:48.929 --> 00:34:07.769
+One zero, so you can divide them and get the Y total. So with that, so with that, you can obtain the Y total. So let's continue.
+
+119 "Mohd Fareq Abd Malek" (449880064)
+00:34:07.769 --> 00:34:25.679
+To obtain that, so all you obtain the right answer, that's excellent. So wait for the timer. One seconds, 1 s is finished, and I will press press the next question.
+
+120 "Mohd Fareq Abd Malek" (449880064)
+00:34:25.679 --> 00:34:42.629
+To for you to enter the answer for why total? What is why total? So, for this for this 2nd, 42nd.
+
+121 "Mohd Fareq Abd Malek" (449880064)
+00:34:42.629 --> 00:35:02.629
+So, um, why total for this 2nd, on the left here? So any, uh, any current.
+
+122 "Mohd Fareq Abd Malek" (449880064)
+00:35:02.629 --> 00:35:21.269
+Or what this divide the rule that we have learned in the 1st six weeks for the dc's case will also simple simply it's a simple can be applied to the AC case for the AC case that you have now. So if you.
+
+123 "Mohd Fareq Abd Malek" (449880064)
+00:35:21.269 --> 00:35:38.579
+Have a eye total current eye total and is splitted. So to find the I one remember, we learned to find the I one we look at the opposite branch. This is what we learned in the 1st six weeks. So to find the I one.
+
+124 "Mohd Fareq Abd Malek" (449880064)
+00:35:38.579 --> 00:35:54.509
+We look at the resistor or the impedance of the opposite branch, which is that 2 divided by that 1 project to multiply by total similarly, if we want to find the, we looked at the opposite.
+
+125 "Mohd Fareq Abd Malek" (449880064)
+00:35:54.509 --> 00:36:14.509
+Impedance of the opposite branch, which is that 1 over the total impedance that 1 asset to multiply by I total. Um, so.
+
+126 "Mohd Fareq Abd Malek" (449880064)
+00:36:14.509 --> 00:36:19.469
+It's a good example of the current divide the rule and again, I emphasize.
+
+127 "Mohd Fareq Abd Malek" (449880064)
+00:36:19.469 --> 00:36:35.189
+It's quite easy, for AC it's quite easy because the the worst thing is the I mean the most difficult is to find the impedance, Z total, Y total, voltage divider and current divider.
+
+128 "Mohd Fareq Abd Malek" (449880064)
+00:36:35.189 --> 00:36:52.619
+I emphasize that I will not use, uh, I would not give for the AC, difficult such as nodal analyses for the AC, uh, source resolution for the AC, because that is for the.
+
+129 "Mohd Fareq Abd Malek" (449880064)
+00:36:52.619 --> 00:37:09.959
+DC for the 1st six weeks. So here, if you want to find the current that flows through this register, we look at the opposite branch, which is, the X, the ZL divided.
+
+130 "Mohd Fareq Abd Malek" (449880064)
+00:37:09.959 --> 00:37:28.769
+By that R plus that L multiplied by the I total. So that L is four oms 90 degrees and multi multi divide by the total multiplied by the I total 20 amps zero degrees.
+
+131 "Mohd Fareq Abd Malek" (449880064)
+00:37:28.769 --> 00:37:45.209
+So, you, you, this is the previous answer, uh, to get the white, total wine total. So I will.
+
+132 "Mohd Fareq Abd Malek" (449880064)
+00:37:45.209 --> 00:38:00.929
+Skip this, uh, this is for your own, uh, application and your reading. This will not be asked in the final exam. I want to complete, uh, all of us.
+
+133 "Mohd Fareq Abd Malek" (449880064)
+00:38:00.929 --> 00:38:17.220
+Because I know 1st of July, again, those of you who just come, this is the unofficial but 90 % sure that your exam will be the 1st day, 1st day, the entity 104 on the.
+
+134 "Mohd Fareq Abd Malek" (449880064)
+00:38:17.220 --> 00:38:33.600
+9 o'clock in the morning, so I, after this, so I need to complete the important materials and after this, I will start the revision for you to start revising focus on which.
+
+135 "Mohd Fareq Abd Malek" (449880064)
+00:38:33.600 --> 00:38:50.550
+Which take home tutorial, which take home quiz or which in class quiz, in class tutorial to be, to be revised for the final exam. So the last, the final lecture before we.
+
+136 "Mohd Fareq Abd Malek" (449880064)
+00:38:50.550 --> 00:39:06.690
+We continue with our revision is, let's say 12 so is when we have a population or.
+
+137 "Mohd Fareq Abd Malek" (449880064)
+00:39:06.690 --> 00:39:26.690
+Hybrid of series and per se networks. So when we have this, the team is to redraw the network, uh, employing block to combine obvious series and other elements, which will reduce the network toward that clearly reveals the fundamental structure of the.
+
+138 "Mohd Fareq Abd Malek" (449880064)
+00:39:26.690 --> 00:39:44.910
+So study the problem and make a brief sketch of the overall approach you plan to use, doing the result in time and energy saving shortcuts. In some cases drawn lengthy analysis may not be necessary.
+
+139 "Mohd Fareq Abd Malek" (449880064)
+00:39:49.920 --> 00:40:08.490
+So, after the overall approach has been determined, consider each branch involved in your method independently before tying them together in Series parallel combinations. In most cases, those work back from the obvious.
+
+140 "Mohd Fareq Abd Malek" (449880064)
+00:40:08.490 --> 00:40:24.150
+Series and parallel combinations to the source to determine the total impedance of the network. The source pattern can then be determined and the pass back to specific unknowns can be, so actually the same, the same application can be used.
+
+141 "Mohd Fareq Abd Malek" (449880064)
+00:40:24.150 --> 00:40:41.160
+What we learned last time for the DC, the same thing can be applied for the AC as well. So as an example here and.
+
+142 "Mohd Fareq Abd Malek" (449880064)
+00:40:41.160 --> 00:40:56.910
+So again, this will come, this, this question will come in the final exact. This question will come. So here we can see we were asked to calculate.
+
+143 "Mohd Fareq Abd Malek" (449880064)
+00:40:56.910 --> 00:41:14.040
+A Zach total. So here is a combination of series and peril. So here we can see these two are in parallel, which is two as a box, pick a box. This box is in series with the.
+
+144 "Mohd Fareq Abd Malek" (449880064)
+00:41:14.040 --> 00:41:32.940
+Register box, then we add all all of them together to get that total. So this is also one of the question in the final exam. So actually as a big overview, there will be two box.
+
+145 "Mohd Fareq Abd Malek" (449880064)
+00:41:32.940 --> 00:41:48.360
+Z one and Z two, where inside the Z two there are two, two elements in parallel. So once you get, this one together, this is like a Z total.
+
+146 "Mohd Fareq Abd Malek" (449880064)
+00:41:48.360 --> 00:42:08.040
+So if you know the Zac total, you, the strategy is the IS own slow is still applicable, IS voltage divided by Zach total. Voltage divided by Zach total.
+
+147 "Mohd Fareq Abd Malek" (449880064)
+00:42:08.040 --> 00:42:25.980
+So in this example, that one is just the register, so if we look here, this is Z one, and this is Z2Z2 box, this is Z1Z1 is just the register.
+
+148 "Mohd Fareq Abd Malek" (449880064)
+00:42:25.980 --> 00:42:42.360
+And it's a good practice not just to write one oms but write zero degrees. So in that two, Zach two in here the capacitor is in parallel to the.
+
+149 "Mohd Fareq Abd Malek" (449880064)
+00:42:42.360 --> 00:43:01.650
+Inductor, so let's do it here. So, Zach two, is I hope you still remember the short formula for the two elements in, in parallel. So Zach two as a whole is.
+
+150 "Mohd Fareq Abd Malek" (449880064)
+00:43:01.650 --> 00:43:19.440
+That C that pastorm multiplied by that inductor divided by that C plus that L So that C is two oms.
+
+151 "Mohd Fareq Abd Malek" (449880064)
+00:43:19.440 --> 00:43:35.010
+So 2 ω capacitor immediately, you know, -90. You must know it. Multiply by three oms multiply.
+
+152 "Mohd Fareq Abd Malek" (449880064)
+00:43:35.010 --> 00:43:51.300
+By 3 ω. Inductor immediately, you know, it is 90. Divided by Zachsey two.
+
+153 "Mohd Fareq Abd Malek" (449880064)
+00:43:51.300 --> 00:44:09.990
+-90 plus three, and, so from here.
+
+154 "Mohd Fareq Abd Malek" (449880064)
+00:44:09.990 --> 00:44:26.460
+It's all about your practice with your calculator, how to convert to polar, add them and so forth. So this is just the working which I, you have to practice in order to.
+
+155 "Mohd Fareq Abd Malek" (449880064)
+00:44:26.460 --> 00:44:43.560
+To, to get, to be confident in doing this type of calculations. So that is, that is what that is the steps. So that is Zach two and Zach two.
+
+156 "Mohd Fareq Abd Malek" (449880064)
+00:44:43.560 --> 00:44:59.220
+Is six oms minus angle -90, ok? Six oms minus angle -90. So.
+
+157 "Mohd Fareq Abd Malek" (449880064)
+00:44:59.220 --> 00:45:19.050
+And then that total is that one plus that two, so that one is one homes and that two is, so if you want to convert Because this is plus or minus, so it's better to convert to rectangular partition, so six oms.
+
+158 "Mohd Fareq Abd Malek" (449880064)
+00:45:19.050 --> 00:45:38.520
+Angle -90 is equal to minus is also equivalent to minus J six. So if you draw here, the real and six ombs, so -90 minus is in this way.
+
+159 "Mohd Fareq Abd Malek" (449880064)
+00:45:38.520 --> 00:45:56.820
+So it is, it is this one. So in actual fact, it is zero minus J six. This is zero minus J six.
+
+160 "Mohd Fareq Abd Malek" (449880064)
+00:45:56.820 --> 00:46:13.170
+So, then you subscribe both of them from each other and you get the total. So then, as I mentioned, I sauce is, uh, E, divided by the total.
+
+161 "Mohd Fareq Abd Malek" (449880064)
+00:46:13.170 --> 00:46:28.440
+So E is given and does that total you just obtain, now you divide these two color numbers, so you get the, the amplitude mpious and the face angle.
+
+162 "Mohd Fareq Abd Malek" (449880064)
+00:46:28.440 --> 00:46:46.260
+So this is one of the question in the final exam, so you get full marks for that. Full marks for that action, for that action. Okay.
+
+163 "Mohd Fareq Abd Malek" (449880064)
+00:46:46.260 --> 00:47:01.770
+So is there any question that day has been found, I S has been found. So now, we are NBC, ok? We are NVC. So if you redraw this.
+
+164 "Mohd Fareq Abd Malek" (449880064)
+00:47:01.770 --> 00:47:17.730
+If you redraw this to the two boxes, where this is Z one, this is Z two.
+
+165 "Mohd Fareq Abd Malek" (449880064)
+00:47:17.730 --> 00:47:37.530
+And we were asked to find VR, actually VR is in here, so VR is to find here is using a voltage divider, right? It means.
+
+166 "Mohd Fareq Abd Malek" (449880064)
+00:47:37.530 --> 00:47:53.820
+PR is the impedance of that one, the impedance of that one over the impedance of Z one plus the impedance of that two multiply the.
+
+167 "Mohd Fareq Abd Malek" (449880064)
+00:47:53.820 --> 00:48:13.260
+The E, then you can obtain the VR. This is a voltage divider theory still applicable to AC circuits. Still, still applicable to AC circuits, ok? But if you do not want to use the voltage divider theory.
+
+168 "Mohd Fareq Abd Malek" (449880064)
+00:48:13.260 --> 00:48:29.700
+You can see that you can use omslow because voltage, VR is here. VR is ownslow. So I just do it here, we.
+
+169 "Mohd Fareq Abd Malek" (449880064)
+00:48:29.700 --> 00:48:45.540
+Our current, current, the same current because it's now a series as a whole is a series multiplied by the resistance because that one.
+
+170 "Mohd Fareq Abd Malek" (449880064)
+00:48:45.540 --> 00:49:00.900
+Is that's only resistance. So that is a short way also VR is the current multiplied by the resistance. We see.
+
+171 "Mohd Fareq Abd Malek" (449880064)
+00:49:00.900 --> 00:49:18.690
+Is the current multiplied by the impedance of Zach two, the impedance of Zach two. And last but not least, VC is already known.
+
+172 "Mohd Fareq Abd Malek" (449880064)
+00:49:18.690 --> 00:49:38.690
+Therefore, IC is the C over Z VC over Z, ok? Power delivered, a VC is 118 .44 face angle of my.
+
+173 "Mohd Fareq Abd Malek" (449880064)
+00:49:38.690 --> 00:49:56.130
+-9.46 and Zachsea is two oms. So that C is the Z of the, this one, Z of the capacitor.
+
+174 "Mohd Fareq Abd Malek" (449880064)
+00:49:56.130 --> 00:50:16.130
+So this mentioned here two oms, so this means two oms and you remember capa capacitor the angle is always -90. Now it's you have two division of all our numbers, so it's quite easy. You obtain the magnitude, you get the magnitude.
+
+175 "Mohd Fareq Abd Malek" (449880064)
+00:50:16.130 --> 00:50:35.880
+And you get the face angle. Face angle is obtained by -9.46 minus -90. Because when we divide V minus the ang the 5th angle.
+
+176 "Mohd Fareq Abd Malek" (449880064)
+00:50:35.880 --> 00:50:51.240
+What is the power delivered? Let's go to the question, Compute the power delivered. So the power delivered to the resistor. So in the in the exam.
+
+177 "Mohd Fareq Abd Malek" (449880064)
+00:50:51.240 --> 00:51:09.720
+To avoid ambiguity compute the power delivered to the resistor arm, to resister arm. So if we continue with that, the power delivered is I square arm. So I square is 19.
+
+178 "Mohd Fareq Abd Malek" (449880064)
+00:51:09.720 --> 00:51:28.140
+.74 square and the resistor is one oms. And last but not least compute the power factor power factor, power factor, if you remember is for.
+
+179 "Mohd Fareq Abd Malek" (449880064)
+00:51:28.140 --> 00:51:47.010
+And let's go to to that part and cosigned 80.54 because this the current, the current look at the current.
+
+180 "Mohd Fareq Abd Malek" (449880064)
+00:51:47.010 --> 00:52:02.220
+The current is the angle is 80 the theta is 80.54 so co sign of 80.54 is one 0.164. And as I mentioned to get the full marks, you shouldn't write.
+
+181 "Mohd Fareq Abd Malek" (449880064)
+00:52:02.220 --> 00:52:20.670
+The power factor as 0.164. If you write it, it's almost full but not full. You must write it leading or lagging, leading or lagging.
+
+182 "Mohd Fareq Abd Malek" (449880064)
+00:52:20.670 --> 00:52:39.360
+So, in this case, it is leading, but why is why why, how can I know how can you do to write a leading or lagging? I would like to test your knowledge for what we learned last week.
+
+183 "Mohd Fareq Abd Malek" (449880064)
+00:52:39.360 --> 00:52:56.280
+So let's go to to S So let's go to, the final final on in plus quiz.
+
+184 "Mohd Fareq Abd Malek" (449880064)
+00:52:56.280 --> 00:53:12.960
+For this semester for the lecture section for the lecture. So just now we have completed the intra squeez for lecture eleven so I will hide, I will hide it. Now the final ones.
+
+185 "Mohd Fareq Abd Malek" (449880064)
+00:53:12.960 --> 00:53:29.730
+Is the intra squeeze of lecture twelve. I will show it now because today is Wednesday. So I will, so in 2024 intra squeeze lecture twelve.
+
+186 "Mohd Fareq Abd Malek" (449880064)
+00:53:29.730 --> 00:53:49.730
+And today's, today is Wednesday 19th of June 2024. Wednesday 19th of June 2024. So I would like to ask.
+
+187 "Mohd Fareq Abd Malek" (449880064)
+00:53:49.730 --> 00:54:08.280
+You why why the, why I wrote here, why the answer is leading. This is to test, I mean to see your understanding from last week's material.
+
+188 "Mohd Fareq Abd Malek" (449880064)
+00:54:08.280 --> 00:54:25.530
+Why why I write here leading Cause if you write 010 .164, you are almost there, but you will not get the full box. You must write.
+
+189 "Mohd Fareq Abd Malek" (449880064)
+00:54:25.530 --> 00:54:45.530
+Leading 0.164 leading or 0.164 legging. That is the requirement when you were asked to find what is the power factor, what, what is the power factor? It is leading because.
+
+190 "Mohd Fareq Abd Malek" (449880064)
+00:54:45.530 --> 00:55:04.170
+Yeah, I see, I is leading the voltage. I is leading the E by when I, it means is leading, when I is leading.
+
+191 "Mohd Fareq Abd Malek" (449880064)
+00:55:04.170 --> 00:55:20.280
+So if this is -80, this means I is lagging, so look and always look at the eye as the benchmark, ok? Always look at the eye as the benchmark, so.
+
+192 "Mohd Fareq Abd Malek" (449880064)
+00:55:20.280 --> 00:55:36.660
+Another example here is two, two branches, one here and one here. So here, of course, this R and XL are in series, and this branch.
+
+193 "Mohd Fareq Abd Malek" (449880064)
+00:55:36.660 --> 00:55:52.260
+This in parallel to this branch. This branch is in parallel to this branch. So can I ask you, what is the value of Z one? Before we click the question, can I ask you.
+
+194 "Mohd Fareq Abd Malek" (449880064)
+00:55:52.260 --> 00:56:07.260
+Any, what is the value of that one? This branch, three plus four G, ok? Three plus four G.
+
+195 "Mohd Fareq Abd Malek" (449880064)
+00:56:07.260 --> 00:56:23.550
+That's very good. So let me see, still have a lot of time, three plus four G ok because this is in series, so I just write here three in series plus.
+
+196 "Mohd Fareq Abd Malek" (449880064)
+00:56:23.550 --> 00:56:42.060
+14. Some of you might say why why why? Because remember four is, you know, four is angle 90, right? Because it's inductor, but this four angle 90 is.
+
+197 "Mohd Fareq Abd Malek" (449880064)
+00:56:42.060 --> 00:56:58.860
+It's simply forget because if you draw this, the amplitude is four and the angle starts from here is 90, so we we say that it's here.
+
+198 "Mohd Fareq Abd Malek" (449880064)
+00:56:58.860 --> 00:57:13.890
+And the amplitude is for, this means this point is 4G0 plus four G costs from here, ok? So you have to.
+
+199 "Mohd Fareq Abd Malek" (449880064)
+00:57:13.890 --> 00:57:29.190
+As I mentioned, this question will come in the final exam, this one, this fine, this question will come in the final exam, so you need to practice, you need to see.
+
+200 "Mohd Fareq Abd Malek" (449880064)
+00:57:29.190 --> 00:57:47.910
+Practice in your mind the the facil and the rectangular condition. Let's, go that let's go to the next question wait wait for a while.
+
+201 "Mohd Fareq Abd Malek" (449880064)
+00:57:47.910 --> 00:58:04.290
+Let me check, so I will end the question because seems they didn't process.
+
+202 "Mohd Fareq Abd Malek" (449880064)
+00:58:04.290 --> 00:58:20.160
+And now let's go to the next question, what is the value of Z one? What is the value of Z one? And the next question.
+
+203 "Mohd Fareq Abd Malek" (449880064)
+00:58:20.160 --> 00:58:37.620
+After that, what is the value of Zack two? Do do you know the value of Zach two? Yes, what's that?
+
+204 "Mohd Fareq Abd Malek" (449880064)
+00:58:37.620 --> 00:58:53.460
+Negative eight G negative eight G Yeah that's true. Very good. So, after I we you would select after the timer is finished, so I will press next.
+
+205 "Mohd Fareq Abd Malek" (449880064)
+00:58:53.460 --> 00:59:10.530
+What is the value of 00:2:So we can see here are the steps and here obviously you are going to use the current divider rule once in the 1st 6:6:weeks.
+
+206 "Mohd Fareq Abd Malek" (449880064)
+00:59:10.530 --> 00:59:25.950
+If you have the current, the current is a total and you split some current flows to here, flows here.
+
+207 "Mohd Fareq Abd Malek" (449880064)
+00:59:25.950 --> 00:59:41.400
+Go to here, is set one is Z two and you and this is this current, this current here is the total current.
+
+208 "Mohd Fareq Abd Malek" (449880064)
+00:59:41.400 --> 00:59:56.850
+It's going to here and it will split If we want to find, if we want to find the current one.
+
+209 "Mohd Fareq Abd Malek" (449880064)
+00:59:56.850 --> 01:00:12.840
+So go look at the opposite branch, Z two over Z two plus Z one multiplied by the current. The current here is 50 MPS, 50 MPS 30 degrees.
+
+210 "Mohd Fareq Abd Malek" (449880064)
+01:00:12.840 --> 01:00:30.390
+50 MPS, the angle is 30 degrees. So it's not mentioned. It's accidentally accidentally.
+
+211 "Mohd Fareq Abd Malek" (449880064)
+01:00:30.390 --> 01:00:46.440
+Accidentally not mentioned here, so it's 50 MPS and 30 degrees. So similarly, what is the current of I two? Look at the opposite branch. So Z one over Z one plus Z two multiply.
+
+212 "Mohd Fareq Abd Malek" (449880064)
+01:00:46.440 --> 01:01:05.640
+By the current, current is 50 ampious phase of 30 degrees. If you have finished, so I will go to the next question, what if, I believe the next question is what is that two?
+
+213 "Mohd Fareq Abd Malek" (449880064)
+01:01:05.640 --> 01:01:22.080
+What is that two? The next question after that is what is I one and the next question after that is what is I two? So I think, we have here.
+
+214 "Mohd Fareq Abd Malek" (449880064)
+01:01:22.080 --> 01:01:38.460
+2020 students in this rooms, ok, that's right. And I think you, you know.
+
+215 "Mohd Fareq Abd Malek" (449880064)
+01:01:38.460 --> 01:01:57.630
+You everyone has answered except for six students, so if you answered that I will go to the next question, ok? So four more students to answer what is I want.
+
+216 "Mohd Fareq Abd Malek" (449880064)
+01:01:57.630 --> 01:02:13.980
+So what is I want? What is I want? One more student, because two, two means including me, so I do need I do not need to answer one of them. So, ok.
+
+217 "Mohd Fareq Abd Malek" (449880064)
+01:02:13.980 --> 01:02:33.980
+So we can end the question, because everyone has answered we don't need NO need to wait, so end the question. And the next question so the next question is.
+
+218 "Mohd Fareq Abd Malek" (449880064)
+01:02:33.980 --> 01:02:38.460
+Is what is.
+
+219 "Mohd Fareq Abd Malek" (449880064)
+01:02:38.460 --> 01:02:55.950
+What is I want? What is I want? So I want, what is I want here? Put current divider rule, use the current divider rule.
+
+220 "Mohd Fareq Abd Malek" (449880064)
+01:02:55.950 --> 01:03:13.710
+So let's wait for a few seconds until everyone, we still have 16 students yet to answer. So what is Iwan? Okay.
+
+221 "Mohd Fareq Abd Malek" (449880064)
+01:03:22.110 --> 01:03:39.660
+Twelve more students, so what is I want looking at here, what this current divider rule, current divider rule, current divider rule, eight more students.
+
+222 "Mohd Fareq Abd Malek" (449880064)
+01:03:39.660 --> 01:03:57.960
+And Eight more students get to key in the answers, so I guess seven, seven more students.
+
+223 "Mohd Fareq Abd Malek" (449880064)
+01:04:07.260 --> 01:04:24.180
+Okay, and so these are the steps, so I will try to use this, go look at the opposite branch.
+
+224 "Mohd Fareq Abd Malek" (449880064)
+01:04:24.180 --> 01:04:41.280
+And then finally, now you know I want an I two, so I want plus I two is the total current. So this can be done as a form of the checks to to verify that we are in the right track.
+
+225 "Mohd Fareq Abd Malek" (449880064)
+01:04:41.280 --> 01:05:00.990
+Because I one plus I two should be equal to the total current 50 MPS. The next question is what is I two? So what is I two?
+
+226 "Mohd Fareq Abd Malek" (449880064)
+01:05:00.990 --> 01:05:20.490
+So here, what is I two according to this circuit this is another example where we have.
+
+227 "Mohd Fareq Abd Malek" (449880064)
+01:05:20.490 --> 01:05:36.210
+The two, I hope you see, you can see that these two, this branch, the red ones and the black branch, they are but inside the reds, the R one and the.
+
+228 "Mohd Fareq Abd Malek" (449880064)
+01:05:36.210 --> 01:05:53.040
+The register inductor are in series and inside the black, the register and the capacitor are in series. So, this means if we draw it as a block, so we have the block of Z one and the block of.
+
+229 "Mohd Fareq Abd Malek" (449880064)
+01:05:53.040 --> 01:06:12.360
+Z two. So again, what is the value of, Zach total? The total as a whole, this means.
+
+230 "Mohd Fareq Abd Malek" (449880064)
+01:06:12.360 --> 01:06:29.010
+Has that total the green box as a whole. So I hope you can, let me check how many more, how many more seconds. So here we can see.
+
+231 "Mohd Fareq Abd Malek" (449880064)
+01:06:29.010 --> 01:06:45.180
+There are Z one, so I think you know that Z total is Z one multiplied by Z two divided by Z one plus Z two. That is.
+
+232 "Mohd Fareq Abd Malek" (449880064)
+01:06:45.180 --> 01:07:02.520
+Does that total as a whole? Is that total does that total as a whole? So, you, let's select.
+
+233 "Mohd Fareq Abd Malek" (449880064)
+01:07:02.520 --> 01:07:19.890
+The next question, what is that total? So what is that total? And do you remember what is Y total?
+
+234 "Mohd Fareq Abd Malek" (449880064)
+01:07:25.470 --> 01:07:41.280
+Y total of course is one over Z total. This is one way. After you find the Z total, you can get Y total, but you can do it directly before that.
+
+235 "Mohd Fareq Abd Malek" (449880064)
+01:07:41.280 --> 01:07:57.630
+Y total is Y one plus Y two, which means Y one is one over that one and Y two is one over.
+
+236 "Mohd Fareq Abd Malek" (449880064)
+01:07:57.630 --> 01:08:13.140
+So that is Y total. So if you know, if you know the fundamental, the concepts, you will be able to think.
+
+237 "Mohd Fareq Abd Malek" (449880064)
+01:08:13.140 --> 01:08:29.400
+Right rationally, strategically, then you slowly do the steps slow by step by step in order to solve the question, in order to solve the question.
+
+238 "Mohd Fareq Abd Malek" (449880064)
+01:08:29.400 --> 01:08:46.500
+Okay, in order to solve the question. So I will wait for a few seconds for, so that I, this one is what is that total? What is that total?
+
+239 "Mohd Fareq Abd Malek" (449880064)
+01:08:46.500 --> 01:09:04.770
+The 543210 0 s, and this one, what is Y total? The next question is what is Y total?
+
+240 "Mohd Fareq Abd Malek" (449880064)
+01:09:04.770 --> 01:09:23.100
+Please select two correct answers, what is Y total and let me let me select this select.
+
+241 "Mohd Fareq Abd Malek" (449880064)
+01:09:23.100 --> 01:09:41.070
+Select what are the two correct answers for the Y total. So in terms of, in terms of calculations, I think as many of you agree with me that if you see.
+
+242 "Mohd Fareq Abd Malek" (449880064)
+01:09:41.070 --> 01:09:58.110
+Because there are, there will be choices in the final exam. Some of you have a strength in the AC, some of you have strengths in the DC, so I gave some flexibility, but I think you agree with me.
+
+243 "Mohd Fareq Abd Malek" (449880064)
+01:09:58.110 --> 01:10:15.870
+That AC is very good to be attempted by other students because it's not, it's all about Z total impedance in parallel, everything. It's all about voltage divider, current divider.
+
+244 "Mohd Fareq Abd Malek" (449880064)
+01:10:15.870 --> 01:10:32.310
+But in the DC, in the beginning, you have to, to do model analysis, mesh analysis, and many others. But the only thing for the AC you need to be very careful with the angles.
+
+245 "Mohd Fareq Abd Malek" (449880064)
+01:10:32.310 --> 01:10:48.660
+And the operation, you need to practice with your calculator on how to convert from one from polar to partition and from partition to, to, to polar.
+
+246 "Mohd Fareq Abd Malek" (449880064)
+01:10:48.660 --> 01:11:05.310
+And do it correctly and to get that total and others that total and others. Use the current divider rule determined who I want, I do.
+
+247 "Mohd Fareq Abd Malek" (449880064)
+01:11:05.310 --> 01:11:21.870
+And voltage A B, voltage between the point A and B So here we, we see that total is 4.472 oms with a face angle of 26 point.
+
+248 "Mohd Fareq Abd Malek" (449880064)
+01:11:21.870 --> 01:11:38.520
+Five six. The I sauce is the the E, the voltage E divided by Z total, which is 22.36 ampious with a face angle of -26.56. By using the old slot.
+
+249 "Mohd Fareq Abd Malek" (449880064)
+01:11:38.520 --> 01:11:55.800
+You can see that I one is E over Z one and I two is E over Z2I1 is E over Z one.
+
+250 "Mohd Fareq Abd Malek" (449880064)
+01:11:55.800 --> 01:12:14.670
+And I two is E over Z two. So all all are still applicable when even in AC in AC 2nd. Last but not least, to find the voltage between the point A B So what you can do is.
+
+251 "Mohd Fareq Abd Malek" (449880064)
+01:12:14.670 --> 01:12:30.480
+We can use mesh analysis. This means so because, uh, we put here so we have, we can use the find the, we can use.
+
+252 "Mohd Fareq Abd Malek" (449880064)
+01:12:30.480 --> 01:12:46.290
+Around the loop in order to solve what is a VAV. When we use the KBL around the loop, this means minus VR one.
+
+253 "Mohd Fareq Abd Malek" (449880064)
+01:12:46.290 --> 01:13:02.850
+Plus VR two minus VAB equals to zero. So from here we can find VAB. VA is equals to VR two minus VR one, minus VR one.
+
+254 "Mohd Fareq Abd Malek" (449880064)
+01:13:02.850 --> 01:13:19.770
+How to find VR VR one, VR one is the current ones multiplied by ZR one. Oh slow. How to find VR VR2 VR two is current two.
+
+255 "Mohd Fareq Abd Malek" (449880064)
+01:13:19.770 --> 01:13:39.770
+Multiply by 2, but, uh, is freedom for the students. If you want to use voltage divide a rule, you are welcome to use it and you will get the same answer. If you want to use, you are welcome to use it and you will get the same answer.
+
+256 "Mohd Fareq Abd Malek" (449880064)
+01:13:39.770 --> 01:13:56.550
+As when you are doing the voltage divider rule, the letter that works, so if we 1st combine this.
+
+257 "Mohd Fareq Abd Malek" (449880064)
+01:13:56.550 --> 01:14:12.870
+This is in series, but this in series will be in parallel to this black, ok? These two will be in parallel, but these two in parallel, if we result in it.
+
+258 "Mohd Fareq Abd Malek" (449880064)
+01:14:12.870 --> 01:14:30.480
+It become blue. This blue is in series with the Z tree, the red. So this blue and red are in series which will.
+
+259 "Mohd Fareq Abd Malek" (449880064)
+01:14:30.480 --> 01:14:48.660
+When they are in series, make it as a one big box, the orange. So the orange is in parallel to, to the Z to the purple. So the orange and the.
+
+260 "Mohd Fareq Abd Malek" (449880064)
+01:14:48.660 --> 01:15:05.760
+The purple are in parallel when when we combine them or resulted it as the one big thing, as a pink. So this pink as a big box will be in series.
+
+261 "Mohd Fareq Abd Malek" (449880064)
+01:15:05.760 --> 01:15:22.290
+Two, the green box is at one. So there are two in series and they can be considered as the biggest box, the total biggest box light blue.
+
+262 "Mohd Fareq Abd Malek" (449880064)
+01:15:22.290 --> 01:15:38.640
+So this is how you, how you approach. So this will not be, because this is very difficult, I mean not so difficult, the concept is the same, but I want you to study for the revision is for the.
+
+263 "Mohd Fareq Abd Malek" (449880064)
+01:15:38.640 --> 01:15:56.430
+DC. For the DC remember sometimes R1R2R3R4R5 and R six to find the total, the total, total resistance of R So this is what we did just now.
+
+264 "Mohd Fareq Abd Malek" (449880064)
+01:15:56.430 --> 01:16:15.660
+And so this means we do it step by step, but the 1st one is Z five plus Z six in series, which we call it Z double prime. Z double prime is in parallel to Z four.
+
+265 "Mohd Fareq Abd Malek" (449880064)
+01:16:15.660 --> 01:16:32.790
+But in actual fact, it's in series 2Z3, we call it zach prime. This Z prime is in parallel to Zach two, which is in series 2Z1 and we call it.
+
+266 "Mohd Fareq Abd Malek" (449880064)
+01:16:32.790 --> 01:16:50.580
+Z total. So therefore, if we know the Zac total, we can find find the current because current is on slow the voltage E divided by the Z total, by the Zac total.
+
+267 "Mohd Fareq Abd Malek" (449880064)
+01:16:50.580 --> 01:17:06.000
+And then if we were asked to find any more things, any more questions, e.g. I3. So this is I3, so we can use the current.
+
+268 "Mohd Fareq Abd Malek" (449880064)
+01:17:06.000 --> 01:17:21.120
+Divide the law because I3 is, I3 is here but this this two looking at the opposite branch.
+
+269 "Mohd Fareq Abd Malek" (449880064)
+01:17:21.120 --> 01:17:40.560
+Plus here if we draw it here, this is Z2Z2, and this Z two is in parallel to Z.
+
+270 "Mohd Fareq Abd Malek" (449880064)
+01:17:40.560 --> 01:17:57.900
+And is that double check too? Is emperor to set double that sorry is that single prime? So we want to find and here is.
+
+271 "Mohd Fareq Abd Malek" (449880064)
+01:17:57.900 --> 01:18:14.130
+I total, I total S or I as a, as a full or a total is I and we want to find I3, but I3 is flowing here.
+
+272 "Mohd Fareq Abd Malek" (449880064)
+01:18:14.130 --> 01:18:29.850
+This is I3, so we are going to use current divider rule because if it is I3, we look at the opposite branch. The opposite branch is Z two divided by Z two.
+
+273 "Mohd Fareq Abd Malek" (449880064)
+01:18:29.850 --> 01:18:46.830
+Plus T-multiplied by I And you can use the same thing I six is the last 1I6 is, this Z four.
+
+274 "Mohd Fareq Abd Malek" (449880064)
+01:18:52.260 --> 01:19:09.270
+And this Z five and Z six is Z double prime, Z double prime total, and this is I six flowing into here.
+
+275 "Mohd Fareq Abd Malek" (449880064)
+01:19:09.270 --> 01:19:27.210
+But there is a total current it's splitted it's splitted, so this total current is I And now you can use the same current divider rule.
+
+276 "Mohd Fareq Abd Malek" (449880064)
+01:19:27.210 --> 01:19:44.040
+So look at the opposite branch that for so this total current is sorry i3 that flows. Cause is here and use the current divide the rule and look at the opposite branch set for.
+
+277 "Mohd Fareq Abd Malek" (449880064)
+01:19:44.040 --> 01:19:59.610
+Over that for plus that double prime declined by 3. so we have the, we are almost there cause when we finish, we are going to start with the.
+
+278 "Mohd Fareq Abd Malek" (449880064)
+01:19:59.610 --> 01:20:15.510
+Division. So we can now see here, compute I find I want I two and I3. So as I promise, this is for your.
+
+279 "Mohd Fareq Abd Malek" (449880064)
+01:20:15.510 --> 01:20:30.630
+On study, as I promise I will not ask analysis or anything in AC, ok? So but here we can see we redraw it.
+
+280 "Mohd Fareq Abd Malek" (449880064)
+01:20:30.630 --> 01:20:47.670
+We redraw this so, so to have like the whole summarization because R two and the register and inductor are in series, so we just make it as Zac two, and here we have I.
+
+281 "Mohd Fareq Abd Malek" (449880064)
+01:20:47.670 --> 01:21:07.670
+I want I two and I3, ok? So withdrawing the circuit reveals a strictly parallel network where Z want is simply a1Z2 is the resistor and the inductor in series.
+
+282 "Mohd Fareq Abd Malek" (449880064)
+01:21:07.670 --> 01:21:25.740
+And Z three is the resistor inductor and capacitor in series, in series. So when you are in series, you can add them, add them but this is an inductor.
+
+283 "Mohd Fareq Abd Malek" (449880064)
+01:21:25.740 --> 01:21:41.850
+That is Excel and the pastor is -2. so have a practice during your revision. So, the current 1, uh, is.
+
+284 "Mohd Fareq Abd Malek" (449880064)
+01:21:41.850 --> 01:21:59.370
+Remember so, if this is E, this if this is e1st, there's no elements in between, they are in federal so this must be voltage. This must also be.
+
+285 "Mohd Fareq Abd Malek" (449880064)
+01:21:59.370 --> 01:22:15.900
+The Voltage here is E as well. They are in. So we have here, I want is E over Z1E over Z one, and I two is E over Z two, and I3.
+
+286 "Mohd Fareq Abd Malek" (449880064)
+01:22:15.900 --> 01:22:32.670
+Is E over Z three. So all the division or division you have to practice with especially with your calculator and divide, you must know to divide bolar numbers.
+
+287 "Mohd Fareq Abd Malek" (449880064)
+01:22:32.670 --> 01:22:48.600
+And last 1, at least, uh, I is +2+3, this is a form of check to verify that. I, is the same as we are in the right track. Uh, that total is.
+
+288 "Mohd Fareq Abd Malek" (449880064)
+01:22:48.600 --> 01:23:06.090
+What over and so why why evidence is provided? So why total why total is this? 1.
+
+289 "Mohd Fareq Abd Malek" (449880064)
+01:23:06.090 --> 01:23:22.560
+Plus this one, last, this one, because Y total is ay1 plus Y two.
+
+290 "Mohd Fareq Abd Malek" (449880064)
+01:23:22.560 --> 01:23:38.370
+Last Y three. For this emittance is quite easy, when they are in parallel we can add them. So this is Y one, this one is Y two, and this one is Y three.
+
+291 "Mohd Fareq Abd Malek" (449880064)
+01:23:38.370 --> 01:23:53.460
+This 1 is so you can add them to get the White total and remember that total is simply 1 over Y total. Yes, this is.
+
+292 "Mohd Fareq Abd Malek" (449880064)
+01:23:53.460 --> 01:24:09.420
+A, is, uh, is called, uh, admittance why is called and that is called impedance. And the relationship between admittance and impedance is.
+
+293 "Mohd Fareq Abd Malek" (449880064)
+01:24:09.420 --> 01:24:25.830
+That equals to one over one, that equals to one over one. And we like in parallel it's quite it's quite good to use admittance because in parallel.
+
+294 "Mohd Fareq Abd Malek" (449880064)
+01:24:25.830 --> 01:24:42.510
+If we have this in parallel this 3 boxes in Toronto, so if we, why total.
+
+295 "Mohd Fareq Abd Malek" (449880064)
+01:24:42.510 --> 01:24:58.890
+You simply, the evidence of one plus the evidence of two plus So it's easy in parallel it's easier to use evidence. Y one plus Y two.
+
+296 "Mohd Fareq Abd Malek" (449880064)
+01:24:58.890 --> 01:25:17.760
+But in series of course it is easier to use impedance. So here we have, if they are in series, Z one impedance.
+
+297 "Mohd Fareq Abd Malek" (449880064)
+01:25:17.760 --> 01:25:33.150
+Set to so that in series, we add all the impotences in series, but for parallel, it's better to use admittance because.
+
+298 "Mohd Fareq Abd Malek" (449880064)
+01:25:33.150 --> 01:25:49.710
+Emittance Emittances can be added when they are in. So a word about noddle and mesh analysis?
+
+299 "Mohd Fareq Abd Malek" (449880064)
+01:25:49.710 --> 01:26:09.710
+So, I promise not to if an order or mesh in the final exam for the AC, but for, I will give it. So, this is just for for your own knowledge of for your own we can still use model analysis and match analysis in.
+
+300 "Mohd Fareq Abd Malek" (449880064)
+01:26:09.710 --> 01:26:28.740
+Same concept, same technique as we use in, in, in DC, ok? So remember in the model analysis in the 1st six weeks, we, let's say this note, we see how many currents going in and out.
+
+301 "Mohd Fareq Abd Malek" (449880064)
+01:26:28.740 --> 01:26:48.740
+And we add them and we add all the currents and make them zero, right? So this I one going out, I two going out of this node and I3, so I one plus I two plus I3 equals to zero. And if you still remember in the model analysis in the 1st six weeks.
+
+302 "Mohd Fareq Abd Malek" (449880064)
+01:26:48.740 --> 01:27:04.560
+So here is going current is here so minus B or was that 1? This 1 is over that to this 1 is v1-V 2 over that 3.
+
+303 "Mohd Fareq Abd Malek" (449880064)
+01:27:04.560 --> 01:27:19.590
+Equals to zero. So because of the, we, we only have 2 h for the exam. So, I have to ask a lot of topics so I will not ask in AC and.
+
+304 "Mohd Fareq Abd Malek" (449880064)
+01:27:19.590 --> 01:27:35.940
+Noddle analysis or mesh analysis in AC will not be asked. The only thing that could be asked in the AC is current divider voltage divider owns law. Admittance and impedance.
+
+305 "Mohd Fareq Abd Malek" (449880064)
+01:27:35.940 --> 01:27:55.410
+Admittance in parallel or impedances. So I will, the same thing the same, after you, you get, you can use the same concept as the 1st six weeks in order to find the voltage one and the voltage two.
+
+306 "Mohd Fareq Abd Malek" (449880064)
+01:27:55.410 --> 01:28:12.450
+So, I would not go to this just to show. Uh, so, and this is after you get this, you can now there's 2, it's 2 simultaneous questions.
+
+307 "Mohd Fareq Abd Malek" (449880064)
+01:28:12.450 --> 01:28:29.490
+For V one and V two and you can use simultaneous equation or you use rule. So, for the benefits, so thank you very much and.
+
+308 "Mohd Fareq Abd Malek" (449880064)
+01:28:29.490 --> 01:28:44.670
+So I will take 5 min breaks, before we start our revision, just for those who we are finished all that is required for the final exam, and for those of you who just arrived.
+
+309 "Mohd Fareq Abd Malek" (449880064)
+01:28:44.670 --> 01:29:00.690
+This is the unofficial timetable. Um, uh, I believe it will be published today. I'm afraid maybe today or tomorrow it shows that 104.
+
+310 "Mohd Fareq Abd Malek" (449880064)
+01:29:00.690 --> 01:29:17.220
+Will be on the 1st day, 1st of July, at 09:00 in the morning. So, so that's why now we have completed the materials. So in 5 min I will.
+
+311 "Mohd Fareq Abd Malek" (449880064)
+01:29:17.220 --> 01:29:34.290
+Read to you, what other take home tutorial or in class tutorial which which which that you should focus in order for you to revise well because time is off because this is the 1st 1st day.
+
+312 "Mohd Fareq Abd Malek" (449880064)
+01:29:34.290 --> 01:29:51.000
+The 1st days of exam, so you have a very limited time, so I will give you a more focused revision for you. And if you finish the focus revision, of course, you want to practice, please practice more. It is encouraged.
+
+313 "Mohd Fareq Abd Malek" (449880064)
+01:29:51.000 --> 01:29:59.136
+So in 5 min, we will start the revision. Any questions so far?
