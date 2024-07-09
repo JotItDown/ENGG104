@@ -1,0 +1,1297 @@
+WEBVTT
+
+1 "Mohd Fareq Abd Malek" (1631374592)
+00:11:28.889 --> 00:11:48.889
+Okay. Uh.
+
+2 "Mohd Fareq Abd Malek" (1631374592)
+00:11:48.889 --> 00:12:08.889
+Okay, uh.
+
+3 "Mohd Fareq Abd Malek" (1631374592)
+00:12:08.889 --> 00:12:22.409
+Okay, good Morning.
+
+4 "Mohd Fareq Abd Malek" (1631374592)
+00:12:22.409 --> 00:12:37.559
+Everyone? Good morning. So today we are going to cover impedance and today we are going to cover lecture six, the lecture eleven.
+
+5 "Mohd Fareq Abd Malek" (1631374592)
+00:12:37.559 --> 00:12:52.919
+So since last two weeks we have gotten into AC or alternating current. So we learned that for a resistor, it is.
+
+6 "Mohd Fareq Abd Malek" (1631374592)
+00:12:52.919 --> 00:13:08.129
+The same phase or if the power, the source is an AC current, the current and the voltage are in the same phase. So if, in the past two weeks.
+
+7 "Mohd Fareq Abd Malek" (1631374592)
+00:13:08.129 --> 00:13:26.669
+We use, we draw, curves and then we see, oh, they are in the same phase. But drawing the curves every time can be cumbersome and tedious. So we have learned last week that.
+
+8 "Mohd Fareq Abd Malek" (1631374592)
+00:13:26.669 --> 00:13:42.989
+It's better to use complex numbers and also to use impedance and phaser diagrams. Because in impedance and we only need to write the amplitude.
+
+9 "Mohd Fareq Abd Malek" (1631374592)
+00:13:42.989 --> 00:13:58.139
+And the best angle. So therefore, we do not need to write a very long expression such as sign omegaty originity plus 90 or -90.
+
+10 "Mohd Fareq Abd Malek" (1631374592)
+00:13:58.139 --> 00:14:13.199
+We do not need to write the omega, the frequency, we just need to, to write the face angle. So if the, you know, that in the theory, in the theoretical sense that.
+
+11 "Mohd Fareq Abd Malek" (1631374592)
+00:14:13.199 --> 00:14:31.859
+If you have a register circuit, a register and a voltage source, which is sign aside out. So the current.
+
+12 "Mohd Fareq Abd Malek" (1631374592)
+00:14:31.859 --> 00:14:46.859
+And the voltage are in the volts are in face, so we can just write a V angle zero and I angle zero. To show that.
+
+13 "Mohd Fareq Abd Malek" (1631374592)
+00:14:46.859 --> 00:15:06.859
+And they are at zero degrees both of them at zero degrees. So in terms of complex numbers zero degrees because when we, when we draw the phaser zero degrees is at this point.
+
+14 "Mohd Fareq Abd Malek" (1631374592)
+00:15:06.859 --> 00:15:23.969
+So this is the x axis, the real axis. This is the imaginary axis, the Y axis, when it is zero degrees, so there is NO angle, but the arrows, the length of the arrows indicate.
+
+15 "Mohd Fareq Abd Malek" (1631374592)
+00:15:23.969 --> 00:15:42.719
+The magnitude, the magnitude of the current, the length of the the length of the blue arrows indicate the magnitude of the voltage, but both of them are at zero degrees, ok?
+
+16 "Mohd Fareq Abd Malek" (1631374592)
+00:15:42.719 --> 00:16:01.319
+So, if in another scenario, both of them are at, so one blue, one green.
+
+17 "Mohd Fareq Abd Malek" (1631374592)
+00:16:01.319 --> 00:16:16.889
+Both at them at 45 degrees, e.g., so they are still in face because this diagram is powerful if the blue and the, the green.
+
+18 "Mohd Fareq Abd Malek" (1631374592)
+00:16:16.889 --> 00:16:34.589
+It's at 45 degrees, so we can write V, 405I also, the angle is 45, but between I and V.
+
+19 "Mohd Fareq Abd Malek" (1631374592)
+00:16:34.589 --> 00:16:50.009
+There is NO difference, there are NO face difference. So that is that's why facil diagram is very, very easy for us, for us to solve.
+
+20 "Mohd Fareq Abd Malek" (1631374592)
+00:16:50.009 --> 00:17:07.949
+Instead of drawing the scurves and writing long long expressions. So if I would like to revise what we have done in the past two weeks.
+
+21 "Mohd Fareq Abd Malek" (1631374592)
+00:17:07.949 --> 00:17:23.819
+For an inductor current lacks, the voltage or current leads the voltage, current lacks the voltage, so always having for inductor, current lacks the voltage by.
+
+22 "Mohd Fareq Abd Malek" (1631374592)
+00:17:23.819 --> 00:17:43.169
+90 degrees. So this means in the face it's easy now to to draw the phase diagram, current is at the gear at zero degrees and the voltage is at the 90 degrees. So this.
+
+23 "Mohd Fareq Abd Malek" (1631374592)
+00:17:43.169 --> 00:18:01.859
+Cause this is the benchmark, the x axis and so the current the voltage is at 90 degrees. So we know from this facial diagram that the current lacks the voltage by 90 degrees, but.
+
+24 "Mohd Fareq Abd Malek" (1631374592)
+00:18:01.859 --> 00:18:18.629
+In the future, it doesn't matter if current is here, it will always between them is 90 degrees. So let's say this is the axis. So let's say there is.
+
+25 "Mohd Fareq Abd Malek" (1631374592)
+00:18:18.629 --> 00:18:35.249
+Some angle but between current and voltage, they will follow, they will be together and the face between them is 90 degrees. And current is lagging the voltage by 90 degrees.
+
+26 "Mohd Fareq Abd Malek" (1631374592)
+00:18:35.249 --> 00:18:51.239
+So this means the impedance impedance of L we call it we call it in the last two weeks inductive, so XL.
+
+27 "Mohd Fareq Abd Malek" (1631374592)
+00:18:51.239 --> 00:19:07.409
+With last two weeks, we call it inductive reactance so this can.
+
+28 "Mohd Fareq Abd Malek" (1631374592)
+00:19:07.409 --> 00:19:22.559
+As it can be called also as impedance impedance. So impedance, there are in forms, the unit.
+
+29 "Mohd Fareq Abd Malek" (1631374592)
+00:19:22.559 --> 00:19:41.369
+Is in owns, therefore, oms law is valid voltage. The impedance of ZL is voltage over current, so we take care of the voltage angle 90 and the current amplitude angle zero send according to.
+
+30 "Mohd Fareq Abd Malek" (1631374592)
+00:19:41.369 --> 00:20:01.369
+Division of facil, the amplitude will be divided by the amplitude and the angle will minus the angle. So, so the final answer is, so the final answer is that the current lacks the voltage by.
+
+31 "Mohd Fareq Abd Malek" (1631374592)
+00:20:01.369 --> 00:20:06.959
+90 degrees by 90 degrees.
+
+32 "Mohd Fareq Abd Malek" (1631374592)
+00:20:06.959 --> 00:20:25.799
+So, and if we remember last two weeks or last week, this XL is Omega L, and if we also remember in the last two weeks XC.
+
+33 "Mohd Fareq Abd Malek" (1631374592)
+00:20:25.799 --> 00:20:45.799
+It's one over omegacy for the case, for the case of capacity reactions so this is capacitive positive reactions.
+
+34 "Mohd Fareq Abd Malek" (1631374592)
+00:20:45.799 --> 00:21:05.339
+Okay. And you, you also can call them impedance. Both of them are impedance and it's also owns the unit, the unit is owns.
+
+35 "Mohd Fareq Abd Malek" (1631374592)
+00:21:05.339 --> 00:21:21.209
+So when we have this V over I, this means the amplitude is V over I which is Omega L. Amplitude is Omega L.
+
+36 "Mohd Fareq Abd Malek" (1631374592)
+00:21:21.209 --> 00:21:37.919
+And 90 minus zero is 90 so actually this omega L, at the angle of 90 degrees. So, it's the angle of 90 degrees.
+
+37 "Mohd Fareq Abd Malek" (1631374592)
+00:21:37.919 --> 00:21:53.879
+And this is, the arrows indicate the amplitude of omega L, if you convert the phaser into rectangular, because this.
+
+38 "Mohd Fareq Abd Malek" (1631374592)
+00:21:53.879 --> 00:22:08.909
+Is zero and plus zero plus J omega L, or amplitude interfaces or amplitude.
+
+39 "Mohd Fareq Abd Malek" (1631374592)
+00:22:08.909 --> 00:22:27.929
+With an angle of 90 degrees because angle 90 degrees start from here and going to here it is 90 degrees, 90 degrees for.
+
+40 "Mohd Fareq Abd Malek" (1631374592)
+00:22:27.929 --> 00:22:43.199
+Circuit with capacitance current leads leads or legs. Current leads the voltage by 90 degrees, so you can draw it, you can see here.
+
+41 "Mohd Fareq Abd Malek" (1631374592)
+00:22:43.199 --> 00:22:58.289
+Is the voltage, the red arrows, the red arrow and the current is 90, is leading the voltage by 90 degrees. So in any way, in any position, if this is the voltage.
+
+42 "Mohd Fareq Abd Malek" (1631374592)
+00:22:58.289 --> 00:23:15.929
+This will be the current. It will follow that, for, for, capacity circuit current will always lead.
+
+43 "Mohd Fareq Abd Malek" (1631374592)
+00:23:15.929 --> 00:23:31.709
+For a fully capacity current will always leave the voltage by 90 degrees. So when you have that, a voltage is at zero and the current is the angle is 90.
+
+44 "Mohd Fareq Abd Malek" (1631374592)
+00:23:31.709 --> 00:23:48.209
+So impedance, we call it impedance of, reactants, so it's better it's easier to call it impedance and so the phase operation.
+
+45 "Mohd Fareq Abd Malek" (1631374592)
+00:23:48.209 --> 00:24:07.859
+B over I is and zero -90 because when we divide phases we deduct the the angles. So zero -90. So B over I, with an angle of -90. So if we want to.
+
+46 "Mohd Fareq Abd Malek" (1631374592)
+00:24:07.859 --> 00:24:23.939
+Draw in the diagram, view over eyes the amplitude and, and the amplitude would be, could be here, could be here.
+
+47 "Mohd Fareq Abd Malek" (1631374592)
+00:24:23.939 --> 00:24:43.499
+Would be here, but how we, how we draw it fully because we see the angle. Angle is a -90. So we always start from here. So minus means we are moving in this direction.
+
+48 "Mohd Fareq Abd Malek" (1631374592)
+00:24:43.499 --> 00:25:01.439
+90 degrees is this. So therefore, this is the location of the arrows, this, the length of the arrow indicates the magnitude and due to the -90, this is the place.
+
+49 "Mohd Fareq Abd Malek" (1631374592)
+00:25:01.439 --> 00:25:17.189
+Because it's moving at the -90 degrees, ok? And this is from last from the previous we have said that the capacity reaction is.
+
+50 "Mohd Fareq Abd Malek" (1631374592)
+00:25:17.189 --> 00:25:34.199
+One over omegacy. So this means one over this B over I is one over J omegacy. So, we can be rewritten as minus J.
+
+51 "Mohd Fareq Abd Malek" (1631374592)
+00:25:34.199 --> 00:25:51.479
+X C So XC is one over Omega C So that's why we can write we can write it's here. So it's in terms of rectangular.
+
+52 "Mohd Fareq Abd Malek" (1631374592)
+00:25:51.479 --> 00:26:10.979
+A rectangular way of writing it is zero, zero minus J minus J because here is minus J Previously for the inductor plus J, right? Plus J because it is 90 degrees in this way.
+
+53 "Mohd Fareq Abd Malek" (1631374592)
+00:26:10.979 --> 00:26:26.279
+Here it's 90 degrees in the from here, so it's minus it's negative minus J XC where XC is one over omega C So that is.
+
+54 "Mohd Fareq Abd Malek" (1631374592)
+00:26:26.279 --> 00:26:42.809
+That is our, our, our diagrams. So we can see here, the phaser diagrams can be like this, like this, but as long as.
+
+55 "Mohd Fareq Abd Malek" (1631374592)
+00:26:42.809 --> 00:26:58.949
+They they have a face difference of 90 degrees. So this current leads the voltage by 90 degrees. How do you know it's leads so because here current we this is our benchmark or our reference, so we move.
+
+56 "Mohd Fareq Abd Malek" (1631374592)
+00:26:58.949 --> 00:27:17.309
+Towards here and we know we see that the current is leading the voltage by 90 degrees. Currently it's the voltage by 90 degrees immediately is is a capacity 2nd. You know that this is a capacity circuit.
+
+57 "Mohd Fareq Abd Malek" (1631374592)
+00:27:21.929 --> 00:27:41.929
+Oh, you can see here, the current also is leading the voltage by 90 degrees. So these are all capacitive circuits. These three are capacitive circuits, fully capacitive. So.
+
+58 "Mohd Fareq Abd Malek" (1631374592)
+00:27:41.929 --> 00:27:57.149
+Now this is fully inductive, right? Fully inductive, using the complex algibra, find the current for the circuit in figure 15.8.
+
+59 "Mohd Fareq Abd Malek" (1631374592)
+00:27:57.149 --> 00:28:14.189
+After you find the current, this sketch the V and I curves, so this is the answer for the sketching. Okay, so we were given, the voltage across the inductor as.
+
+60 "Mohd Fareq Abd Malek" (1631374592)
+00:28:14.189 --> 00:28:31.619
+24 signed omega D This is given, this is given. But before we continue with our steps I would like to ask you, this is now this is in the form of.
+
+61 "Mohd Fareq Abd Malek" (1631374592)
+00:28:31.619 --> 00:28:47.459
+Conventional way of writing it, a side omegative and we write in a way of phaser, this is on the way of writing a faster with the amplitudes and the angle. But can I ask you?
+
+62 "Mohd Fareq Abd Malek" (1631374592)
+00:28:47.459 --> 00:29:05.819
+Why is it here the amplitude? The magnitude here is written 24 and when I write here, the magnitude is 16.9668 RMS. Because conventionally, if you write in.
+
+63 "Mohd Fareq Abd Malek" (1631374592)
+00:29:05.819 --> 00:29:23.069
+Sign omegative you are writing the magnitude as a big magnitude. So you, you can still write here 24 but it's not the right way. It's not the correct way. I mean when you write something in phaserve.
+
+64 "Mohd Fareq Abd Malek" (1631374592)
+00:29:23.069 --> 00:29:38.909
+You must, the voltage the amplitude here is the, not the peak magnitude, but it is the RMS. So that's why, so I've just given you the answer, so we will.
+
+65 "Mohd Fareq Abd Malek" (1631374592)
+00:29:38.909 --> 00:29:57.449
+Test you with 2024 in the lectures folder in class quiz lecture 11th Although we are in week nine, but we are already in week lecture eleven material so if I click here.
+
+66 "Mohd Fareq Abd Malek" (1631374592)
+00:29:57.449 --> 00:30:14.129
+Today's date, is, today's date is twelve June 2024. So.
+
+67 "Mohd Fareq Abd Malek" (1631374592)
+00:30:14.129 --> 00:30:34.129
+The 1st question I allow a longer time because start up might take some time. So, why is it 16.968 in here?
+
+68 "Mohd Fareq Abd Malek" (1631374592)
+00:30:34.129 --> 00:30:54.129
+Okay, uh.
+
+69 "Mohd Fareq Abd Malek" (1631374592)
+00:30:54.129 --> 00:31:03.419
+So it's because when we write in the facial form, we always write in.
+
+70 "Mohd Fareq Abd Malek" (1631374592)
+00:31:03.419 --> 00:31:19.319
+RMS format. The amplitude is RMS, so how to get from pick pick to become RMS. So for your quiz three this this I would like to give some hints.
+
+71 "Mohd Fareq Abd Malek" (1631374592)
+00:31:19.319 --> 00:31:36.419
+So you, you will get RMS question, you will be you will get an average value where I give like from this period, put some rectangler up and down, you calculate the average value that is.
+
+72 "Mohd Fareq Abd Malek" (1631374592)
+00:31:36.419 --> 00:31:52.019
+You should, it's also a form of revision between peak, peak to become RMS. So the current slaw states voltage divided by impedence, impedance.
+
+73 "Mohd Fareq Abd Malek" (1631374592)
+00:31:52.019 --> 00:32:10.799
+ZL, so I just repeat it against XL, is evidence or.
+
+74 "Mohd Fareq Abd Malek" (1631374592)
+00:32:10.799 --> 00:32:28.169
+Inductive reactors. But impedance is more popular, Inductive reactors, and the unit of FXL is owns.
+
+75 "Mohd Fareq Abd Malek" (1631374592)
+00:32:28.169 --> 00:32:45.419
+An XL, is equals to Omega L The unit of L L is in Henry's. So don't don't be confused. L is Henry's.
+
+76 "Mohd Fareq Abd Malek" (1631374592)
+00:32:45.419 --> 00:33:03.629
+And XL is oms. So since we want, if you want to find current, we need to use long so V over XL, V over ZL. So XL sometimes.
+
+77 "Mohd Fareq Abd Malek" (1631374592)
+00:33:03.629 --> 00:33:20.369
+We call it ZL, ok, impedance, NO problem, ok, NO problem. And, and we know that in a fully inductive the voltage, the XL.
+
+78 "Mohd Fareq Abd Malek" (1631374592)
+00:33:20.369 --> 00:33:36.569
+Is, the current is leading the voltage, right? The current is leading so the current is lagging the voltage, ok? Current is.
+
+79 "Mohd Fareq Abd Malek" (1631374592)
+00:33:36.569 --> 00:33:52.529
+Lagging the voltage. So if the voltage is signed omegatively, in other words, the voltage angle is zero, so that this one this means the voltage, the current.
+
+80 "Mohd Fareq Abd Malek" (1631374592)
+00:33:52.529 --> 00:34:12.529
+Must be -90 because in a fully inductive the current is lagging the voltage by 90 degrees. And so well that's why we put here 90 at the denominator because at the end.
+
+81 "Mohd Fareq Abd Malek" (1631374592)
+00:34:12.529 --> 00:34:28.799
+Zero minus zero -90, you get -90 degrees. And 16.968 is the the RMS of the voltage and three oms is the.
+
+82 "Mohd Fareq Abd Malek" (1631374592)
+00:34:28.799 --> 00:34:44.849
+It's the resistor, the oms value of the XL. So 16.968 divided by three is 5.656 MPS. Still is this is in RMS.
+
+83 "Mohd Fareq Abd Malek" (1631374592)
+00:34:44.849 --> 00:34:59.939
+And MPS and now it is nine -90 degrees. So if you want to rewrite it back into the conventional way with a sign, the long expression.
+
+84 "Mohd Fareq Abd Malek" (1631374592)
+00:34:59.939 --> 00:35:18.479
+So sign, you're right here -90 degrees, right? Because here is -90, the current, and here 5.656. What, why do I multiply here this current of two?
+
+85 "Mohd Fareq Abd Malek" (1631374592)
+00:35:18.479 --> 00:35:37.259
+Yes, to get back the big value because when you write the, in terms of sign omigaty and so forth, you must write the amplitude in form of the big value. So with that, let's go to the, the next, the next question.
+
+86 "Mohd Fareq Abd Malek" (1631374592)
+00:35:37.259 --> 00:35:55.529
+Well, why is it, why multiply with squared of two? Why multiply with square root of two? Why multiply with square root of two?
+
+87 "Mohd Fareq Abd Malek" (1631374592)
+00:36:05.819 --> 00:36:21.809
+So why multiply whisper of two? Because ok in the So I think you can answer that. So let's continue with, and then don't forget to draw.
+
+88 "Mohd Fareq Abd Malek" (1631374592)
+00:36:21.809 --> 00:36:37.469
+Cause the question asked sketch sketch the V and I curves, so B, B is at zero degrees, and I is at 90 degrees and the current is lagging. Lagging means.
+
+89 "Mohd Fareq Abd Malek" (1631374592)
+00:36:37.469 --> 00:36:54.269
+It appears later on the it's crossed later in the x axis, so it means at this 90 degrees, 90 degrees. So.
+
+90 "Mohd Fareq Abd Malek" (1631374592)
+00:36:54.269 --> 00:37:11.339
+Now you know that you can do any any problem, any issue without any facial is very powerful because let's say the current is five sign omegative plus 30 degrees.
+
+91 "Mohd Fareq Abd Malek" (1631374592)
+00:37:11.339 --> 00:37:26.549
+So you don't need to worry because you convert this into fasal. This is the sanosoidal form, signed form. In the fasal form, you write three point.
+
+92 "Mohd Fareq Abd Malek" (1631374592)
+00:37:26.549 --> 00:37:43.649
+535, because you always convert for correctness you you do in facil the amplitude is in the RMS and plus 30 means you write angle face 30 degrees.
+
+93 "Mohd Fareq Abd Malek" (1631374592)
+00:37:43.649 --> 00:38:00.119
+And now we were asked to fund the voltage. Voltage, oaks laws states, I multiply by impedance. Voltage is I R but there's NO R So I multiply by ZL And I is.
+
+94 "Mohd Fareq Abd Malek" (1631374592)
+00:38:00.119 --> 00:38:15.690
+5.3 .535 angle 30 and ZL, is four oms, four oms. And we know why do you write 90?
+
+95 "Mohd Fareq Abd Malek" (1631374592)
+00:38:15.690 --> 00:38:30.990
+Because, the, the voltage, the voltage leads because the current is at 30 degrees in inductor circuit.
+
+96 "Mohd Fareq Abd Malek" (1631374592)
+00:38:30.990 --> 00:38:47.040
+The voltage leads the current by 90 degrees. So we write the voltage at plus 90, but at the end, due to the facil multiplication, 30 plus 90 is 01:20 degrees.
+
+97 "Mohd Fareq Abd Malek" (1631374592)
+00:38:47.040 --> 00:39:07.040
+And multiplication of two complex numbers or two phases mean the amplitude will be multiplied together to to obtain 14.140. And if we want to convert back to the long expression, to long expression you still you have to remember it is in the peak, not.
+
+98 "Mohd Fareq Abd Malek" (1631374592)
+00:39:07.040 --> 00:39:26.730
+RMS, so you need to multiply by square root of two and then you have to write side of 01:20 degrees, 01:20 degrees. And you can now see that you can now sketch the curve.
+
+99 "Mohd Fareq Abd Malek" (1631374592)
+00:39:26.730 --> 00:39:42.240
+Easier because you can see here voltage, 01:20. So at plus means leading with 01:20, this is voltage. The current.
+
+100 "Mohd Fareq Abd Malek" (1631374592)
+00:39:42.240 --> 00:40:01.140
+Lead leading the reference by 30 degrees, so this is 30 degrees. Three degrees, and this is 01:20. So, this, this is a very useful techniques the facial form.
+
+101 "Mohd Fareq Abd Malek" (1631374592)
+00:40:01.140 --> 00:40:17.190
+So for the capacitor, can you tell me, again, as a revision, current leads the voltage or current lacks the voltage? Currently it's yeah, currently it's the voltage. So have that in mind when you do the circuit.
+
+102 "Mohd Fareq Abd Malek" (1631374592)
+00:40:17.190 --> 00:40:35.940
+So if, this means the voltage is 15, signed omegative, don't forget to convert it into RMS, 15 peak means 10.605 RMS and you can write it as zero degrees because this is the.
+
+103 "Mohd Fareq Abd Malek" (1631374592)
+00:40:35.940 --> 00:40:51.720
+This is what you are given zero degrees and the current this voltage over impedance, but you know the current leads the voltage, so you write.
+
+104 "Mohd Fareq Abd Malek" (1631374592)
+00:40:51.720 --> 00:41:09.210
+The, the impedance XC of -90, ok? So, XC is -90.
+
+105 "Mohd Fareq Abd Malek" (1631374592)
+00:41:09.210 --> 00:41:25.710
+XL, is plus 19, but if you remember, I draw it the, the imaginary and real parts.
+
+106 "Mohd Fareq Abd Malek" (1631374592)
+00:41:25.710 --> 00:41:40.710
+It's XC we have done in the it's here and XL, is here and this to show that it's -90 and to show.
+
+107 "Mohd Fareq Abd Malek" (1631374592)
+00:41:40.710 --> 00:41:58.890
+That it is plus 19. So when you see the impedance, write the XC but do not forget to write -19. When you see the impedance for inductor, right? That means write XL, but do not forget the angle.
+
+108 "Mohd Fareq Abd Malek" (1631374592)
+00:41:58.890 --> 00:42:14.280
+90 degrees, ok? 90 degrees. So this is impedance, impedance of L impedance of C, is xc.
+
+109 "Mohd Fareq Abd Malek" (1631374592)
+00:42:14.280 --> 00:42:32.070
+And XC is, oh, Omega L sorry this XL is equal to Omega L, and XC is equals to one over.
+
+110 "Mohd Fareq Abd Malek" (1631374592)
+00:42:32.070 --> 00:42:51.450
+Okay so this is this is the summaries for what you for what for today's I mean to some important things that you, you need to memorize.
+
+111 "Mohd Fareq Abd Malek" (1631374592)
+00:42:51.450 --> 00:43:08.580
+So that it's easy for you to for your circuits solving circuit solving so e.g. here I think it's already shown.
+
+112 "Mohd Fareq Abd Malek" (1631374592)
+00:43:08.580 --> 00:43:25.200
+Same, see this is another example. So if you are given six, I equals to six signed omegative -60, so immediately you can say, you can write here, the.
+
+113 "Mohd Fareq Abd Malek" (1631374592)
+00:43:25.200 --> 00:43:41.220
+The amplitude angle -60, but always have a good practice this is a peak. So this amplitude when you write in phaser is a RMS.
+
+114 "Mohd Fareq Abd Malek" (1631374592)
+00:43:41.220 --> 00:43:57.210
+So you multiply or you divide, by a spend of two. That's why it is six, you get 4.242 MPS. And then.
+
+115 "Mohd Fareq Abd Malek" (1631374592)
+00:43:57.210 --> 00:44:14.880
+Impedence the Z So just write again what we did the last slides. Z C is XC, the angle.
+
+116 "Mohd Fareq Abd Malek" (1631374592)
+00:44:14.880 --> 00:44:33.270
+-90, that L impedence of L sorry this one is here, XL, the angle, don't forget the angle nine pdbs.
+
+117 "Mohd Fareq Abd Malek" (1631374592)
+00:44:33.270 --> 00:44:50.760
+So XC is, is equals to one over omega C And XL is equals to omega L, Yeah Omega L.
+
+118 "Mohd Fareq Abd Malek" (1631374592)
+00:44:50.760 --> 00:45:06.420
+And this unit is in omps. Unit is in poms. And here we can see that C is XC but don't forget to write -90 and.
+
+119 "Mohd Fareq Abd Malek" (1631374592)
+00:45:06.420 --> 00:45:24.540
+I is, and I is 4.242, RMS value with -60 and multiplication of two phases, the amplitudes are multiplied together and the phase.
+
+120 "Mohd Fareq Abd Malek" (1631374592)
+00:45:24.540 --> 00:45:39.630
+The angles are added together. So when we have that, we have this and when we want to rewrite it in terms of the long expression solar expression, don't forget to convert.
+
+121 "Mohd Fareq Abd Malek" (1631374592)
+00:45:39.630 --> 00:45:55.620
+For correctness, because this must be written as a peak, so peak means the RMS must be converted by multiplying by square of two together.
+
+122 "Mohd Fareq Abd Malek" (1631374592)
+00:45:55.620 --> 00:46:10.740
+With a peak amplitude and then write a sign omega T minus 01:50. So some students might ask.
+
+123 "Mohd Fareq Abd Malek" (1631374592)
+00:46:10.740 --> 00:46:26.940
+So, this is peak. At the end, I want a peak, so why do I need to convert and then reconvert again? Why not I just work in peak? But I keep in mind that it's always peak.
+
+124 "Mohd Fareq Abd Malek" (1631374592)
+00:46:26.940 --> 00:46:43.950
+Yes, you you can I still will give you, the full marks, but as a good practice, good habit, you, so that you know that when you write in phase you.
+
+125 "Mohd Fareq Abd Malek" (1631374592)
+00:46:43.950 --> 00:46:59.520
+The standard format is RMS, if we, so that's why we call impedance. So for the, for the past six, seven weeks.
+
+126 "Mohd Fareq Abd Malek" (1631374592)
+00:46:59.520 --> 00:47:15.090
+We just deal with resistance resistance because all we did was resistance resistance, right? Resistance because we did with resistors.
+
+127 "Mohd Fareq Abd Malek" (1631374592)
+00:47:15.090 --> 00:47:30.540
+But since we have, inductor, we cannot call, it's not appropriate to call resistance anymore. So that's why we we call impedance.
+
+128 "Mohd Fareq Abd Malek" (1631374592)
+00:47:30.540 --> 00:47:48.420
+So evidence is like a big term umbrella. It it can be resist resistors, it can be under each the term or XC. So it's like to include everything.
+
+129 "Mohd Fareq Abd Malek" (1631374592)
+00:47:48.420 --> 00:48:03.510
+Resistors, inductors or capacitors, so we call it impedance. So this is like a box inside it could be R or could be, inductor.
+
+130 "Mohd Fareq Abd Malek" (1631374592)
+00:48:03.510 --> 00:48:20.880
+Or could be the faster, but we don't as an overall we call them impedance now from now onwards. So if we have impedance Z one and Z two and Z three connected in series, so the total.
+
+131 "Mohd Fareq Abd Malek" (1631374592)
+00:48:20.880 --> 00:48:38.370
+Total as a whole is simply Z one plus Z two plus Z three. So that's why I said the box Z one could be a resistor. Resistor is just simple RZ2 could be, inductor.
+
+132 "Mohd Fareq Abd Malek" (1631374592)
+00:48:38.370 --> 00:48:54.660
+So J Omega L So just observe, this is zero plus J Omega L So in the in the curve or in the real and imaginary curve.
+
+133 "Mohd Fareq Abd Malek" (1631374592)
+00:48:54.660 --> 00:49:12.330
+Real and imagery curve complex numbers zero is here plus J is 90 degrees, so it's it's here, so zero plus the Omega L so.
+
+134 "Mohd Fareq Abd Malek" (1631374592)
+00:49:12.330 --> 00:49:30.060
+This is rectangular or you can, from here we know that this the amplitude, the amplitude, and 90 degrees, ok? 90 degrees.
+
+135 "Mohd Fareq Abd Malek" (1631374592)
+00:49:30.060 --> 00:49:45.390
+So similarly, if this is a capacitor, the Z three is one over J omega C, ok? One over J omega C If it is inductor J Omega L.
+
+136 "Mohd Fareq Abd Malek" (1631374592)
+00:49:45.390 --> 00:50:03.720
+If it is fully capacity is one overgacy. If it's registered then it's quite simple, it's just out. So now, that's the beauty of the facil.
+
+137 "Mohd Fareq Abd Malek" (1631374592)
+00:50:03.720 --> 00:50:20.850
+There's a diagram because if we have register, so this our owns J Omega L oms, if you have inductor, one over J Omega C oms. Okay, so if we.
+
+138 "Mohd Fareq Abd Malek" (1631374592)
+00:50:20.850 --> 00:50:37.770
+We want to get a Z total, we add because that total is Z one plus Z two plus Z three, so R plus J omega L plus one over J omega C.
+
+139 "Mohd Fareq Abd Malek" (1631374592)
+00:50:37.770 --> 00:50:57.720
+So when we have a rectangular format, this is rectangular format, right? So the real part will add with any real part than imaginary part. So, it will be added to the imaginary part, but I will write it one more step.
+
+140 "Mohd Fareq Abd Malek" (1631374592)
+00:50:57.720 --> 00:51:13.920
+So R plus J So this omega L, I can This actually this can be XL as a as a symbol plus one.
+
+141 "Mohd Fareq Abd Malek" (1631374592)
+00:51:13.920 --> 00:51:33.920
+One over J And one over omegacy, is actually, one over omegacy is actually XC.
+
+142 "Mohd Fareq Abd Malek" (1631374592)
+00:51:33.920 --> 00:51:52.680
+So XC And according to complex number theory, complex number theory are, plus J XL cause according to complex number one over J.
+
+143 "Mohd Fareq Abd Malek" (1631374592)
+00:51:52.680 --> 00:52:12.680
+And it's equals to, can be written as minus J So one over J here can be written as minus J XC. So that's why it this comes to R plus JXM minus jxe. So if we.
+
+144 "Mohd Fareq Abd Malek" (1631374592)
+00:52:12.680 --> 00:52:30.330
+We want to, add them together, we can see R is amplitude because R is always zero degrees, ok? Homes is zero degrees. This one.
+
+145 "Mohd Fareq Abd Malek" (1631374592)
+00:52:30.330 --> 00:52:48.420
+The amplitude plus XL is 90 degrees, the XL is 90 degrees, and this one, the amplitude minus J means -90.
+
+146 "Mohd Fareq Abd Malek" (1631374592)
+00:52:48.420 --> 00:53:03.870
+So if we use this and start drawing the facial diagrams, so the R is the red one, it's zero degrees and we it has a certain amplitude, so it will be.
+
+147 "Mohd Fareq Abd Malek" (1631374592)
+00:53:03.870 --> 00:53:21.150
+Here, ok? The blue one, it has a certain amplitude, but it is here because it's 90 degrees, ok?
+
+148 "Mohd Fareq Abd Malek" (1631374592)
+00:53:21.150 --> 00:53:39.960
+And another red one or should be different color, it has a certain amplitude and it should be at -90 degrees. So if we want to add them all together as here to to get a Z total, so we start with arm, which is these arrows.
+
+149 "Mohd Fareq Abd Malek" (1631374592)
+00:53:39.960 --> 00:53:59.820
+From here to here, we stop here. Since we want to add them, so we take the blue one, we add here to go here, and the last one, we take the capacity FC which is going down back because XL is going up.
+
+150 "Mohd Fareq Abd Malek" (1631374592)
+00:53:59.820 --> 00:54:14.940
+Stop here and we add the XC, my XC is, going down back because it's here. So, so the resultant, so we start from here stop.
+
+151 "Mohd Fareq Abd Malek" (1631374592)
+00:54:14.940 --> 00:54:32.490
+XL until you stop, and then XC is in the opposite direction and the but the amplitude here is a bit less and so we stop here. So the the final is from the origin to here.
+
+152 "Mohd Fareq Abd Malek" (1631374592)
+00:54:32.490 --> 00:54:50.160
+The final to get a Z T this is the black, the black arrows is the final Z total Z total, the final Z total. So we can see that.
+
+153 "Mohd Fareq Abd Malek" (1631374592)
+00:54:50.160 --> 00:55:05.970
+Zachti is So there's some degrees here, of course, some degrees, so that's why if we have fully fully inducted, just an inductor.
+
+154 "Mohd Fareq Abd Malek" (1631374592)
+00:55:05.970 --> 00:55:23.340
+We can, of course it is 9090 degrees. A fully capacitor is minus nine three, but a combination of inductor capacitor and resistor.
+
+155 "Mohd Fareq Abd Malek" (1631374592)
+00:55:23.340 --> 00:55:43.340
+So we depending whichever is stronger, stronger in terms of plus and minus, so at the end you settle here, so at a certain angle. It's not 90 degrees or it's not zero or it's not -93 but a certain numbers. If we have a combination of resistor.
+
+156 "Mohd Fareq Abd Malek" (1631374592)
+00:55:43.340 --> 00:55:49.260
+And inductor in 1 s. But if it is fully inductor or fully.
+
+157 "Mohd Fareq Abd Malek" (1631374592)
+00:55:49.260 --> 00:56:08.250
+Capacity and it's always 90 and -90, but 90 degrees and -90, but if a fully inductor zero degrees cause inductor, sorry, fully resistor is a zero degrees zero degrees, so resistor.
+
+158 "Mohd Fareq Abd Malek" (1631374592)
+00:56:08.250 --> 00:56:24.000
+The Pastor inductor. Pastor has angle and resister is zero degrees. Combination resistor capacitor, inductor and so forth. We have proven here.
+
+159 "Mohd Fareq Abd Malek" (1631374592)
+00:56:24.000 --> 00:56:39.270
+Because of this, it settles here and it's not zero, not 90, not -90, but some value of data. So, I have I have shown.
+
+160 "Mohd Fareq Abd Malek" (1631374592)
+00:56:39.270 --> 00:56:54.510
+Just now the steps, this is just like the sentence so as a important note here, in here I has been taken to be the reference.
+
+161 "Mohd Fareq Abd Malek" (1631374592)
+00:56:54.510 --> 00:57:12.630
+The current is taken as a reference at zero degrees, so zero degrees. That's why in many things I always start with current. Current leads, I'll say current leads or current legs voltage, current leads.
+
+162 "Mohd Fareq Abd Malek" (1631374592)
+00:57:12.630 --> 00:57:30.810
+I don't start with voltage because to make it a good practice or good habit, to show that in many calculation, current is the current is the reference ok current is the reference. Okay.
+
+163 "Mohd Fareq Abd Malek" (1631374592)
+00:57:30.810 --> 00:57:46.260
+Current is the reference. So can I ask you, oh, why is it not a larging.
+
+164 "Mohd Fareq Abd Malek" (1631374592)
+00:57:46.260 --> 00:58:03.930
+So this, an example of.
+
+165 "Mohd Fareq Abd Malek" (1631374592)
+00:58:03.930 --> 00:58:19.470
+Serious connection of impedances. So I would like to ask you, what is ZAP total? So this means.
+
+166 "Mohd Fareq Abd Malek" (1631374592)
+00:58:19.470 --> 00:58:36.600
+If you I draw like this, this is like as a just draw it as a box, so that one and here is another box, Z two. Yep, so.
+
+167 "Mohd Fareq Abd Malek" (1631374592)
+00:58:36.600 --> 00:58:54.840
+This means that total is that one plus Z two, right? Z one plus Z two. Similarly, if we treat it as a box, Z1Z2 and Z three, so we add them. Here as a box set 1Z2Z3 and Z four.
+
+168 "Mohd Fareq Abd Malek" (1631374592)
+00:58:54.840 --> 00:59:10.350
+So what will be the, that total here? That one is 6.8, and how many homes? So that's 6.8 XL is already.
+
+169 "Mohd Fareq Abd Malek" (1631374592)
+00:59:10.350 --> 00:59:30.350
+Six 8.2 ω is already given so 6.8 plus 8.2 oms. There are 2 ω plus six plus ten because they are in series. So let's I hope you can answer cause it's already in oms, so don't worry, it's not in Henry's or Farhax so it's already given to you in.
+
+170 "Mohd Fareq Abd Malek" (1631374592)
+00:59:30.350 --> 00:59:47.190
+The owns so impedance in series you just add them together. See the next question is as follows.
+
+171 "Mohd Fareq Abd Malek" (1631374592)
+00:59:54.690 --> 01:00:10.410
+What is Zach Zach total? I think it's referring to, 1st one, the 1st column, the 1st figure on the left.
+
+172 "Mohd Fareq Abd Malek" (1631374592)
+01:00:14.850 --> 01:00:31.560
+The 1st, the 1st figure on the left. We have three figures so the 1st figures, the 1st figure. Okay, let's do the 2nd figures, the 2nd figures.
+
+173 "Mohd Fareq Abd Malek" (1631374592)
+01:00:31.560 --> 01:00:50.310
+What is, that total on the middle? That, what is the zap total here in the middle, in the middle? Okay.
+
+174 "Mohd Fareq Abd Malek" (1631374592)
+01:00:50.310 --> 01:01:09.750
+Let me see if the question is finished or not. How many more seconds? Yeah, just wait for 30 s more. This question that is ongoing is on the left. But the next question is the middle figure, the middle figure.
+
+175 "Mohd Fareq Abd Malek" (1631374592)
+01:01:09.750 --> 01:01:25.980
+What will be the exact total for the, this figure in the middle? What will be the exact total for the figure in the middle? So let me see how many minutes more.
+
+176 "Mohd Fareq Abd Malek" (1631374592)
+01:01:25.980 --> 01:01:41.700
+Left, 321 0 s. So next question, what will be that total?
+
+177 "Mohd Fareq Abd Malek" (1631374592)
+01:01:41.700 --> 01:01:57.270
+In the middle. Remember, remember what is exceed six but actually.
+
+178 "Mohd Fareq Abd Malek" (1631374592)
+01:01:57.270 --> 01:02:17.160
+Minus J something, right? Minus it's related to minus J If it's inductor, it's related to plus J it's related to plus J plus J something.
+
+179 "Mohd Fareq Abd Malek" (1631374592)
+01:02:17.160 --> 01:02:35.580
+Can I see, your answers, induct capacitor is related re related to minus G inductor is related to last G But before that, I will.
+
+180 "Mohd Fareq Abd Malek" (1631374592)
+01:02:35.580 --> 01:02:52.770
+Retrieve the answer for the previous answer, so now I will retrieve the answer.
+
+181 "Mohd Fareq Abd Malek" (1631374592)
+01:02:56.340 --> 01:03:13.890
+Okay, and so that total is 6.8, plus J 8.2, ok?
+
+182 "Mohd Fareq Abd Malek" (1631374592)
+01:03:13.890 --> 01:03:32.010
+That total is 6.8 plus J 8.2 and the next one, so.
+
+183 "Mohd Fareq Abd Malek" (1631374592)
+01:03:32.010 --> 01:03:51.480
+So this one, the next one, I will rebuild this total, so twelve minus J six.
+
+184 "Mohd Fareq Abd Malek" (1631374592)
+01:03:51.480 --> 01:04:09.150
+So if you want to convert it to, to fazer so you can, you can do that, get the amplitude and finish.
+
+185 "Mohd Fareq Abd Malek" (1631374592)
+01:04:09.150 --> 01:04:24.630
+20 s, ok, so I just click the next one, what is the ZAC total for the last one? The last one?
+
+186 "Mohd Fareq Abd Malek" (1631374592)
+01:04:33.060 --> 01:04:52.320
+Okay. So for a quick in one hour's time.
+
+187 "Mohd Fareq Abd Malek" (1631374592)
+01:04:52.320 --> 01:05:12.320
+I will I just inductor is the face angle, right? Just revise the face angle. Face angle, the average value is quite a good quiz. It's got quite a good quiz. Just like.
+
+188 "Mohd Fareq Abd Malek" (1631374592)
+01:05:12.320 --> 01:05:28.380
+You can finish it fast. I just give straightforward please. So in this one, one plus four, J.
+
+189 "Mohd Fareq Abd Malek" (1631374592)
+01:05:28.380 --> 01:05:45.120
+Plus three J plus seven J, ok? So if we have a combination of registered inductor and expressor, we can use our knowledge that.
+
+190 "Mohd Fareq Abd Malek" (1631374592)
+01:05:45.120 --> 01:06:01.560
+This is the amplitude is, inductor is related to plus G and the capacitor is related to minus G Once you know the knowledge, e.g..
+
+191 "Mohd Fareq Abd Malek" (1631374592)
+01:06:01.560 --> 01:06:18.180
+Here is four J and capacitor is minus J five. So that total is three plus J four minus J five. So this is the final answer, but if you want to write in terms of facil.
+
+192 "Mohd Fareq Abd Malek" (1631374592)
+01:06:18.180 --> 01:06:35.310
+You can convert it by doing the square root of three square plus one square for the amplitude and you by doing the angle tangent minus one, minus one over three. For the 2nd part.
+
+193 "Mohd Fareq Abd Malek" (1631374592)
+01:06:35.310 --> 01:06:53.100
+Again XL is related to plus J And XC is related to minus J So this is 1000 plus 2000 J plus 6000 J.
+
+194 "Mohd Fareq Abd Malek" (1631374592)
+01:06:53.100 --> 01:07:09.990
+-4000 J So the the real parts are added together and the imagery part are added together. So you can get the answer and the last part, the last part.
+
+195 "Mohd Fareq Abd Malek" (1631374592)
+01:07:09.990 --> 01:07:27.750
+This one. So this is something slightly con not so confusing. I would like to ask you, everything was simple in A and B I just add in the A, e.g..
+
+196 "Mohd Fareq Abd Malek" (1631374592)
+01:07:27.750 --> 01:07:47.490
+Three plus four J minus five G for B, it's 1000, plus 2000 J.
+
+197 "Mohd Fareq Abd Malek" (1631374592)
+01:07:47.490 --> 01:08:04.470
+Plus, 6000 J -4000 J This is for B, but why is it for C we cannot do that. We cannot just.
+
+198 "Mohd Fareq Abd Malek" (1631374592)
+01:08:04.470 --> 01:08:20.250
+Add them like this. Can someone tell me? Yes. So we have to differentiate L and XL and they are different. L.
+
+199 "Mohd Fareq Abd Malek" (1631374592)
+01:08:20.250 --> 01:08:38.250
+An XL and C and XC because C is in Farax and XC is in owns. L is in Henry's, and XL is in owns.
+
+200 "Mohd Fareq Abd Malek" (1631374592)
+01:08:38.250 --> 01:08:55.770
+So, the R here is in oms. R is always in oms quite easy. So here it is given not in oms. For the inductor it's given in Henry. So we need to do small steps, additional steps.
+
+201 "Mohd Fareq Abd Malek" (1631374592)
+01:08:55.770 --> 01:09:11.220
+To convert to to become XL or OMS. Similarly see here is in Farax, not in homes. This also inductor in Henry's not in oms. How to convert it?
+
+202 "Mohd Fareq Abd Malek" (1631374592)
+01:09:11.220 --> 01:09:31.220
+XL is equals to J omega L XL, XC is equals to one over J omega C, ok? So XL is J omega L and the L is 40 million hundreds.
+
+203 "Mohd Fareq Abd Malek" (1631374592)
+01:09:31.220 --> 01:09:47.100
+Put it in here, put it in here. For the 2nd inductor is 200 Millijandris J Omega L, put it in, here.
+
+204 "Mohd Fareq Abd Malek" (1631374592)
+01:09:47.100 --> 01:10:03.600
+But can I ask you, what is the value of Omega? It's not given in the question. How do you know what to put for the omega? Yes. Omega is two by So here.
+
+205 "Mohd Fareq Abd Malek" (1631374592)
+01:10:03.600 --> 01:10:19.650
+Is more a little bit more steps F Omega is not given and ohms is not given. 1st year is we are given Henry's and Farax.
+
+206 "Mohd Fareq Abd Malek" (1631374592)
+01:10:19.650 --> 01:10:37.500
+We are given that, but we were not given to Omega and we were not given the homes for the inductors and capacitors. So we want to find Omega and we know Omega is two by F.
+
+207 "Mohd Fareq Abd Malek" (1631374592)
+01:10:37.500 --> 01:10:55.290
+And we do not, we were given F So F is 1 khz. F is 1 khz. We were not given Omega for the, it means Omega for the inductors.
+
+208 "Mohd Fareq Abd Malek" (1631374592)
+01:10:55.290 --> 01:11:11.190
+We were not given, and then Omega owns sorry owns for the passengers were not given. So we need to find it because XL is J.
+
+209 "Mohd Fareq Abd Malek" (1631374592)
+01:11:11.190 --> 01:11:27.210
+Omega L and the unit now is in oms. X C is one over J Omega C And now you get the units in OMS.
+
+210 "Mohd Fareq Abd Malek" (1631374592)
+01:11:27.210 --> 01:11:45.210
+So now you can obtain the oms, the oms for the inductor, the homes for the capacitor, and you obtain the omega as well. So once you do that, you convert all of these to homes, then you can add them like previously, like before.
+
+211 "Mohd Fareq Abd Malek" (1631374592)
+01:11:45.210 --> 01:12:00.720
+When all everything is in oms, so it's quite very simple to add all together do you still remember votage divider role in week two, three?
+
+212 "Mohd Fareq Abd Malek" (1631374592)
+01:12:00.720 --> 01:12:20.720
+So you you still remember current divider rule, the same applies in today's and beyond. E.g., if we were, if we are given because in the 1st three in the earlier weeks.
+
+213 "Mohd Fareq Abd Malek" (1631374592)
+01:12:20.720 --> 01:12:40.880
+Do you agree that this is voltage divider? This is the voltage divider, right? So what is voltage divider formula? If you want to find VR V1V1 is the register one divided by register one plus register two multiplied by.
+
+214 "Mohd Fareq Abd Malek" (1631374592)
+01:12:40.880 --> 01:12:58.710
+The, the total voltage is twelve votes. Same like this. So if you want to find the R, this means the impedance of R.
+
+215 "Mohd Fareq Abd Malek" (1631374592)
+01:12:58.710 --> 01:13:16.770
+Divided, by the total impedance R plus in this case it's XC in oms multiply by the E So.
+
+216 "Mohd Fareq Abd Malek" (1631374592)
+01:13:16.770 --> 01:13:34.950
+It's all the same concepts can be reused, I mean can be reused. No new new concept is still owns NO voltage dividers, current divider, and so forth. The only issue, be careful, extra careful because now.
+
+217 "Mohd Fareq Abd Malek" (1631374592)
+01:13:34.950 --> 01:13:50.310
+It's like it is alternating current AC, and when there is a face and so forth, there is a angle. So there is an angle, so I hope.
+
+218 "Mohd Fareq Abd Malek" (1631374592)
+01:13:50.310 --> 01:14:05.670
+You have extra, you'll be extra careful in the steps because there are angles or face between them. So here we I don't show steps, just be careful and just to know that.
+
+219 "Mohd Fareq Abd Malek" (1631374592)
+01:14:05.670 --> 01:14:21.780
+The, the voltage divider rule is still valid, still valid. But here are you have to be careful, practice slowly multiplication.
+
+220 "Mohd Fareq Abd Malek" (1631374592)
+01:14:21.780 --> 01:14:36.780
+Is add multiply the amplitude and add the angles and if you divide divide the amplitudes and substract the angles and so forth. And use your techniques.
+
+221 "Mohd Fareq Abd Malek" (1631374592)
+01:14:36.780 --> 01:14:53.490
+Here it's fasal and here is rectangular format. So it's better to, because it's division so three minus J four it's better to convert three minus J four into phaser, then only you can divide.
+
+222 "Mohd Fareq Abd Malek" (1631374592)
+01:14:53.490 --> 01:15:11.430
+Easily because phaser divide by phaser is better. It's, it's easy. It's easy. So this is now depending on your practice and your skills on how to divide face or convert a rectangular to face and so forth.
+
+223 "Mohd Fareq Abd Malek" (1631374592)
+01:15:11.430 --> 01:15:31.350
+So it's still the same voltage divider rules in the 1st 3456 six weeks in the cost. So that's an example, we are given the voltage source.
+
+224 "Mohd Fareq Abd Malek" (1631374592)
+01:15:31.350 --> 01:15:48.480
+And we got given we are out of here, we are given the inductor and we are given the capacitor. So I redraw it in this manner so I know that some students already know, but I just draw it so that I can show you that.
+
+225 "Mohd Fareq Abd Malek" (1631374592)
+01:15:48.480 --> 01:16:03.930
+This is, we can use the voltage divider rule concept, find the unknown voltages VR, V L V C and V one. So V one.
+
+226 "Mohd Fareq Abd Malek" (1631374592)
+01:16:03.930 --> 01:16:20.040
+This from this point, go to here, this point, so this point. So I hope you can see if you look at here, the V one is a combination is actually.
+
+227 "Mohd Fareq Abd Malek" (1631374592)
+01:16:20.040 --> 01:16:36.990
+Just VC plus VL, right? The voltage cross from this point to this point is simply VC plus VL. So if we found VR.
+
+228 "Mohd Fareq Abd Malek" (1631374592)
+01:16:36.990 --> 01:16:53.520
+VL and VC, at the end V one is simply VC plus VL. So then how to find VR, VR is voltage divider, means what is the oms for this six, right?
+
+229 "Mohd Fareq Abd Malek" (1631374592)
+01:16:53.520 --> 01:17:09.510
+Six oms. So I draw it here, six, divided by the total oms, so six, and the olds for the, this one is nine. The oms.
+
+230 "Mohd Fareq Abd Malek" (1631374592)
+01:17:09.510 --> 01:17:25.680
+For the capacity is 17, it's already all in oms, very good, very nice. Multiply by the E, and you will get V one. So it's still voltage divider.
+
+231 "Mohd Fareq Abd Malek" (1631374592)
+01:17:25.680 --> 01:17:44.220
+Just like week three four and five. The only thing there is a angle you have to consider the face that when you do the division multiplication, edition, you have to be good to practice how to convert, which one to convert and so forth.
+
+232 "Mohd Fareq Abd Malek" (1631374592)
+01:17:44.220 --> 01:18:01.740
+So as I mentioned, the VR is simply the oms or ZR over ZR plus zr plus Z multiplied by E So the only thing that ZR is because it's a register, six oms.
+
+233 "Mohd Fareq Abd Malek" (1631374592)
+01:18:01.740 --> 01:18:16.890
+Zero degrees. That L because it's the inductor nine oms, don't forget 90 degrees. That's see because it's a capacitor, 17 oms given, but do not forget.
+
+234 "Mohd Fareq Abd Malek" (1631374592)
+01:18:16.890 --> 01:18:31.890
+-90. The voltage is already given 50 v with 30 degrees. So then now it's your skills, your experience, your practice.
+
+235 "Mohd Fareq Abd Malek" (1631374592)
+01:18:31.890 --> 01:18:47.970
+Phaser multiply by phaser, six multiply by 50 is 300 zero plus 30 is 30. So now you can see it's quite awkward at the denominators because phaser plus phaser plus phaser not very.
+
+236 "Mohd Fareq Abd Malek" (1631374592)
+01:18:47.970 --> 01:19:05.580
+Not very straightforward, so if you use your calculator, you convert this to, from pole to become racked, so to become in the form of A plus JB, so you convert this.
+
+237 "Mohd Fareq Abd Malek" (1631374592)
+01:19:05.580 --> 01:19:23.250
+I have to become in the form of, a C plus JD and you convert this in the form of, E plus JF, so then you add.
+
+238 "Mohd Fareq Abd Malek" (1631374592)
+01:19:23.250 --> 01:19:38.520
+All the real parts together and you add all the J part together, then you find, you get the final answer, G H.
+
+239 "Mohd Fareq Abd Malek" (1631374592)
+01:19:38.520 --> 01:19:56.190
+After you add, then you convert back to this because this is this one, so the steps are not shown, so this already been converted, ok? This being converted.
+
+240 "Mohd Fareq Abd Malek" (1631374592)
+01:19:56.190 --> 01:20:13.740
+Nine nine angle 90 is J 09:17 angle -90 is is minus J 17, minus J 17.
+
+241 "Mohd Fareq Abd Malek" (1631374592)
+01:20:13.740 --> 01:20:32.520
+So, now you put back and you can see, you can observe here division, don't we don't like rectangular format in here so we convert six minus GA eight into column. Then only we can divide them nicely.
+
+242 "Mohd Fareq Abd Malek" (1631374592)
+01:20:32.520 --> 01:20:49.470
+Angle, the amplitude will be divided by amplitude and the angle will be deducted by the angle, ok? So, that is the voltage divider rule.
+
+243 "Mohd Fareq Abd Malek" (1631374592)
+01:20:49.470 --> 01:21:04.650
+It can be, e.g., if you want a VL, so I write it here VL VL is nine oms. But remember nine oms is an inductor. Don't forget.
+
+244 "Mohd Fareq Abd Malek" (1631374592)
+01:21:04.650 --> 01:21:23.520
+90 degrees. And then the total VR plus VL plus VC, but the good thing is you already did it because you already did it ZR plus the L plus Z you found that it is.
+
+245 "Mohd Fareq Abd Malek" (1631374592)
+01:21:23.520 --> 01:21:38.790
+10th angle -53.13. So ten angle -53.13. So, so now it's be becoming.
+
+246 "Mohd Fareq Abd Malek" (1631374592)
+01:21:38.790 --> 01:21:56.880
+Easier for you, so when you have this, I forgot to multiply by E because voltage divider multiply by E, which is a 50 v angle 30 degrees. So it's very, very nice now.
+
+247 "Mohd Fareq Abd Malek" (1631374592)
+01:21:56.880 --> 01:22:12.330
+Very, very good because all in facil forms multiplication division is very easy in fasal forms. So, you can now obtain.
+
+248 "Mohd Fareq Abd Malek" (1631374592)
+01:22:12.330 --> 01:22:30.060
+VL and similarly, you can now obtain V V across the capacity and I just mentioned also we were asked to find aV1.
+
+249 "Mohd Fareq Abd Malek" (1631374592)
+01:22:30.060 --> 01:22:48.000
+And I already drawn here that V one is simply V VL plus VC. So here V one is VL plus VC, ok?
+
+250 "Mohd Fareq Abd Malek" (1631374592)
+01:22:48.000 --> 01:23:05.490
+So, so we can have, anything, any figures so if if I were you.
+
+251 "Mohd Fareq Abd Malek" (1631374592)
+01:23:05.490 --> 01:23:21.450
+Majority will be in this because we did not have a midterm covering an AC quiz three, even quiz three today, not all. So the material for final exam is.
+
+252 "Mohd Fareq Abd Malek" (1631374592)
+01:23:21.450 --> 01:23:37.320
+All from week one, but I will give you revision but main mainly this like all this AC, if I were you, I will focus on the AC because.
+
+253 "Mohd Fareq Abd Malek" (1631374592)
+01:23:37.320 --> 01:23:52.350
+Is he, as a lectural I will, because the complexity is the angle and so forth, so as a lectural, I will just give a simple voltage divider because.
+
+254 "Mohd Fareq Abd Malek" (1631374592)
+01:23:52.350 --> 01:24:07.440
+But in the, in the beginning, like the beginning material, there is NO angle, so I I might ask current divider or something, KBL, KCL and so forth.
+
+255 "Mohd Fareq Abd Malek" (1631374592)
+01:24:07.440 --> 01:24:23.250
+But here, I will not ask KBL and KCL or complicated for AC because the complication is already on the angles when you do the steps.
+
+256 "Mohd Fareq Abd Malek" (1631374592)
+01:24:23.250 --> 01:24:43.250
+So I will only ask, simple. And as an example, calculate I VR, V L and VC in phase of form, calculate the total power factor, calculate the average power delivered in the 2nd.
+
+257 "Mohd Fareq Abd Malek" (1631374592)
+01:24:43.250 --> 01:25:02.610
+Okay. So you can see here our total is six plus four, the total, the total inductor because inductor in series X.
+
+258 "Mohd Fareq Abd Malek" (1631374592)
+01:25:02.610 --> 01:25:18.930
+The Facetor in series divides, ok? So XL is Omega L, XC is one over Omega C And Omega is 377.
+
+259 "Mohd Fareq Abd Malek" (1631374592)
+01:25:18.930 --> 01:25:34.620
+How do we know? Because Omega is not mentioned here, but remember, it's mentioned sign 3770 is in the form signed Omega T, sign omega T.
+
+260 "Mohd Fareq Abd Malek" (1631374592)
+01:25:34.620 --> 01:25:51.120
+Okay, so this means Omega is 377. Omega is 377. So that total is the resistance plus the impedance of the inductor and impedance of.
+
+261 "Mohd Fareq Abd Malek" (1631374592)
+01:25:51.120 --> 01:26:11.120
+And and add them together and the current ops law is E over Z total, E over Z total. So that's the care, the extra care you need to do because now not just the amplitude but the.
+
+262 "Mohd Fareq Abd Malek" (1631374592)
+01:26:11.120 --> 01:26:14.520
+Since AC or alternating.
+
+263 "Mohd Fareq Abd Malek" (1631374592)
+01:26:14.520 --> 01:26:34.200
+Alternating values or alternating current, it's the angles you need to consider. So the voltage across the resistor is om slaw, I Z of R the voltage across the inductor is omslaw. I multiply Z of L.
+
+264 "Mohd Fareq Abd Malek" (1631374592)
+01:26:34.200 --> 01:26:50.760
+The voltage across the capacity, high multiply Z or C So the concept, the questions are easy, NO NO KCL, NO KBL, NO, current in, current out.
+
+265 "Mohd Fareq Abd Malek" (1631374592)
+01:26:50.760 --> 01:27:07.650
+But the long step is careful on your side to to put inductor is 90 degrees angle 90. Capacitor angle -90 is step by step. But here is not difficult, right? Omslope. V R equals to I.
+
+266 "Mohd Fareq Abd Malek" (1631374592)
+01:27:07.650 --> 01:27:24.630
+There's in fact it's, it's like on slow we learn in week two and week three. So as a tips, I will not ask like.
+
+267 "Mohd Fareq Abd Malek" (1631374592)
+01:27:24.630 --> 01:27:43.170
+KCL or KVL for the AC. Cause the difficulty is already on the careful step for the angle. So in the question in the final exam, the, the, the most difficult for the AC I will ask is that like this?
+
+268 "Mohd Fareq Abd Malek" (1631374592)
+01:27:43.170 --> 01:27:59.550
+We find a voltage like this, find, find the voltage across this. It's, it's already voltage divided a lot, but the careful you need to have is the angles, the angles, the operation.
+
+269 "Mohd Fareq Abd Malek" (1631374592)
+01:27:59.550 --> 01:28:16.260
+So that is for me, if I were you, I like the questions of the AC compared to the questions of the 1st four or five weeks. Cause, 1st, this one you have.
+
+270 "Mohd Fareq Abd Malek" (1631374592)
+01:28:16.260 --> 01:28:36.260
+JCL and then superposition. I will not ask superposition or in in the in the AC, but I will just use what simple voltage divider for the AC questions AC questions. So in the.
+
+271 "Mohd Fareq Abd Malek" (1631374592)
+01:28:36.260 --> 01:28:41.310
+With in the next 30 min coming in the next 30 min, I hope.
+
+272 "Mohd Fareq Abd Malek" (1631374592)
+01:28:41.310 --> 01:29:00.840
+You revise I hope you revise, so for the benefit of you, I will, I will show you, I will.
+
+273 "Mohd Fareq Abd Malek" (1631374592)
+01:29:00.840 --> 01:29:18.870
+Opened the question for quiz three, and, so this is a quiz three, but this is a formula sheet, the normal formula sheet, so you are on Wednesday.
+
+274 "Mohd Fareq Abd Malek" (1631374592)
+01:29:18.870 --> 01:29:34.140
+So, I will, of course I will close this. I cannot show you, right? And so this now I will just give you you came.
+
+275 "Mohd Fareq Abd Malek" (1631374592)
+01:29:34.140 --> 01:29:54.140
+The lecture, so I want to inform what, what will be the questions so you can focus for the quiz three in 30 min in 30 min. I just mentioned average value, average value there is a rectangular up and down so in from here to here.
+
+276 "Mohd Fareq Abd Malek" (1631374592)
+01:29:54.140 --> 01:30:11.490
+Find the average value, do you, do you revise it, average value? I, inductor, inductor, what is the time constant of an inductor?
+
+277 "Mohd Fareq Abd Malek" (1631374592)
+01:30:11.490 --> 01:30:27.750
+How if capacity is not in here because there's only two questions what is tower of inductor is L over R, right? So you have to.
+
+278 "Mohd Fareq Abd Malek" (1631374592)
+01:30:27.750 --> 01:30:45.570
+Memorize that ok, what is the steady state current through the inductor after the switch closes? So inductor, when the switch closes for a long time, it becomes.
+
+279 "Mohd Fareq Abd Malek" (1631374592)
+01:30:45.570 --> 01:31:03.120
+Like an open circuit or short circuit, after a long time, short circuit. So remember that, yeah? So wherever the short circuit is just a wire, ok? A wire, ok, just a wire. And.
+
+280 "Mohd Fareq Abd Malek" (1631374592)
+01:31:03.120 --> 01:31:19.380
+What is the voltage induced in the inductor? V equals to L, D I, by dt? So if I give, if I give the time.
+
+281 "Mohd Fareq Abd Malek" (1631374592)
+01:31:19.380 --> 01:31:36.270
+So you have to do DI by the T So then multiply by L, L is given and you will get the induced voltage, ok? The induced voltage. So.
+
+282 "Mohd Fareq Abd Malek" (1631374592)
+01:31:36.270 --> 01:31:54.389
+I will show you, so, because just for your revision and you come so is your benefits to be given some.
+
+283 "Mohd Fareq Abd Malek" (1631374592)
+01:31:54.389 --> 01:32:14.389
+So, the time is from one.
+
+284 "Mohd Fareq Abd Malek" (1631374592)
+01:32:14.389 --> 01:32:34.289
+And this is wrong.
+
+285 "Mohd Fareq Abd Malek" (1631374592)
+01:32:34.289 --> 01:32:52.799
+And this is you know and maybe some values, right? So that will be L will be given, ok? L will be given. Any reason?
+
+286 "Mohd Fareq Abd Malek" (1631374592)
+01:32:52.799 --> 01:33:10.649
+This is the question of, induced in the.
+
+287 "Mohd Fareq Abd Malek" (1631374592)
+01:33:10.649 --> 01:33:30.209
+The next question that you should revise, the average value, average value and how how to convert RMS to become peak and how to convert peak to become.
+
+288 "Mohd Fareq Abd Malek" (1631374592)
+01:33:30.209 --> 01:33:46.079
+RMS. If the voltage across a capacitor is V equals to 100 signed something plus this one deg 50 degrees and the current is something signed.
+
+289 "Mohd Fareq Abd Malek" (1631374592)
+01:33:46.079 --> 01:34:01.889
+Omega T plus 140 degrees. What is the value of the capacitance? So capacitance, just now we also learned capacitants.
+
+290 "Mohd Fareq Abd Malek" (1631374592)
+01:34:01.889 --> 01:34:21.889
+XL XC is one over omega C What is the face relationship between the voltage and current? When V is 15 signs something plus 30 and I is something minus ten, so.
+
+291 "Mohd Fareq Abd Malek" (1631374592)
+01:34:21.889 --> 01:34:23.759
+Okay.
+
+292 "Mohd Fareq Abd Malek" (1631374592)
+01:34:23.759 --> 01:34:43.759
+Find the frequency of the sign having an angular velocity of this one. The cosigned curve leads the signed curve by how many degrees, ok? So, I hope you have time constant for an inductor. You have a vehicle.
+
+293 "Mohd Fareq Abd Malek" (1631374592)
+01:34:43.759 --> 01:34:44.639
+Is to.
+
+294 "Mohd Fareq Abd Malek" (1631374592)
+01:34:44.639 --> 01:35:04.639
+L DI by DT, the average value of the waveform.
+
+295 "Mohd Fareq Abd Malek" (1631374592)
+01:35:04.639 --> 01:35:12.779
+Okay, What's.
+
+296 "Mohd Fareq Abd Malek" (1631374592)
+01:35:12.779 --> 01:35:29.999
+That's true, so just rewatch that and so that's.
+
+297 "Mohd Fareq Abd Malek" (1631374592)
+01:35:29.999 --> 01:35:45.149
+That's the revision for the, for the quiz tree and with that I will continue with a little bit on our, on our.
+
+298 "Mohd Fareq Abd Malek" (1631374592)
+01:35:45.149 --> 01:36:02.939
+Lecture and I will stop at, maybe 1020 or 1015. Just a little more and I think, you will do well from what I I inform about the revision.
+
+299 "Mohd Fareq Abd Malek" (1631374592)
+01:36:02.939 --> 01:36:20.459
+I think you have studied, but you have studied all these things so you will feel confident when you, you will feel confident now to to to to attempt the quiz in.
+
+300 "Mohd Fareq Abd Malek" (1631374592)
+01:36:20.459 --> 01:36:38.609
+30 min from now, ok? So the total power factor, a power factor will not be asked in the quiz tree. The total power factor.
+
+301 "Mohd Fareq Abd Malek" (1631374592)
+01:36:38.609 --> 01:36:54.119
+Is costita. So costs 48.16 degrees. Because here it's our, we can see that.
+
+302 "Mohd Fareq Abd Malek" (1631374592)
+01:36:54.119 --> 01:37:11.129
+The power factor determined by the angle between the applied voltage E and the resulting current. As I mentioned between voltage and current, between E and I, the angle, the angle of I is.
+
+303 "Mohd Fareq Abd Malek" (1631374592)
+01:37:11.129 --> 01:37:28.469
+The angle of that is -48.16, so costs doesn't matter might cost 48 or cost -48 is still the same answer and 0.667 lagging. Why is it lagging? Because.
+
+304 "Mohd Fareq Abd Malek" (1631374592)
+01:37:28.469 --> 01:37:45.029
+Current is the benchmark, so current is minus, so lagging. Remember when when I say use current as the reference? Because one of the slides.
+
+305 "Mohd Fareq Abd Malek" (1631374592)
+01:37:45.029 --> 01:38:00.269
+Never mind, one of the slides is mentioned use current as the reference. So you can use R over Zti as well, but you can use Costita as well.
+
+306 "Mohd Fareq Abd Malek" (1631374592)
+01:38:00.269 --> 01:38:18.299
+That means the current, the current how how many degrees and its -48 means it's lagging. The total power in what's delivered to the circuit is.
+
+307 "Mohd Fareq Abd Malek" (1631374592)
+01:38:18.299 --> 01:38:35.039
+20 v minus on law EI cost it out, but because there is a power factor, there is, some reduction. So, it's some reduction because of the power factor.
+
+308 "Mohd Fareq Abd Malek" (1631374592)
+01:38:35.039 --> 01:38:50.849
+The phaser diagram, you can see here, so the facial diagram is VL.
+
+309 "Mohd Fareq Abd Malek" (1631374592)
+01:38:50.849 --> 01:39:06.419
+Yeah, VL is here. You see it's in the opposites VR is in the same phase of the current. So.
+
+310 "Mohd Fareq Abd Malek" (1631374592)
+01:39:06.419 --> 01:39:23.849
+Because VL is large, the amplitudes, so VL, VL is large, VC is smaller, so 1st go here, then go back. So we stop at here. So we stop at here.
+
+311 "Mohd Fareq Abd Malek" (1631374592)
+01:39:23.849 --> 01:39:41.129
+And then this is VR, which is the same phase as the current, so we add the VR to get V if the red one is the total, ok? The red one is the S.
+
+312 "Mohd Fareq Abd Malek" (1631374592)
+01:39:41.129 --> 01:40:00.059
+You get VL plus VR minus vc. So, here we can see that XL is Omega L and XC is one over Omega C.
+
+313 "Mohd Fareq Abd Malek" (1631374592)
+01:40:00.059 --> 01:40:16.739
+But the register is still a register, NO NO omega. So therefore, doesn't matter the frequency is zero or increase or what, the R homes is still the same.
+
+314 "Mohd Fareq Abd Malek" (1631374592)
+01:40:16.739 --> 01:40:36.269
+But for the inductor, if the in frequency increases, the XL will, the homes will increase. For a capacitor, when the frequency increase, the homes of the capacitor will reduce.
+
+315 "Mohd Fareq Abd Malek" (1631374592)
+01:40:36.269 --> 01:40:55.469
+So if we have a combination of register capacitance and inductor, so R plus J omega L, plus one over J Omega C for their capacitors. So here we can see at low frequency.
+
+316 "Mohd Fareq Abd Malek" (1631374592)
+01:40:55.469 --> 01:41:12.029
+At low frequency capacitor dominance, right? If we operate at Omega two by F at a low frequency capacitor is more powerful. If at high frequency capacitor reduce.
+
+317 "Mohd Fareq Abd Malek" (1631374592)
+01:41:12.029 --> 01:41:32.029
+Reduces and inductor dominance dominance. So at low frequency, inductor is less effective, so impedance is dominated by resistor and capacitor. At high frequencies, capacitor is less effective and impedance is dominated by.
+
+318 "Mohd Fareq Abd Malek" (1631374592)
+01:41:32.029 --> 01:41:37.199
+Resistance and inductor.
+
+319 "Mohd Fareq Abd Malek" (1631374592)
+01:41:37.199 --> 01:41:55.919
+So I will, this one is in more details so I will not go into detail about the frequency response, ok? And let me check series.
+
+320 "Mohd Fareq Abd Malek" (1631374592)
+01:41:55.919 --> 01:42:15.239
+Yeah, frequency response. So I will skip this because I will not go into detail on the frequency response, so it will not be in the, in the.
+
+321 "Mohd Fareq Abd Malek" (1631374592)
+01:42:15.239 --> 01:42:30.419
+Exam and, so what time is it? Let me check. Parallel AC circuits, ok. So I will, for the benefits so I will stop.
+
+322 "Mohd Fareq Abd Malek" (1631374592)
+01:42:30.419 --> 01:42:46.889
+Here and next week I will continue from here slide number 43. So, for you to revise for your.
+
+323 "Mohd Fareq Abd Malek" (1631374592)
+01:42:46.889 --> 01:43:04.289
+For your quiz three rest 1st before the actual quiz three. So any questions? Thank you and good luck all the best for your quiz three.
+
+324 "Mohd Fareq Abd Malek" (1631374592)
+01:43:04.289 --> 01:43:13.836
+And I already give some hints at that moment just now, ok? It's not.
